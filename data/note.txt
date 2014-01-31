@@ -1,0 +1,5 @@
+
+Git Hub has a repository size cap of 1GB.
+That means that we can't fit all of our data into it.
+This directory is a place holder for a local copy of the data.
+Do not commit the data to the repository.

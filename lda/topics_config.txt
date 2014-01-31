@@ -1,0 +1,7 @@
+[
+	{
+		"id" : "topic_",
+		"count": 50,
+		"proportion": 0.02
+	}
+]

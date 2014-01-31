@@ -1,0 +1,676 @@
+*******************************************************************
+                       TOTAL TOPICS COUNT: 21
+*******************************************************************
+
+
+-------------------------------------------------------------------
+#: 0001  P: .2784    noise
+-------------------------------------------------------------------
+
+.0067 eyes       .0067 think      .0064 never      .0064 something 
+.0054 knew       .0053 thought    .0046 feel       .0044 tell      
+.0042 face       .0042 always     .0041 made       .0039 right     
+.0038 friends    .0037 hand       .0037 smiled     .0036 trying    
+.0035 little     .0034 life       .0034 long       .0033 felt      
+.0032 sure       .0032 happened   .0030 anything   .0030 people    
+.0030 let        .0030 hair       .0030 head       .0029 words     
+.0029 very       .0029 story      .0028 nothing    .0028 good      
+.0027 voice      .0027 boy        .0027 old        .0027 mean      
+.0026 same       .0026 believe    .0025 turned     .0025 hope      
+.0024 remember   .0024 enough     .0024 started    .0024 hear      
+.0023 everything .0023 stop       .0023 mind       .0023 love      
+.0022 place      .0022 maybe      .0022 tried      .0022 bit       
+.0022 almost     .0022 someone    .0021 better     .0021 leave     
+.0021 parents    .0021 course     .0020 keep       .0020 left      
+.0020 wonder     .0020 tears      .0019 without    .0019 might     
+.0019 myself     .0019 hard       .0019 different  .0019 sound     
+.0019 moment     .0018 else       .0018 stared     .0018 quite     
+.0018 actually   .0017 best       .0017 work       .0017 change    
+.0017 arms       .0017 kind       .0017 decided    .0017 waiting   
+.0016 care       .0016 realized   .0016 told       .0016 called    
+.0016 girl       .0015 finally    .0015 fact       .0015 heart     
+.0015 anyone     .0015 dream      .0015 listen     .0015 noticed   
+.0015 laughed    .0015 watched    .0015 whole      .0014 seen      
+.0014 wish       .0014 lot        .0014 opened     .0014 close     
+
+
+
+-------------------------------------------------------------------
+#: 0002  P: .0402    other_1
+-------------------------------------------------------------------
+
+.0224 princess   .0189 king       .0113 queen      .0103 fairy     
+.0101 very       .0094 sam        .0093 prince     .0089 children  
+.0085 dance      .0084 beautiful  .0081 love       .0071 bear      
+.0068 castle     .0063 father     .0060 young      .0059 girl      
+.0057 magic      .0053 kingdom    .0052 name       .0050 old       
+.0049 little     .0048 sara       .0045 lilly      .0044 marry     
+.0044 help       .0043 tiger      .0041 happy      .0041 dress     
+.0041 village    .0040 witch      .0040 find       .0040 flowers   
+.0040 black      .0040 tommy      .0039 woman      .0039 upon      
+.0039 knight     .0038 ketchup    .0037 rose       .0037 made      
+.0035 returned   .0035 man        .0035 wizard     .0035 royal     
+.0034 everyone   .0034 daughter   .0034 land       .0034 wish      
+.0033 jamie      .0033 garden     .0031 play       .0031 people    
+.0030 took       .0030 palace     .0030 shall      .0029 spell     
+.0029 turned     .0028 told       .0028 woods      .0027 never     
+.0027 guards     .0026 story      .0026 room       .0026 bowed     
+.0026 replied    .0025 koko       .0025 thought    .0025 boy       
+.0025 town       .0025 mother     .0025 thank      .0024 hand      
+.0024 willy      .0024 forest     .0024 book       .0024 each      
+.0024 long       .0024 family     .0023 smiled     .0023 home      
+.0023 saw        .0023 child      .0022 evil       .0022 night     
+.0022 decided    .0022 party      .0021 happily    .0021 place     
+.0021 parents    .0021 heart      .0021 servant    .0021 nicolai   
+.0020 city       .0020 let        .0020 lord       .0020 soon      
+.0020 great      .0020 kantar     .0020 left       .0019 called    
+
+
+
+-------------------------------------------------------------------
+#: 0003  P: .0200    other_2
+-------------------------------------------------------------------
+
+.0246 monster    .0201 card       .0171 turn       .0169 attack    
+.0141 face       .0140 dark       .0112 josh       .0109 magic     
+.0104 play       .0103 james      .0093 andy       .0088 tom       
+.0081 power      .0079 evil       .0076 super      .0071 destroy   
+.0068 points     .0063 battle     .0063 fight      .0061 summon    
+.0056 offer      .0052 life       .0050 dragon     .0050 mark      
+.0050 kevin      .0049 lp         .0049 magician   .0048 hero      
+.0048 sword      .0047 shadow     .0046 reveal     .0046 master    
+.0042 black      .0041 eyes       .0041 activate   .0040 white     
+.0040 defense    .0039 hand       .0038 called     .0036 city      
+.0036 blue       .0035 pokemon    .0034 pumpkin    .0034 finally   
+.0034 mode       .0032 train      .0032 karl       .0031 warrior   
+.0031 field      .0031 nina       .0030 create     .0029 enemy     
+.0029 flare      .0029 caterpilla .0028 light      .0028 forced    
+.0028 man        .0026 lose       .0026 duel       .0026 defeat    
+.0026 fire       .0025 beast      .0025 demon      .0024 deck      
+.0024 mask       .0023 trap       .0023 win        .0022 let       
+.0022 place      .0022 rose       .0022 chaos      .0021 challenge 
+.0021 guys       .0021 started    .0020 snickles   .0020 blast     
+.0020 visai      .0020 great      .0020 match      .0019 brent     
+.0019 hit        .0019 won        .0019 shouted    .0018 rakita    
+.0018 bring      .0018 number     .0018 vs         .0018 flames    
+.0017 machine    .0017 kaiba      .0017 draw       .0017 kit       
+.0017 allowed    .0017 choose     .0017 directly   .0016 crazy     
+.0016 shot       .0016 message    .0016 clan       .0016 mystic    
+
+
+
+-------------------------------------------------------------------
+#: 0004  P: .0256    other_3
+-------------------------------------------------------------------
+
+.0097 eat        .0094 bob        .0093 little     .0089 sarah     
+.0079 house      .0074 harry      .0073 pig        .0072 angel     
+.0072 anne       .0070 mr         .0070 robin      .0070 monkey    
+.0070 chicken    .0056 started    .0053 witch      .0052 amy       
+.0051 frog       .0051 walked     .0051 giant      .0049 ray       
+.0048 head       .0048 big        .0047 very       .0047 bowl      
+.0045 door       .0044 oh         .0043 find       .0039 eric      
+.0039 jumped     .0038 name       .0038 ran        .0037 food      
+.0035 story      .0035 pizza      .0035 saw        .0034 thought   
+.0031 yelled     .0031 screamed   .0030 help       .0029 raven     
+.0029 sheep      .0029 let        .0029 stopped    .0029 stupid    
+.0028 banana     .0028 harold     .0028 opened     .0028 mud       
+.0028 replied    .0027 made       .0026 linda      .0026 evil      
+.0026 decided    .0025 crystal    .0025 feathers   .0024 jimmy     
+.0024 albert     .0024 polly      .0024 pirate     .0023 green     
+.0023 cheese     .0022 purple     .0022 cow        .0022 play      
+.0022 knocked    .0022 called     .0022 cody       .0021 shouted   
+.0021 thank      .0021 adventure  .0021 miss       .0021 jackie    
+.0021 robbie     .0021 pot        .0021 heard      .0020 mabel     
+.0020 right      .0020 seth       .0020 tomato     .0020 think     
+.0020 wendy      .0019 eleanor    .0019 vincent    .0019 outside   
+.0018 home       .0018 spanish    .0018 exclaimed  .0018 told      
+.0018 ship       .0018 angry      .0018 plan       .0017 towards   
+.0017 suddenly   .0017 hopped     .0017 troll      .0017 mikey     
+.0017 juliet     .0017 gnome      .0017 martin     .0017 people    
+
+
+
+-------------------------------------------------------------------
+#: 0005  P: .0689    other_4
+-------------------------------------------------------------------
+
+.0282 mother     .0239 mom        .0210 dad        .0206 little    
+.0132 room       .0124 house      .0116 home       .0110 bed       
+.0100 sister     .0099 love       .0091 told       .0090 play      
+.0089 family     .0089 father     .0087 mommy      .0085 baby      
+.0082 big        .0074 brother    .0074 girl       .0068 daddy     
+.0063 kitchen    .0063 night      .0059 very       .0058 always    
+.0058 took       .0052 old        .0050 called     .0049 smiled    
+.0049 started    .0048 eat        .0047 picked     .0047 box       
+.0045 made       .0044 toys       .0044 birthday   .0044 uncle     
+.0043 table      .0041 dinner     .0040 hugged     .0040 happy     
+.0039 grandma    .0039 good       .0039 help       .0038 bear      
+.0038 sat        .0038 watched    .0038 sleep      .0038 gave      
+.0037 cake       .0037 daughter   .0036 chocolate  .0035 bag       
+.0035 clean      .0034 cookies    .0034 stay       .0034 lot       
+.0034 left       .0034 saw        .0033 children   .0033 candy     
+.0033 outside    .0033 miss       .0032 ran        .0030 crying    
+.0030 bunny      .0029 never      .0029 boy        .0028 sweet     
+.0028 kissed     .0028 parents    .0028 breakfast  .0028 nice      
+.0027 tea        .0027 aunt       .0026 fun        .0026 story     
+.0026 store      .0025 thought    .0025 food       .0025 heard     
+.0025 work       .0024 minutes    .0024 friends    .0024 bottle    
+.0024 favorite   .0024 soon       .0023 name       .0023 woke      
+.0023 opened     .0023 special    .0022 tell       .0022 finished  
+.0022 asleep     .0021 milk       .0021 cried      .0021 picture   
+.0021 honey      .0021 inside     .0021 color      .0021 best      
+
+
+
+-------------------------------------------------------------------
+#: 0006  P: .0227    other_5
+-------------------------------------------------------------------
+
+.0374 le         .0274 la         .0267 un         .0215 il        
+.0166 pas        .0163 se         .0151 que        .0138 elle      
+.0113 en         .0113 ne         .0107 je         .0105 son       
+.0095 dans       .0092 pour       .0092 ce         .0092 qui       
+.0081 petit      .0079 plus       .0077 lui        .0076 tout      
+.0067 sur        .0060 sa         .0057 tait       .0056 tu        
+.0054 du         .0053 avait      .0053 avec       .0051 est       
+.0048 au         .0047 si         .0042 bien       .0040 fait      
+.0040 dit        .0036 faire      .0035 comme      .0035 vous      
+.0034 grand      .0033 trs        .0032 sans       .0032 par       
+.0031 mme        .0028 cette      .0027 moi        .0026 chose     
+.0026 nous       .0025 fille      .0025 non        .0025 mon       
+.0024 quelque    .0024 quand      .0024 aussi      .0023 tre       
+.0023 leur       .0022 deux       .0022 jeune      .0022 puis      
+.0022 regard     .0022 nicolas    .0021 mal        .0021 alors     
+.0020 fois       .0019 suis       .0019 frre       .0019 te        
+.0019 peu        .0018 yeux       .0018 autres     .0018 enfant    
+.0018 lune       .0018 maman      .0018 va         .0018 ma        
+.0017 voir       .0017 temps      .0016 rien       .0016 ou        
+.0016 encore     .0016 fort       .0016 amis       .0016 garon     
+.0016 oui        .0016 dire       .0016 toujours   .0015 toi       
+.0014 peut       .0014 jour       .0014 personne   .0013 jamais    
+.0013 main       .0013 monde      .0013 demande    .0013 tous      
+.0013 vers       .0013 mre        .0012 porte      .0012 seul      
+.0012 cela       .0012 taient     .0012 tte        .0012 car       
+
+
+
+-------------------------------------------------------------------
+#: 0007  P: .0374    other_6
+-------------------------------------------------------------------
+
+.0194 david      .0084 water      .0080 head       .0078 hand      
+.0071 mikros     .0065 jacob      .0062 help       .0062 let       
+.0058 himself    .0056 derek      .0056 god        .0056 danny     
+.0055 started    .0053 made       .0052 little     .0051 smiled    
+.0048 right      .0047 face       .0045 paige      .0044 called    
+.0043 miss       .0043 told       .0043 very       .0043 something 
+.0042 turned     .0041 good       .0040 stopped    .0039 miles     
+.0039 ticarus    .0038 arms       .0037 answer     .0037 sound     
+.0036 walked     .0036 mama       .0036 pulled     .0036 place     
+.0035 luke       .0035 pushed     .0035 took       .0034 enough    
+.0034 man        .0033 river      .0033 senna      .0033 papa      
+.0033 spider     .0032 think      .0032 big        .0031 jai       
+.0030 name       .0030 shoulder   .0029 holding    .0029 laughed   
+.0028 hurry      .0028 door       .0028 halle      .0028 otters    
+.0027 city       .0027 ground     .0026 nodded     .0026 eyes      
+.0026 hurt       .0026 home       .0025 running    .0025 feet      
+.0025 nathan     .0025 long       .0024 kind       .0024 dog       
+.0024 sure       .0024 fell       .0023 worry      .0023 standing  
+.0023 shook      .0023 ehhulad    .0023 saw        .0023 probably  
+.0023 gillian    .0023 butterfly  .0023 pond       .0023 fingers   
+.0023 close      .0023 anything   .0023 side       .0023 darth     
+.0023 shield     .0023 kayla      .0022 fall       .0022 yes       
+.0021 clara      .0021 front      .0021 tree       .0021 almost    
+.0021 someone    .0021 bit        .0021 ran        .0021 okay      
+.0021 cable      .0021 open       .0021 trying     .0021 nate      
+
+
+
+-------------------------------------------------------------------
+#: 0008  P: .0859    other_7
+-------------------------------------------------------------------
+
+.0139 tree       .0116 dragon     .0102 eyes       .0082 head      
+.0078 red        .0074 water      .0070 small      .0063 towards   
+.0061 began      .0060 ground     .0059 sun        .0056 forest    
+.0050 air        .0049 dark       .0048 sky        .0047 light     
+.0046 human      .0046 bird       .0045 wings      .0045 fly       
+.0043 saw        .0043 creature   .0043 emma       .0042 green     
+.0041 sorcha     .0041 land       .0040 behind     .0038 turned    
+.0038 feet       .0037 voice      .0036 large      .0035 wind      
+.0034 flew       .0033 rock       .0033 clouds     .0033 side      
+.0033 leave      .0033 long       .0033 across     .0032 fire      
+.0032 reached    .0032 black      .0031 white      .0030 breath    
+.0030 opened     .0029 heard      .0029 blue       .0028 felt      
+.0028 little     .0028 legs       .0028 silver     .0028 cave      
+.0028 find       .0028 slowly     .0028 stopped    .0027 stood     
+.0027 moon       .0026 running    .0026 sound      .0026 branch    
+.0026 grass      .0025 watched    .0025 woods      .0025 mountain  
+.0024 walked     .0024 plants     .0024 fell       .0024 ran       
+.0024 close      .0024 suddenly   .0024 night      .0023 against   
+.0023 flowers    .0023 bush       .0023 deep       .0022 bright    
+.0022 tail       .0022 stared     .0022 body       .0022 covered   
+.0022 face       .0021 clear      .0021 edge       .0021 help      
+.0020 glow       .0020 herself    .0020 took       .0020 above     
+.0020 sighed     .0020 color      .0020 stepped    .0019 fall      
+.0019 closer     .0019 sat        .0019 cold       .0019 soon      
+.0018 almost     .0018 hill       .0018 mouth      .0018 fast      
+
+
+
+-------------------------------------------------------------------
+#: 0009  P: .0091    other_8
+-------------------------------------------------------------------
+
+.0113 en         .0100 van        .0097 het        .0092 een       
+.0084 er         .0075 ze         .0074 die        .0071 dat       
+.0066 miranda    .0063 al         .0060 met        .0054 shane     
+.0054 den        .0054 kay        .0049 niet       .0049 und       
+.0047 hij        .0047 zijn       .0046 daniel     .0045 blake     
+.0044 te         .0043 cara       .0042 op         .0041 haar      
+.0039 zack       .0039 beatrice   .0039 jin        .0036 der       
+.0035 brit       .0033 maar       .0033 keara      .0032 doggo     
+.0032 robert     .0031 monty      .0030 lollie     .0030 jasper    
+.0029 kiara      .0029 zo         .0028 blinky     .0028 es        
+.0026 hannie     .0025 je         .0025 om         .0024 hanna     
+.0024 ein        .0024 nog        .0024 jayla      .0024 harvey    
+.0023 joseph     .0023 machteld   .0023 melanie    .0023 han       
+.0023 kenny      .0023 chelsea    .0022 war        .0022 naden     
+.0022 det        .0022 liam       .0021 im         .0021 kaninchen 
+.0021 jag        .0021 auf        .0020 dale       .0020 aan       
+.0020 blackpool  .0020 som        .0020 hem        .0020 alan      
+.0020 voor       .0019 tyler      .0019 bonga      .0019 briana    
+.0019 door       .0019 ik         .0019 brownie    .0018 janine    
+.0018 orangie    .0018 du         .0018 vader      .0018 alison    
+.0017 naar       .0017 jimmy      .0017 och        .0017 dem       
+.0017 wat        .0016 att        .0016 zu         .0016 drasol    
+.0016 ich        .0016 zich       .0016 mokona     .0016 urania    
+.0015 fr         .0015 ook        .0015 andere     .0015 zeo       
+.0015 jeg        .0015 hun        .0015 stump      .0015 nu        
+
+
+
+-------------------------------------------------------------------
+#: 0010  P: .0371    other_9
+-------------------------------------------------------------------
+
+.0301 man        .0156 door       .0137 walked     .0106 old       
+.0101 house      .0097 car        .0090 ben        .0081 money     
+.0078 opened     .0074 street     .0068 woman      .0065 hand      
+.0061 turned     .0059 town       .0058 sir        .0055 road      
+.0053 saw        .0053 started    .0052 john       .0051 home      
+.0050 find       .0049 front      .0049 train      .0049 lady      
+.0048 people     .0046 little     .0045 left       .0045 grandpa   
+.0042 smiled     .0041 timmy      .0039 shop       .0038 henry     
+.0037 police     .0035 office     .0035 stepped    .0033 boy       
+.0033 picked     .0033 captain    .0033 called     .0032 stopped   
+.0032 thought    .0032 father     .0032 right      .0032 park      
+.0031 phone      .0031 larry      .0031 heard      .0030 room      
+.0030 window     .0030 running    .0029 took       .0029 children  
+.0029 pulled     .0029 store      .0028 sat        .0028 suitcase  
+.0028 head       .0028 help       .0027 towards    .0027 jess      
+.0027 big        .0027 ran        .0026 paper      .0026 name      
+.0026 toby       .0026 place      .0025 voice      .0025 grabbed   
+.0025 very       .0025 maggie     .0025 himself    .0025 jeans     
+.0024 stood      .0023 station    .0023 inside     .0023 told      
+.0021 noticed    .0021 case       .0021 across     .0021 oh        
+.0021 long       .0021 waiting    .0021 answered   .0020 replied   
+.0020 bagus      .0020 yelled     .0020 large      .0020 glass     
+.0020 face       .0020 lost       .0020 began      .0019 behind    
+.0019 cottage    .0019 knocked    .0018 carol      .0018 gate      
+.0018 small      .0018 job        .0018 work       .0018 buy       
+
+
+
+-------------------------------------------------------------------
+#: 0011  P: .0284    other_10
+-------------------------------------------------------------------
+
+.0507 que        .0430 la         .0243 el         .0213 se        
+.0186 en         .0185 su         .0137 un         .0121 con       
+.0116 por        .0104 le         .0102 una        .0096 para      
+.0085 es         .0078 pero       .0077 al         .0064 era       
+.0061 ms         .0060 como       .0060 todos      .0051 mi        
+.0049 del        .0049 haba       .0048 si         .0042 yo        
+.0037 cuando     .0036 muy        .0035 ella       .0035 estaba    
+.0034 qu         .0033 ya         .0033 algo       .0032 eso       
+.0031 te         .0031 vez        .0030 casa       .0028 fue       
+.0028 porque     .0027 sin        .0027 tan        .0026 ser       
+.0024 est        .0024 dijo       .0024 otro       .0023 tena      
+.0022 nada       .0021 mucho      .0021 cosas      .0020 tambin    
+.0020 hasta      .0020 ver        .0020 uno        .0019 poco      
+.0018 siempre    .0017 ojos       .0017 antes      .0017 bien      
+.0017 nia        .0017 esa        .0016 sobre      .0016 hacer     
+.0016 amigos     .0016 nunca      .0016 padre      .0016 tiene     
+.0015 solo       .0015 ni         .0015 aos        .0015 tiempo    
+.0015 esta       .0015 momento    .0015 ellos      .0015 todas     
+.0014 mientras   .0014 hermano    .0014 madre      .0014 tu        
+.0014 mejor      .0013 prncipe    .0013 slo        .0013 nios      
+.0013 noche      .0013 tanto      .0013 ah         .0013 ahora     
+.0013 donde      .0013 lado       .0012 despus     .0012 cuenta    
+.0012 mano       .0012 eran       .0012 lugar      .0012 ir        
+.0012 aunque     .0012 cada       .0012 dio        .0012 pequeo    
+.0011 hora       .0011 princesa   .0011 pregunt    .0011 mismo     
+
+
+
+-------------------------------------------------------------------
+#: 0012  P: .0240    other_11
+-------------------------------------------------------------------
+
+.0260 dan        .0234 yang       .0168 di         .0145 aku       
+.0129 itu        .0097 dengan     .0089 ia         .0084 tidak     
+.0082 ke         .0068 ini        .0068 dia        .0064 dari      
+.0060 ada        .0057 untuk      .0047 tapi       .0047 mereka    
+.0047 sudah      .0046 akan       .0046 apa        .0045 bisa      
+.0044 anak       .0043 juga       .0041 lagi       .0039 karena    
+.0039 tak        .0036 mau        .0036 sama       .0036 saja      
+.0035 ibu        .0033 orang      .0033 pun        .0032 ya        
+.0032 kami       .0032 jadi       .0031 kau        .0030 hanya     
+.0029 kamu       .0026 kita       .0026 seperti    .0026 ayah      
+.0025 hari       .0025 dalam      .0025 kalau      .0023 satu      
+.0023 kan        .0023 pada       .0023 lalu       .0022 gak       
+.0022 mama       .0022 saat       .0021 sekolah    .0021 harus     
+.0021 sambil     .0020 suara      .0020 benar      .0020 masih     
+.0020 melihat    .0020 tahu       .0020 sedang     .0020 teman     
+.0020 rumah      .0020 kata       .0020 langsung   .0019 setelah   
+.0019 tidur      .0019 sangat     .0019 menjadi    .0018 kali      
+.0018 semua      .0018 poster     .0018 banyak     .0018 makan     
+.0018 sekali     .0017 baru       .0017 tanya      .0017 kecil     
+.0016 pedro      .0016 tadi       .0016 merasa     .0016 pergi     
+.0015 ingin      .0015 seorang    .0015 kemudian   .0015 oleh      
+.0015 membuat    .0015 memang     .0015 nanti      .0015 tersenyum 
+.0015 bersama    .0015 bunda      .0015 kenapa     .0015 tempat    
+.0015 mulai      .0014 akhirnya   .0014 adalah     .0014 begitu    
+.0014 lain       .0014 terus      .0014 air        .0014 ketika    
+
+
+
+-------------------------------------------------------------------
+#: 0013  P: .0296    other_12
+-------------------------------------------------------------------
+
+.0342 cat        .0337 dog        .0123 name       .0111 human     
+.0103 mary       .0102 animals    .0101 puppy      .0088 lily      
+.0079 kitten     .0074 pet        .0069 big        .0069 little    
+.0067 home       .0066 saw        .0063 very       .0060 ran       
+.0058 tail       .0056 friend     .0055 owner      .0054 black     
+.0053 ginger     .0050 walked     .0050 mouse      .0050 paws      
+.0046 house      .0044 cage       .0043 help       .0043 fur       
+.0042 white      .0041 ears       .0040 called     .0040 barked    
+.0040 play       .0039 kitty      .0038 story      .0038 food      
+.0038 chased     .0037 family     .0037 jumped     .0037 love      
+.0037 snake      .0036 started    .0034 jenna      .0034 find      
+.0032 daisy      .0032 eat        .0032 angela     .0032 ellen     
+.0031 richard    .0031 rat        .0031 mice       .0030 running   
+.0030 doug       .0029 brother    .0029 old        .0029 brown     
+.0028 fluffy     .0028 happy      .0028 tell       .0028 thought   
+.0027 took       .0027 meowed     .0025 hopped     .0025 kit       
+.0022 scared     .0022 long       .0022 decided    .0022 thank     
+.0022 good       .0021 leon       .0021 yes        .0020 thomas    
+.0020 turned     .0020 tooth      .0020 libby      .0020 freddie   
+.0020 front      .0019 shouted    .0019 let        .0019 macy      
+.0019 oh         .0019 door       .0019 ted        .0018 nose      
+.0018 female     .0018 trying     .0018 mush       .0018 picked    
+.0018 hole       .0017 care       .0017 tried      .0017 chester   
+.0017 great      .0017 idea       .0017 tiger      .0017 nice      
+.0017 kind       .0017 smell      .0017 stay       .0016 replied   
+
+
+
+-------------------------------------------------------------------
+#: 0014  P: .0591    other_13
+-------------------------------------------------------------------
+
+.0171 girl       .0126 walked     .0118 boy        .0112 play      
+.0107 yeah       .0098 friends    .0087 started    .0085 yelled    
+.0081 ran        .0080 guys       .0080 ball       .0071 laughed   
+.0067 smiled     .0066 mom        .0065 turned     .0064 head      
+.0063 oh         .0062 hand       .0060 hey        .0058 game      
+.0058 little     .0054 alex       .0054 okay       .0053 let       
+.0053 kids       .0052 running    .0049 called     .0049 grabbed   
+.0048 replied    .0046 right      .0045 hair       .0043 towards   
+.0043 door       .0043 eyes       .0042 hit        .0041 screamed  
+.0040 face       .0039 scott      .0039 jumped     .0039 think     
+.0038 good       .0038 gonna      .0037 pulled     .0037 house     
+.0037 sister     .0036 matt       .0036 brother    .0035 everyone  
+.0034 ok         .0034 stop       .0031 saw        .0031 shouted   
+.0031 behind     .0031 watched    .0030 sighed     .0030 billy     
+.0030 giggled    .0030 katie      .0028 wanna      .0028 rolled    
+.0028 tonia      .0028 practice   .0027 nick       .0027 threw     
+.0027 team       .0027 fun        .0026 minutes    .0026 big       
+.0025 megan      .0025 trying     .0025 kicked     .0025 arms      
+.0025 grinned    .0024 each       .0024 side       .0024 help      
+.0024 front      .0024 throw      .0023 thank      .0023 park      
+.0023 name       .0023 swing      .0023 johnny     .0023 shirt     
+.0022 guess      .0022 bat        .0022 heard      .0022 sorry     
+.0021 finally    .0021 home       .0021 best       .0021 lewis     
+.0021 nodded     .0021 blonde     .0021 ya         .0021 quickly   
+.0020 summer     .0019 mean       .0019 took       .0019 movie     
+
+
+
+-------------------------------------------------------------------
+#: 0015  P: .0089    other_14
+-------------------------------------------------------------------
+
+.0233 emily      .0185 joe        .0183 alice      .0158 hiccup    
+.0110 um         .0106 fred       .0106 toothless  .0104 ma        
+.0091 charlie    .0082 ana        .0068 uma        .0067 com       
+.0060 puppup     .0057 se         .0054 os         .0051 que       
+.0050 em         .0042 kiana      .0040 christophe .0038 lex       
+.0037 radish     .0037 adam       .0036 brad       .0034 astrid    
+.0034 para       .0033 bridget    .0032 sua        .0031 na        
+.0031 bucket     .0029 seu        .0028 aly        .0027 eu        
+.0026 aliba      .0026 ela        .0025 howard     .0025 jo        
+.0025 pai        .0024 stoick     .0024 mortimer   .0023 unicorn   
+.0021 muito      .0021 leo        .0021 era        .0020 ao        
+.0020 quando     .0019 estava     .0019 matilda    .0019 foi       
+.0019 zync       .0018 bamboo     .0018 buddy      .0017 lhe       
+.0017 tinha      .0016 village    .0016 disse      .0016 aliza     
+.0016 morton     .0016 sam        .0015 alvin      .0015 rattlepuss
+.0015 anos       .0015 ink        .0015 dia        .0015 softly    
+.0014 cow        .0014 zeke       .0014 twigs      .0014 christina 
+.0014 mad        .0014 dimitri    .0013 fletcher   .0013 ento      
+.0013 histria    .0013 socs       .0013 rye        .0012 toot      
+.0012 outros     .0012 bruxa      .0012 snowflake  .0012 sprite    
+.0012 pscoa      .0012 dormel     .0012 agent      .0011 animais   
+.0011 sonho      .0011 pen        .0011 morag      .0011 nickolas  
+.0011 aqui       .0011 ol         .0011 joan       .0011 isso      
+.0011 wrapped    .0011 growled    .0011 coky       .0011 hare      
+.0010 ja         .0010 pela       .0010 viu        .0010 fazer     
+
+
+
+-------------------------------------------------------------------
+#: 0016  P: .0418    other_15
+-------------------------------------------------------------------
+
+.0125 mum        .0103 room       .0102 pink       .0102 christmas 
+.0098 snow       .0095 door       .0079 blue       .0079 jack      
+.0076 little     .0076 opened     .0075 bed        .0070 fish      
+.0062 george     .0060 santa      .0060 hand       .0059 pulled    
+.0056 light      .0054 doll       .0047 ice        .0046 cold      
+.0044 red        .0044 snowman    .0042 swimming   .0042 water     
+.0042 girl       .0041 magic      .0041 window     .0040 walked    
+.0040 mike       .0039 saw        .0039 green      .0039 presents  
+.0039 white      .0038 fire       .0038 sat        .0036 small     
+.0036 floor      .0036 dress      .0035 wall       .0035 simon     
+.0035 sapphire   .0034 charlotte  .0034 eyes       .0034 inside    
+.0033 smiled     .0033 sea        .0032 very       .0032 turned    
+.0032 big        .0032 toys       .0031 jumped     .0031 thought   
+.0031 wish       .0030 started    .0030 dark       .0030 hair      
+.0030 night      .0029 ricky      .0028 doggy      .0028 dream     
+.0027 fell       .0027 let        .0026 nodded     .0026 covered   
+.0026 amelia     .0026 large      .0026 ran        .0025 beach     
+.0025 behind     .0025 tree       .0025 climbed    .0024 outside   
+.0024 took       .0024 box        .0024 right      .0024 slowly    
+.0024 made       .0023 head       .0023 colour     .0023 front     
+.0023 blanket    .0023 stairs     .0023 closed     .0023 socks     
+.0022 fat        .0022 mother     .0022 think      .0022 quickly   
+.0021 swam       .0021 penguin    .0021 warm       .0021 turtle    
+.0021 black      .0021 fall       .0020 holiday    .0020 dolphin   
+.0020 mr         .0020 stood      .0020 waved      .0020 waiting   
+
+
+
+-------------------------------------------------------------------
+#: 0017  P: .0547    other_16
+-------------------------------------------------------------------
+
+.0399 school     .0372 mr         .0175 class      .0147 teacher   
+.0107 friends    .0095 kids       .0079 walked     .0074 name      
+.0074 called     .0071 room       .0071 grade      .0066 told      
+.0064 think      .0063 tell       .0063 everyone   .0061 good      
+.0060 started    .0059 miss       .0056 girl       .0055 lunch     
+.0052 students   .0050 bus        .0049 ms         .0049 best      
+.0046 people     .0045 gloria     .0045 book       .0044 desk      
+.0041 sat        .0040 work       .0039 right      .0038 homework  
+.0038 classroom  .0037 paper      .0037 bell       .0037 minutes   
+.0036 home       .0034 anna       .0034 parents    .0033 thought   
+.0032 seat       .0030 mean       .0030 each       .0030 always    
+.0030 hair       .0029 answered   .0029 finished   .0028 help      
+.0028 oh         .0028 mom        .0027 question   .0027 waiting   
+.0027 door       .0026 gave       .0026 children   .0026 turned    
+.0026 math       .0026 happened   .0026 lot        .0026 nice      
+.0026 okay       .0025 meet       .0025 rang       .0025 valerie   
+.0024 dad        .0024 picked     .0024 took       .0024 hall      
+.0024 principal  .0024 test       .0023 front      .0023 table     
+.0023 person     .0023 boy        .0023 very       .0022 better    
+.0022 great      .0022 left       .0021 rebecca    .0021 head      
+.0021 guess      .0021 lesson     .0021 idea       .0021 peter     
+.0020 red        .0020 later      .0020 stuff      .0020 brown     
+.0019 soon       .0019 recess     .0019 molly      .0019 whole     
+.0019 trouble    .0018 learn      .0018 office     .0018 bad       
+.0018 casey      .0018 phone      .0018 english    .0018 yes       
+
+
+
+-------------------------------------------------------------------
+#: 0018  P: .0232    other_17
+-------------------------------------------------------------------
+
+.0195 rain       .0148 watch      .0132 cassie     .0126 tony      
+.0125 girl       .0117 chair      .0108 peach      .0104 bouncing  
+.0089 sister     .0086 think      .0083 maxine     .0082 dress     
+.0081 window     .0077 storm      .0072 michelle   .0069 very      
+.0067 hours      .0067 shoes      .0066 answered   .0062 continued 
+.0062 good       .0062 sat        .0058 kelly      .0057 minutes   
+.0057 brian      .0055 mother     .0055 right      .0052 duck      
+.0050 natalie    .0050 stopped    .0049 number     .0049 house     
+.0048 amanda     .0044 later      .0042 sing       .0041 love      
+.0039 wearing    .0037 anthony    .0036 took       .0035 ella      
+.0035 outside    .0035 sue        .0035 leanne     .0033 catch     
+.0033 something  .0033 wait       .0032 same       .0032 julian    
+.0031 black      .0031 point      .0030 ant        .0030 night     
+.0030 song       .0030 started    .0029 ready      .0029 instead   
+.0028 umbrella   .0028 forest     .0028 violet     .0027 thunder   
+.0027 saw        .0027 herself    .0027 fleur      .0026 began     
+.0026 happy      .0026 em         .0026 note       .0026 nice      
+.0025 play       .0025 chloe      .0025 long       .0025 hope      
+.0024 fun        .0023 boots      .0022 head       .0022 thank     
+.0022 front      .0021 home       .0021 bedroom    .0021 thought   
+.0021 power      .0021 sky        .0021 rainbow    .0021 door      
+.0021 enjoyed    .0020 place      .0020 sure       .0020 big       
+.0020 moment     .0020 silence    .0020 lightning  .0020 sesame    
+.0020 finished   .0019 changed    .0019 twenty     .0019 legs      
+.0019 nothing    .0019 selena     .0019 together   .0018 kiah      
+
+
+
+-------------------------------------------------------------------
+#: 0019  P: .0263    other_18
+-------------------------------------------------------------------
+
+.0096 replied    .0095 lucy       .0090 answered   .0082 twins     
+.0081 bobby      .0080 girl       .0069 jake       .0066 kids      
+.0064 diamond    .0063 amber      .0063 turned     .0058 laura     
+.0058 hayden     .0057 miss       .0057 asphodel   .0052 walked    
+.0050 faith      .0049 house      .0048 saw        .0047 started   
+.0046 let        .0046 team       .0045 arrived    .0044 think     
+.0043 room       .0042 everyone   .0042 opened     .0042 something 
+.0042 left       .0041 good       .0041 rosie      .0041 close     
+.0039 exclaimed  .0038 sister     .0037 town       .0036 book      
+.0035 grabbed    .0035 cindy      .0035 took       .0035 stopped   
+.0035 door       .0034 inside     .0033 santa      .0033 tilly     
+.0033 everybody  .0032 naughty    .0031 right      .0030 olivia    
+.0029 called     .0029 wait       .0029 towards    .0028 name      
+.0028 heard      .0028 sammy      .0028 nicole     .0028 find      
+.0028 guys       .0027 added      .0027 kitty      .0027 hand      
+.0027 caroline   .0026 charles    .0026 susie      .0026 wearing   
+.0025 list       .0025 worry      .0025 becky      .0025 candy     
+.0025 happy      .0024 stay       .0024 running    .0024 noticed   
+.0024 green      .0024 thomas     .0023 help       .0023 gonna     
+.0023 greeted    .0023 shocked    .0023 leave      .0023 finished  
+.0022 told       .0022 crown      .0022 goat       .0022 margaret  
+.0022 returned   .0022 paper      .0022 place      .0022 hannah    
+.0021 clock      .0021 gift       .0021 sure       .0020 kite      
+.0020 plan       .0020 sign       .0020 tone       .0020 boy       
+.0020 luanda     .0020 nodded     .0020 made       .0020 party     
+
+
+
+-------------------------------------------------------------------
+#: 0020  P: .0333    other_19
+-------------------------------------------------------------------
+
+.0187 horse      .0161 flash      .0116 star       .0101 jenny     
+.0080 rabbit     .0071 chris      .0066 very       .0062 told      
+.0057 thunder    .0054 mother     .0053 called     .0052 herd      
+.0052 animals    .0051 jumped     .0050 right      .0049 tell      
+.0047 ride       .0046 help       .0046 storm      .0046 heard     
+.0045 good       .0045 walked     .0045 run        .0045 name      
+.0045 mare       .0044 great      .0044 head       .0043 race      
+.0043 saw        .0042 oh         .0042 ran        .0041 barn      
+.0038 stallion   .0037 farm       .0036 friends    .0034 brittany  
+.0034 thought    .0034 young      .0034 little     .0034 soon      
+.0034 story      .0033 replied    .0032 let        .0032 started   
+.0032 elephant   .0031 home       .0031 foals      .0030 yes       
+.0030 belle      .0028 kate       .0028 eagle      .0028 old       
+.0027 answered   .0027 colt       .0027 night      .0027 white     
+.0027 stopped    .0027 long       .0026 scared     .0026 bluebird  
+.0026 took       .0026 find       .0026 cow        .0025 wolf      
+.0024 towards    .0024 suddenly   .0024 halia      .0024 puma      
+.0024 wait       .0024 laughed    .0024 began      .0024 black     
+.0023 turned     .0023 knew       .0023 lead       .0023 fire      
+.0023 cave       .0022 jordan     .0022 stall      .0022 finally   
+.0022 field      .0022 big        .0022 later      .0021 golden    
+.0021 ground     .0021 sure       .0021 poppy      .0021 wolves    
+.0021 rock       .0021 nodded     .0021 taylor     .0020 small     
+.0020 place      .0019 front      .0019 wonderful  .0019 father    
+.0019 think      .0019 stable     .0019 remember   .0019 trevor    
+
+
+
+-------------------------------------------------------------------
+#: 0021  P: .0455    other_20
+-------------------------------------------------------------------
+
+.0126 room       .0090 door       .0084 damien     .0066 began     
+.0065 building   .0065 people     .0058 walked     .0055 jonathan  
+.0052 car        .0045 men        .0044 side       .0044 turned    
+.0044 planet     .0044 opened     .0044 man        .0043 left      
+.0043 mandy      .0042 team       .0042 stood      .0042 each      
+.0042 plane      .0042 work       .0039 kids       .0039 large     
+.0038 president  .0038 floor      .0038 minutes    .0038 saw       
+.0037 wall       .0037 sat        .0035 arrived    .0034 inside    
+.0034 gun        .0034 behind     .0033 towards    .0032 pulled    
+.0032 took       .0031 head       .0030 machine    .0030 find      
+.0030 group      .0029 space      .0029 waiting    .0029 number    
+.0028 mr         .0028 balloon    .0028 black      .0028 returned  
+.0028 boat       .0027 office     .0027 meet       .0027 entered   
+.0027 called     .0026 pair       .0025 earth      .0024 country   
+.0024 air        .0024 hand       .0023 soldiers   .0023 hour      
+.0023 ship       .0023 reeko      .0023 leave      .0023 stopped   
+.0022 small      .0022 leader     .0022 place      .0022 agent     
+.0022 stairs     .0021 whilst     .0021 round      .0021 guard     
+.0021 plan       .0021 land       .0021 very       .0021 professor 
+.0020 later      .0020 security   .0020 cell       .0020 control   
+.0020 point      .0020 forced     .0020 table      .0019 ready     
+.0019 ran        .0019 spoke      .0018 happened   .0018 house     
+.0018 white      .0018 cookie     .0018 finally    .0018 computer  
+.0018 service    .0018 ground     .0017 soon       .0017 continued 
+.0017 quickly    .0017 metal      .0016 corridor   .0016 along     
+
+
