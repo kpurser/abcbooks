@@ -1,8 +1,8 @@
 
 words_cmd=java
 words_args=""
-words_exe=bin/words
-words_in_file=lda/output/topics.txt
+words_exe=topic.Test
+words_in_file=output/lda_output/topics.txt
 words_out_file=output/words.txt
 
 sentences_cmd=python
@@ -15,7 +15,7 @@ output_cmd=java
 output_args=""
 output_exe=bin/output
 output_in_file=$sentences_out_file
-output_out_file=output/book_$(book + "%T").pdf
+output_out_file=output/book_$(book + "%T").html
 
 # TODO: compile java code...
 
