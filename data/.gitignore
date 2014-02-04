@@ -1,0 +1,5 @@
+# We don't want to check in our data because it is large
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
