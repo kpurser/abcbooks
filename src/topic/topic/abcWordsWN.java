@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
@@ -78,6 +79,29 @@ public class abcWordsWN {
 	
 		}
 	
+		
+	
+			
+			
+		//	System.out.println(i + " "+chosenTopic.getWordPair(i).word);
+		//	String[] pos=wordnet.getPos("king");
+			
+//			for(int p=0;p<pos.length; p++){
+//				String[] synonyms = wordnet.getAllAlsoSees(query, pos) .getAllDerivedTerms("horse", pos[p]);
+//				//String[] synonyms = wordnet.getSimilar(chosenTopic.getWordPair(i).word, pos[p]);
+//				if (synonyms != null) {
+//
+//					for (int j = 0; j < synonyms.length; j++) {
+//
+//						System.out.println("KING ==> "+synonyms[j]);
+//
+//					}
+//				}
+//				
+//			}
+//			
+	
+		
 
 			
 		
@@ -96,8 +120,13 @@ public class abcWordsWN {
 		FileWriter file = new FileWriter("26WordsWN.txt");
 		BufferedWriter bf = new BufferedWriter(file);
 		
-		for(String w:alphabeticalWords.keySet())
-		bf.write(alphabeticalWords.get(w));
+		Iterator<String>it=alphabet.iterator();
+		while(it.hasNext()){
+			String letter=it.next();
+			if(alphabeticalWords.containsKey(letter))
+		bf.write(alphabeticalWords.get(letter) +"\n");
+		}
+		
 		
 		
 		bf.close();
