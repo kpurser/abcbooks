@@ -1,0 +1,3204 @@
+*******************************************************************
+                       TOTAL TOPICS COUNT: 100
+*******************************************************************
+
+
+-------------------------------------------------------------------
+#: 0001  P: .0347    topic__1
+-------------------------------------------------------------------
+
+.0158 boy        .0154 money      .0091 dollars    .0081 business  
+.0078 father     .0074 house      .0069 pay        .0057 chapter   
+.0054 office     .0052 tell       .0051 bill       .0050 answered  
+.0048 street     .0048 ben        .0048 friend     .0047 mother    
+.0046 find       .0044 paul       .0044 name       .0044 hand      
+.0042 called     .0038 suppose    .0037 letter     .0037 city      
+.0035 paper      .0034 sam        .0034 course     .0033 feel      
+.0033 told       .0033 left       .0033 matter     .0033 hope      
+.0032 wish       .0031 town       .0031 walked     .0031 leave     
+.0031 york       .0030 night      .0029 cents      .0029 store     
+.0029 care       .0029 pocket     .0029 returned   .0028 mean      
+.0028 mind       .0027 entered    .0026 door       .0026 son       
+.0026 half       .0026 glad       .0025 expected   .0025 little    
+.0025 surprise   .0025 believe    .0024 trouble    .0024 hour      
+.0024 received   .0023 sir        .0023 sell       .0023 life      
+.0023 hotel      .0022 paid       .0022 appeared   .0022 replied   
+.0021 offered    .0021 mine       .0021 hard       .0021 thank     
+.0021 board      .0021 farm       .0020 gentleman  .0020 wife      
+.0020 chance     .0020 poor       .0020 save       .0020 bank      
+.0019 heard      .0019 carried    .0019 meet       .0019 question  
+.0019 company    .0019 fortune    .0019 earn       .0018 stay      
+.0018 plan       .0018 clerk      .0018 deal       .0018 send      
+.0018 started    .0018 ought      .0018 wait       .0018 till      
+.0017 country    .0017 worth      .0017 inquired   .0017 brought   
+.0017 woman      .0016 hear       .0016 rich       .0016 charge    
+
+
+
+-------------------------------------------------------------------
+#: 0002  P: .0019    topic__2
+-------------------------------------------------------------------
+
+.0185 michael    .0102 hook       .0076 peter      .0076 walked    
+.0069 evil       .0067 door       .0060 people     .0058 wendy     
+.0055 building   .0046 name       .0044 damien     .0037 super     
+.0036 body       .0036 sat        .0035 martha     .0034 power     
+.0034 control    .0033 team       .0033 president  .0033 black     
+.0033 plan       .0031 darling    .0031 agent      .0031 air       
+.0031 arrived    .0030 stood      .0030 meet       .0029 bed       
+.0029 car        .0029 mandy      .0028 kill       .0028 left      
+.0028 wall       .0027 space      .0027 prime      .0026 entered   
+.0025 continued  .0025 head       .0025 parents    .0025 floor     
+.0025 plane      .0024 light      .0024 fly        .0023 wait      
+.0023 pirates    .0023 person     .0023 inside     .0023 shock     
+.0022 hero       .0022 secret     .0022 cell       .0022 pair      
+.0021 leave      .0020 raven      .0020 trevor     .0020 change    
+.0020 force      .0019 planet     .0018 computer   .0018 arms      
+.0018 dead       .0018 ground     .0017 attack     .0017 leader    
+.0017 pulled     .0016 secure     .0016 created    .0016 hand      
+.0016 metal      .0016 revealed   .0016 main       .0016 hit       
+.0016 tried      .0015 earth      .0015 flew       .0015 police    
+.0015 tink       .0014 flare      .0014 screen     .0014 moss      
+.0014 appeared   .0014 wear       .0014 check      .0014 guard     
+.0014 kemp       .0014 pain       .0014 kids       .0014 ay        
+.0014 chapter    .0014 true       .0013 robot      .0013 ace       
+.0013 blood      .0013 suit       .0013 office     .0013 entrance  
+.0013 raised     .0013 immediatel .0013 protect    .0013 speak     
+
+
+
+-------------------------------------------------------------------
+#: 0003  P: .0198    topic__3
+-------------------------------------------------------------------
+
+.0132 water      .0080 animals    .0077 tree       .0074 birds     
+.0065 plants     .0065 form       .0052 called     .0051 air       
+.0045 food       .0043 earth      .0041 body       .0041 shell     
+.0040 covered    .0036 leave      .0035 grow       .0035 little    
+.0035 country    .0033 eggs       .0033 nature     .0032 feet      
+.0032 fish       .0030 sea        .0030 appeared   .0029 insects   
+.0029 fruit      .0029 ground     .0029 flowers    .0028 species   
+.0028 rock       .0028 beautiful  .0027 heat       .0027 branches  
+.0027 common     .0026 inches     .0026 name       .0025 find      
+.0025 sun        .0025 nest       .0024 size       .0024 wood      
+.0024 shape      .0024 surface    .0023 creature   .0023 carried   
+.0023 bees       .0023 family     .0023 seed       .0022 white     
+.0022 fritz      .0021 observed   .0021 field      .0021 color     
+.0021 round      .0021 milk       .0020 curious    .0020 building  
+.0020 light      .0020 garden     .0020 wings      .0020 half      
+.0020 feed       .0019 length     .0019 skin       .0019 fine      
+.0019 ants       .0019 roots      .0019 produced   .0019 cut       
+.0018 winter     .0018 plate      .0018 kinds      .0018 quantity  
+.0018 sugar      .0018 contained  .0017 vegetables .0017 lucy      
+.0017 salt       .0017 dry        .0016 piece      .0016 wild      
+.0016 thick      .0016 stone      .0016 sand       .0016 fall      
+.0016 season     .0016 worm       .0015 larger     .0015 fly       
+.0015 colour     .0015 spring     .0015 miles      .0015 mountain  
+.0015 land       .0014 strong     .0014 mouth      .0014 native    
+.0014 spot       .0014 hot        .0014 boiled     .0014 green     
+
+
+
+-------------------------------------------------------------------
+#: 0004  P: .0255    topic__4
+-------------------------------------------------------------------
+
+.0395 little     .0089 jack       .0077 mother     .0067 baby      
+.0067 robin      .0067 sing       .0065 boy        .0065 cat       
+.0063 bird       .0060 dance      .0058 song       .0057 oh        
+.0056 pig        .0056 play       .0053 pretty     .0047 dog       
+.0047 nursery    .0044 goose      .0044 cow        .0044 tree      
+.0043 children   .0043 lady       .0041 poor       .0040 love      
+.0039 bed        .0039 eat        .0038 round      .0038 house     
+.0035 red        .0035 cock       .0035 dear       .0035 bell      
+.0034 shoes      .0034 ride       .0033 merry      .0033 rhymes    
+.0032 white      .0032 woman      .0031 head       .0031 milk      
+.0031 fly        .0030 night      .0028 hill       .0028 till      
+.0028 king       .0027 hen        .0027 water      .0027 run       
+.0027 wind       .0027 mouse      .0026 book       .0026 moon      
+.0025 sat        .0025 wife       .0025 pussy      .0024 ran       
+.0024 town       .0024 apple      .0023 jumped     .0023 horse     
+.0023 maid       .0023 green      .0023 bread      .0023 tail      
+.0023 fire       .0023 called     .0023 fair       .0022 blow      
+.0022 duck       .0022 fine       .0022 bear       .0022 lay       
+.0022 wood       .0022 legs       .0022 pie        .0021 puss      
+.0021 tell       .0021 sleep      .0021 cake       .0021 stick     
+.0020 peep       .0020 rat        .0020 girl       .0020 dame      
+.0020 cry        .0019 sun        .0019 gay        .0019 blue      
+.0019 bee        .0018 tis        .0018 sweet      .0018 eggs      
+.0018 fairy      .0018 bow        .0017 tom        .0017 killed    
+.0017 penny      .0017 favourites .0017 thumb      .0017 fast      
+
+
+
+-------------------------------------------------------------------
+#: 0005  P: .0323    topic__5
+-------------------------------------------------------------------
+
+.0090 soldiers   .0090 officer    .0082 army       .0069 enemy     
+.0067 fight      .0064 fire       .0064 war        .0063 command   
+.0059 captain    .0056 hal        .0052 battle     .0052 force     
+.0051 german     .0050 attack     .0046 colonel    .0046 troops    
+.0045 horse      .0044 prisoners  .0042 hand       .0042 guns      
+.0041 lieutenant .0041 french     .0038 chester    .0037 passed    
+.0036 arms       .0035 wounded    .0033 left       .0033 british   
+.0032 advance    .0032 english    .0031 carried    .0031 american  
+.0031 hour       .0031 night      .0030 guard      .0030 returned  
+.0029 sent       .0029 escape     .0028 forward    .0027 shot      
+.0027 country    .0027 close      .0027 captured   .0026 moment    
+.0026 major      .0025 party      .0025 camp       .0025 lad       
+.0025 town       .0025 heard      .0024 position   .0024 arrived   
+.0024 miles      .0024 fort       .0023 killed     .0023 house     
+.0023 reached    .0023 regiment   .0023 charge     .0022 fell      
+.0022 friends    .0022 sergeant   .0022 ground     .0021 replied   
+.0021 front      .0021 head       .0021 little     .0021 road      
+.0021 service    .0020 remained   .0019 hope       .0019 quarters  
+.0019 cross      .0019 body       .0018 brought    .0018 allies    
+.0018 received   .0018 entered    .0018 river      .0018 able      
+.0018 strong     .0017 wall       .0017 brave      .0017 leave     
+.0017 sir        .0017 told       .0017 report     .0017 field     
+.0017 danger     .0016 heavy      .0016 half       .0016 rode      
+.0016 retreat    .0016 approached .0016 cavalry    .0016 shouted   
+.0016 lay        .0016 ready      .0016 minutes    .0016 dark      
+
+
+
+-------------------------------------------------------------------
+#: 0006  P: .0012    topic__6
+-------------------------------------------------------------------
+
+.0213 clock      .0203 honor      .0183 irish      .0136 burton    
+.0111 ireland    .0085 tales      .0082 christophe .0059 patrick   
+.0054 popular    .0046 watch      .0042 marvel     .0039 francesca 
+.0037 wales      .0036 dublin     .0034 salemina   .0033 fine      
+.0032 fire       .0032 gerry      .0031 paddy      .0031 hour      
+.0031 hill       .0030 wright     .0029 janie      .0027 beresford 
+.0025 eileen     .0025 bog        .0024 fair       .0022 lame      
+.0022 irishman   .0020 name       .0020 gloves     .0019 rent      
+.0019 maitland   .0018 ruin       .0018 fin        .0017 tick      
+.0016 felipe     .0016 dakota     .0016 wear       .0016 entirely  
+.0015 travel     .0015 chad       .0015 diamond    .0014 ludgate   
+.0013 herbs      .0013 pounds     .0013 son        .0012 welsh     
+.0012 common     .0012 erin       .0012 vivian     .0011 ould      
+.0011 silver     .0011 montrose   .0011 celtic     .0011 bettina   
+.0011 sunrise    .0011 lettice    .0011 inn        .0011 scotchman 
+.0011 grey       .0011 brass      .0011 mcphearson .0011 turf      
+.0010 english    .0010 cork       .0010 webster    .0010 race      
+.0010 jewels     .0010 arrived    .0010 vera       .0010 limerick  
+.0010 occurred   .0010 bell       .0009 tattine    .0009 clockmaker
+.0009 original   .0009 potatoes   .0009 pendulum   .0009 carlton   
+.0009 maker      .0009 nation     .0009 curate     .0009 fitzgerald
+.0008 dermot     .0008 sovereign  .0008 route      .0008 mcqueen   
+.0008 colleen    .0008 teller     .0007 hyde       .0007 sort      
+.0007 court      .0007 katara     .0007 stone      .0007 bacon     
+.0007 malone     .0007 england    .0007 brogue     .0007 castle    
+
+
+
+-------------------------------------------------------------------
+#: 0007  P: .0050    topic__7
+-------------------------------------------------------------------
+
+.0126 jacob      .0106 master     .0095 believe    .0079 lad       
+.0079 seth       .0079 town       .0078 people     .0077 hiram     
+.0071 cause      .0070 mind       .0070 words      .0060 matter    
+.0057 gordon     .0056 remained   .0051 force      .0051 enoch     
+.0049 learn      .0048 roman      .0046 fear       .0044 hour      
+.0042 save       .0042 house      .0041 speak      .0040 count     
+.0038 washington .0038 prisoner   .0036 understand .0036 allowed   
+.0035 aid        .0035 question   .0034 british    .0034 carried   
+.0034 chance     .0033 friends    .0033 york       .0032 danger    
+.0032 boston     .0031 reason     .0031 hold       .0031 stand     
+.0031 cornelia   .0031 concerning .0031 night      .0031 nero      
+.0030 told       .0029 beric      .0029 duty       .0029 ready     
+.0029 leave      .0029 served     .0029 saul       .0029 venture   
+.0029 tory       .0029 story      .0028 company    .0028 cried     
+.0028 tone       .0027 lest       .0027 sim        .0027 heard     
+.0025 portion    .0025 understood .0025 brought    .0025 zeke      
+.0025 city       .0025 building   .0024 elma       .0024 lord      
+.0024 hand       .0024 food       .0023 failed     .0023 green     
+.0023 purpose    .0022 act        .0022 fancy      .0021 able      
+.0021 governor   .0020 eager      .0020 regulators .0020 sent      
+.0020 coat       .0020 surely     .0019 trouble    .0019 desire    
+.0019 heed       .0018 opportunit .0018 bring      .0018 find      
+.0018 task       .0018 mother     .0018 appeared   .0018 meet      
+.0017 prevent    .0017 tell       .0017 labor      .0016 fashion   
+.0016 journey    .0016 gathered   .0016 gleazen    .0016 arnold    
+
+
+
+-------------------------------------------------------------------
+#: 0008  P: .0275    topic__8
+-------------------------------------------------------------------
+
+.0229 king       .0115 thou       .0115 knight     .0068 thee      
+.0054 hand       .0054 thy        .0053 god        .0052 sword     
+.0050 son        .0044 land       .0043 lord       .0039 father    
+.0039 called     .0039 horse      .0038 robin      .0037 queen     
+.0036 answered   .0035 castle     .0034 fair       .0034 name      
+.0033 arms       .0033 sir        .0032 cried      .0031 tell      
+.0031 told       .0030 head       .0030 words      .0029 brother   
+.0029 battle     .0029 lady       .0028 noble      .0028 death     
+.0028 heard      .0028 city       .0027 people     .0027 fight     
+.0026 fear       .0026 fell       .0025 arthur     .0025 brought   
+.0024 forth      .0024 sent       .0024 forest     .0024 sea       
+.0023 love       .0023 master     .0023 heart      .0022 passed    
+.0022 art        .0022 rode       .0022 stood      .0022 hero      
+.0022 till       .0022 left       .0022 hast       .0021 hath      
+.0021 ship       .0021 story      .0020 gold       .0019 dead      
+.0019 return     .0019 lay        .0019 rome       .0019 shield    
+.0019 friend     .0018 wife       .0018 hood       .0018 court     
+.0018 spear      .0018 carried    .0018 hall       .0017 life      
+.0017 slain      .0017 bring      .0017 arrow      .0017 pray      
+.0017 bade       .0017 gate       .0017 war        .0017 maiden    
+.0017 find       .0016 daughter   .0016 feast      .0016 body      
+.0016 brave      .0016 nay        .0016 leave      .0015 walls     
+.0015 deeds      .0015 wounded    .0015 evil       .0015 round     
+.0015 bow        .0014 save       .0014 prince     .0014 stone     
+.0014 held       .0014 country    .0014 hear       .0014 roman     
+
+
+
+-------------------------------------------------------------------
+#: 0009  P: .0004    topic__9
+-------------------------------------------------------------------
+
+.0071 lesbia     .0027 regina     .0026 patterson  .0014 oil       
+.0013 lent       .0011 font       .0010 derrick    .0010 canada    
+.0009 died       .0009 fit        .0009 pratt      .0008 tram      
+.0008 marion     .0007 tatham     .0007 kingfield  .0007 ragged    
+.0007 calla      .0007 diesel     .0006 bar        .0006 stripling 
+.0006 relatives  .0006 margin     .0006 ormerod    .0006 maisie    
+.0005 sport      .0005 butt       .0005 hilton     .0005 pur       
+.0005 bad        .0004 terry      .0004 dictation  .0004 mso       
+.0004 kathleen   .0004 aldora     .0003 stencil    .0003 morwoods  
+.0003 val        .0003 prefect    .0003 inn        .0003 term      
+.0003 filled     .0003 limited    .0003 ermie      .0003 meted     
+.0003 newton     .0003 webster    .0003 sting      .0003 celtic    
+.0003 hodgins    .0003 medi       .0002 parry      .0002 cloakroom 
+.0002 tied       .0002 fee        .0002 ferrars    .0002 met       
+.0002 bribe      .0002 prepared   .0002 renton     .0002 pac       
+.0002 rate       .0002 ta         .0002 palpable   .0002 bunty     
+.0002 style      .0002 drink      .0002 hotter     .0002 janna     
+.0002 stockton   .0002 vb         .0002 cissie     .0002 lies      
+.0002 tray       .0001 amply      .0001 fling      .0001 keily     
+.0001 lotus      .0001 gingeroo   .0001 lightwood  .0001 iib       
+.0001 prop       .0001 din        .0001 tatie      .0001 fray      
+.0001 zealous    .0001 offence    .0001 gwennie    .0001 unfortunat
+.0001 damozel    .0001 fetch      .0001 magsie     .0001 tin       
+.0001 stepsister .0001 stepbrothe .0001 chatham    .0001 mixture   
+.0001 steeplecha .0001 dolmadoc   .0001 drama      .0001 ripe      
+
+
+
+-------------------------------------------------------------------
+#: 0010  P: .0020    topic__10
+-------------------------------------------------------------------
+
+.0730 robert     .0190 nat        .0146 andrew     .0102 ella      
+.0092 talbot     .0091 basil      .0090 willie     .0063 tayoga    
+.0059 matt       .0043 lucas      .0043 phaeton    .0042 eyes      
+.0042 clinton    .0040 french     .0039 mind       .0039 steering  
+.0038 ermengarde .0038 willet     .0034 black      .0033 dance     
+.0033 strong     .0033 lyddy      .0031 figure     .0029 johnson   
+.0026 hear       .0026 sally      .0026 madeira    .0025 lay       
+.0025 phemie     .0025 night      .0024 tell       .0023 amber     
+.0023 whispered  .0022 wish       .0022 onondaga   .0022 luc       
+.0022 lincoln    .0022 demi       .0021 fool       .0021 feel      
+.0021 continued  .0020 alley      .0020 fine       .0020 mason     
+.0019 bhaer      .0017 corinne    .0017 deep       .0017 youth     
+.0017 wilton     .0016 meet       .0016 perpetua   .0016 walked    
+.0016 manner     .0016 ermie      .0016 fire       .0015 bray      
+.0015 piney      .0015 dagaeoga   .0015 wilderness .0015 mean      
+.0014 bushes     .0014 padgett    .0014 truth      .0014 lennox    
+.0014 hope       .0014 passed     .0014 susie      .0014 force     
+.0013 grosvenor  .0013 fog        .0013 dobson     .0013 em        
+.0013 tandakora  .0013 lead       .0013 bear       .0012 cold      
+.0012 montcalm   .0012 badger     .0011 shut       .0011 jackson   
+.0011 halbert    .0011 sermon     .0011 binko      .0011 canaan    
+.0011 speak      .0011 heir       .0011 expected   .0011 trafton   
+.0011 noon       .0011 true       .0011 bruce      .0010 tan       
+.0010 tall       .0010 leather    .0010 hardy      .0010 brook     
+.0010 miniature  .0010 trace      .0010 albany     .0010 hate      
+
+
+
+-------------------------------------------------------------------
+#: 0011  P: .0014    topic__11
+-------------------------------------------------------------------
+
+.0488 charlie    .0220 que        .0181 el         .0102 una       
+.0102 en         .0085 dicky      .0080 un         .0070 con       
+.0066 por        .0056 oswald     .0053 para       .0051 le        
+.0044 las        .0043 era        .0033 mi         .0030 pero      
+.0030 padre      .0028 del        .0027 celia      .0026 como      
+.0023 koko       .0023 sus        .0022 muppim     .0022 denny     
+.0022 sin        .0021 todos      .0021 ya         .0020 shank     
+.0020 yo         .0019 tan        .0018 te         .0018 casa      
+.0017 qu         .0017 jewish     .0017 ella       .0016 haba      
+.0016 ser        .0016 menie      .0014 est        .0014 ah        
+.0013 twins      .0013 muy        .0013 leather    .0013 cuando    
+.0013 os         .0013 eso        .0012 fin        .0012 solo      
+.0012 antes      .0012 vez        .0011 estaba     .0011 mas       
+.0011 fay        .0011 ver        .0011 uma        .0011 algo      
+.0010 fue        .0010 saber      .0010 porque     .0009 em        
+.0009 grand      .0009 esta       .0009 hunky      .0009 uno       
+.0009 dio        .0009 kesshoo    .0009 dora       .0009 tena      
+.0008 nada       .0008 nia        .0008 amigos     .0008 monnie    
+.0008 otro       .0008 slash      .0008 dijo       .0008 cosas     
+.0008 char       .0008 huppim     .0008 son        .0007 tiene     
+.0007 nio        .0007 mucho      .0007 tu         .0007 hasta     
+.0007 poco       .0007 ese        .0007 bien       .0007 jew       
+.0007 color      .0007 tambin     .0007 naomi      .0007 sea       
+.0007 bueno      .0006 seu        .0006 madre      .0006 koolee    
+.0006 pas        .0006 siempre    .0006 esa        .0006 nunca     
+
+
+
+-------------------------------------------------------------------
+#: 0012  P: .0098    topic__12
+-------------------------------------------------------------------
+
+.0153 en         .0146 jim        .0139 em         .0135 ter       
+.0122 dat        .0115 yer        .0104 git        .0090 brer      
+.0084 goin       .0083 fer        .0079 dey        .0076 little    
+.0073 wuz        .0066 rabbit     .0061 ef         .0061 jest      
+.0057 folks      .0054 kin        .0052 bout       .0051 ole       
+.0050 tell       .0049 uncle      .0047 mighty     .0046 nothin    
+.0045 yo         .0043 wid        .0041 den        .0038 boy       
+.0038 dis        .0037 reckon     .0036 thar       .0036 hit       
+.0036 low        .0036 im         .0036 feller     .0034 fur       
+.0034 dar        .0034 head       .0033 eyes       .0030 fox       
+.0028 gwine      .0028 bein       .0028 un         .0028 remus     
+.0026 gal        .0025 run        .0025 bin        .0025 comin     
+.0025 ere        .0025 house      .0024 doin       .0024 thad      
+.0023 night      .0023 sez        .0022 connie     .0022 whar      
+.0022 josiah     .0022 wolf       .0022 lookin     .0022 ez        
+.0022 aint       .0021 mo         .0021 dem        .0020 somethin  
+.0020 agin       .0020 jes        .0020 mornin     .0019 laugh     
+.0019 brother    .0019 nigger     .0019 cause      .0018 negro     
+.0018 fo         .0018 roun       .0017 dan        .0017 ax        
+.0017 thet       .0017 story      .0017 lay        .0017 honey     
+.0016 kinder     .0016 hev        .0015 thinkin    .0015 road      
+.0015 uv         .0015 long       .0014 holler     .0014 talkin    
+.0014 lot        .0014 mammy      .0014 gettin     .0013 ther      
+.0013 exclaimed  .0013 feel       .0013 sonny      .0013 aunt      
+.0013 sot        .0013 lak        .0013 name       .0013 call      
+
+
+
+-------------------------------------------------------------------
+#: 0013  P: .0037    topic__13
+-------------------------------------------------------------------
+
+.0173 iii        .0090 ill        .0073 ti         .0069 ft        
+.0065 tin        .0061 lit        .0061 mi         .0055 lie       
+.0044 ihe        .0043 lii        .0038 ri         .0035 iv        
+.0032 iu         .0029 tlie       .0028 ui         .0028 ol        
+.0025 ia         .0025 ho         .0024 tho        .0024 nt        
+.0024 tl         .0024 till       .0023 ot         .0023 oi        
+.0023 yon        .0023 pi         .0022 hut        .0021 rr        
+.0020 ff         .0020 ut         .0020 hy         .0020 nd        
+.0020 ii         .0020 ty         .0019 rt         .0019 nil       
+.0018 ik         .0018 ami        .0018 ji         .0017 ail       
+.0016 nn         .0016 ice        .0016 lies       .0016 ra        
+.0016 thai       .0016 tie        .0015 ta         .0015 fe        
+.0015 fl         .0014 arc        .0014 bis        .0014 word      
+.0014 ry         .0014 ij         .0014 iiii       .0013 tii       
+.0013 til        .0013 wi         .0013 vv         .0013 iy        
+.0013 di         .0013 ili        .0013 lin        .0013 mill      
+.0012 oil        .0012 aa         .0012 form       .0012 lor       
+.0012 rn         .0012 tli        .0012 wo         .0012 harper    
+.0012 ion        .0011 ul         .0011 ip         .0011 un        
+.0011 nii        .0011 tu         .0011 iil        .0011 anil      
+.0011 ini        .0010 ss         .0010 wh         .0010 ire       
+.0010 tbe        .0010 tor        .0010 thr        .0010 hoy       
+.0010 mf         .0010 lias       .0010 ny         .0010 aud       
+.0010 iti        .0010 fc         .0010 iin        .0010 iir       
+.0009 ave        .0009 tha        .0009 iit        .0009 rs        
+
+
+
+-------------------------------------------------------------------
+#: 0014  P: .0025    topic__14
+-------------------------------------------------------------------
+
+.0123 eric       .0108 boy        .0082 ship       .0080 land      
+.0080 olaf       .0067 danes      .0067 russell    .0062 norway    
+.0060 people     .0059 sea        .0054 king       .0054 gerda     
+.0050 viking     .0050 edmund     .0046 danish     .0045 sigurd    
+.0040 reindeer   .0040 country    .0039 hoodie     .0038 sweden    
+.0038 saxon      .0037 denmark    .0036 geese      .0034 stood     
+.0032 sail       .0032 north      .0029 winter     .0029 name      
+.0028 swedish    .0028 dragon     .0027 wild       .0027 ole       
+.0026 son        .0025 christian  .0025 head       .0024 dulcie    
+.0024 father     .0024 wall       .0023 coast      .0022 church    
+.0022 astrid     .0022 farm       .0021 lay        .0021 summer    
+.0021 erik       .0021 shouted    .0021 harald     .0021 iceland   
+.0019 england    .0019 jon        .0019 norwegian  .0019 row       
+.0018 travel     .0018 lapp       .0018 battle     .0018 called    
+.0017 added      .0017 sweyn      .0017 magdalen   .0016 cross     
+.0016 students   .0016 maudie     .0016 lake       .0016 east      
+.0016 norsemen   .0016 iron       .0016 castle     .0015 egbert    
+.0015 clyde      .0015 clare      .0015 sanford    .0015 karen     
+.0015 peaks      .0015 peace      .0014 meet       .0014 hiccup    
+.0014 hakon      .0014 raised     .0014 gander     .0014 built     
+.0014 toothless  .0014 fleet      .0014 montagu    .0014 earl      
+.0014 northern   .0014 carmel     .0013 story      .0013 nils      
+.0013 horn       .0013 peasant    .0013 arms       .0013 replied   
+.0013 akka       .0013 fight      .0012 goose      .0012 swedes    
+.0012 stockholm  .0012 duke       .0012 english    .0012 dare      
+
+
+
+-------------------------------------------------------------------
+#: 0015  P: .0012    topic__15
+-------------------------------------------------------------------
+
+.0190 butler     .0149 rosa       .0122 tory       .0104 fugitives 
+.0090 lena       .0088 tip        .0080 ellis      .0080 lance     
+.0075 friend     .0070 wyoming    .0069 eva        .0063 drew      
+.0060 cavern     .0057 river      .0057 mohawk     .0055 wilderness
+.0048 ned        .0045 leo        .0042 captive    .0036 wingo     
+.0035 hale       .0034 gravity    .0033 patriotic  .0032 iroquois  
+.0031 reached    .0031 kara       .0029 nature     .0027 party     
+.0026 punch      .0025 seneca     .0024 steal      .0021 flight    
+.0021 failed     .0021 cause      .0020 paused     .0019 direction 
+.0019 wood       .0019 clinton    .0019 painted    .0018 favor     
+.0018 signal     .0018 minturn    .0017 brainerd   .0017 detected  
+.0016 colonel    .0015 aim        .0015 doubt      .0015 placed    
+.0015 precisely  .0014 action     .0014 recalled   .0014 scout     
+.0014 hank       .0013 gloom      .0013 movement   .0013 dudley    
+.0013 hide       .0013 suspected  .0013 red        .0012 godfrey   
+.0012 walk       .0012 warriors   .0012 appeared   .0012 maggie    
+.0012 belief     .0012 uttered    .0011 neighborho .0011 truth     
+.0011 shore      .0011 bank       .0011 died       .0011 brother   
+.0011 greenwood  .0011 jake       .0011 fallen     .0011 motoza    
+.0010 figure     .0010 learn      .0010 brief      .0010 concluded 
+.0010 meant      .0010 susquehann .0010 refuge     .0010 hammond   
+.0009 holbrook   .0009 ian        .0009 golcher    .0009 dreadful  
+.0009 sig        .0009 hull       .0009 skill      .0009 habakkuk  
+.0009 mistake    .0009 greek      .0008 intended   .0008 referred  
+.0008 care       .0008 youth      .0008 victim     .0008 series    
+
+
+
+-------------------------------------------------------------------
+#: 0016  P: .0015    topic__16
+-------------------------------------------------------------------
+
+.0105 bad        .0085 fur        .0066 ic         .0052 bet       
+.0051 ju         .0044 digitized  .0041 urn        .0038 bed       
+.0036 aid        .0030 vjooq      .0026 bat        .0023 foil      
+.0020 met        .0019 bu         .0017 ift        .0017 gutter    
+.0014 cin        .0014 bid        .0013 mid        .0013 mi        
+.0012 aud        .0012 bee        .0012 bic        .0011 bcr       
+.0011 winter     .0011 roirb      .0011 ober       .0011 piel      
+.0010 baft       .0010 cine       .0010 dr         .0009 fa        
+.0009 bent       .0009 fen        .0009 ed         .0009 eft       
+.0009 iii        .0008 sin        .0008 imrocf     .0008 nit       
+.0008 ff         .0008 roerben    .0007 jum        .0007 hunger    
+.0007 alien      .0007 mat        .0007 sine       .0007 fiber     
+.0006 nia        .0006 ut         .0006 bit        .0006 softer    
+.0006 ailed      .0006 noa        .0006 diet       .0006 fcin      
+.0006 op         .0006 bag        .0006 ftnb       .0005 fann      
+.0005 wit        .0005 rum        .0005 mitt       .0005 roenn     
+.0005 mer        .0005 boa        .0005 tfinber    .0005 uf        
+.0005 opp        .0005 jroei      .0005 bci        .0005 le        
+.0005 nrirb      .0005 ijat       .0005 jut        .0005 fommt     
+.0005 ott        .0005 tyre       .0004 fatten     .0004 fmb       
+.0004 sum        .0004 mien       .0004 inb        .0004 fit       
+.0004 ei         .0004 aa         .0004 roar       .0004 uber      
+.0004 gem        .0004 und        .0004 tyr        .0004 nut       
+.0004 fu         .0004 bei        .0004 din        .0004 ia        
+.0004 olj        .0004 aua        .0004 mcin       .0004 died      
+
+
+
+-------------------------------------------------------------------
+#: 0017  P: .0662    topic__17
+-------------------------------------------------------------------
+
+.0185 girl       .0080 oh         .0074 eyes       .0058 little    
+.0048 feel       .0048 course     .0048 love       .0046 smile     
+.0045 hand       .0044 laughed    .0043 moment     .0042 tell      
+.0035 voice      .0035 life       .0034 friends    .0033 wonder    
+.0032 wait       .0032 chapter    .0031 door       .0031 mind      
+.0030 matter     .0029 words      .0029 dear       .0029 suppose   
+.0028 night      .0028 mean       .0027 head       .0026 glance    
+.0026 called     .0026 lady       .0026 dress      .0026 house     
+.0025 afternoon  .0025 half       .0025 people     .0025 letter    
+.0024 believe    .0024 heart      .0024 hair       .0023 hope      
+.0023 question   .0023 sort       .0022 suddenly   .0022 try       
+.0022 answered   .0022 returned   .0022 find       .0022 meet      
+.0022 idea       .0021 hour       .0021 remember   .0021 woman     
+.0020 wish       .0020 minutes    .0020 told       .0020 hard      
+.0020 table      .0019 chair      .0019 pretty     .0019 care      
+.0019 change     .0019 marjorie   .0019 understand .0019 sat       
+.0018 expression .0018 expected   .0018 name       .0018 walk      
+.0018 excitement .0018 happened   .0018 stay       .0018 tone      
+.0018 glad       .0018 suggested  .0018 explained  .0017 white     
+.0017 hall       .0017 aunt       .0017 remarked   .0017 person    
+.0017 real       .0017 married    .0017 left       .0016 arms      
+.0016 surprise   .0016 business   .0016 speak      .0016 decided   
+.0016 tea        .0016 ought      .0016 train      .0016 cried     
+.0016 sighed     .0015 nice       .0015 study      .0015 bit       
+.0015 party      .0015 dinner     .0015 school     .0015 plan      
+
+
+
+-------------------------------------------------------------------
+#: 0018  P: .0012    topic__18
+-------------------------------------------------------------------
+
+.0291 flag       .0274 johnny     .0207 rebecca    .0204 adams     
+.0096 perkins    .0076 aunt       .0067 olivia     .0065 minister  
+.0065 simpson    .0051 miranda    .0048 hat        .0045 barber    
+.0045 em         .0044 cis        .0043 stars      .0043 red       
+.0041 stripes    .0037 cobb       .0033 wife       .0032 emma      
+.0026 main       .0024 tessie     .0023 thomas     .0022 favorite  
+.0021 brick      .0021 moody      .0019 dearborn   .0019 color     
+.0019 robinson   .0018 banner     .0018 farm       .0018 raised    
+.0017 wear       .0016 stage      .0015 born       .0015 jefferson 
+.0014 langdon    .0014 barn       .0014 tied       .0014 tiny      
+.0013 riverboro  .0013 duty       .0013 quilt      .0013 arms      
+.0012 handkerchi .0012 huldah     .0012 thirteen   .0012 spangled  
+.0011 randall    .0011 hannah     .0011 pride      .0011 salute    
+.0011 neighbors  .0011 swiveller  .0011 soap       .0011 awful     
+.0010 sewing     .0010 helpers    .0010 pine       .0010 compositio
+.0010 pip        .0010 plummer    .0009 mite       .0009 corn      
+.0009 pin        .0009 baxter     .0009 sawyer     .0009 appleton  
+.0009 bean       .0008 braid      .0008 wopsie     .0008 missionary
+.0008 grandpa    .0008 brit       .0008 cow        .0008 clara     
+.0008 kukor      .0008 bunting    .0008 borrowed   .0008 mister    
+.0007 spot       .0007 pink       .0007 entry      .0007 longshorem
+.0007 diary      .0007 heathen    .0007 stitch     .0007 road      
+.0007 peggotty   .0007 pail       .0007 pie        .0007 aurelia   
+.0007 brown      .0007 mill       .0007 punishment .0006 wagon     
+.0006 beads      .0006 events     .0006 gorilla    .0006 dodger    
+
+
+
+-------------------------------------------------------------------
+#: 0019  P: .0003    topic__19
+-------------------------------------------------------------------
+
+.0022 urn        .0010 hunger     .0010 wit        .0009 aid       
+.0008 torn       .0008 tied       .0006 terra      .0006 abi       
+.0005 ragged     .0005 ana        .0005 bed        .0004 hit       
+.0004 iv         .0003 rut        .0003 bri        .0003 met       
+.0003 iii        .0002 oil        .0002 seller     .0002 bat       
+.0002 fret       .0002 internal   .0002 rum        .0002 beastboy  
+.0002 bare       .0002 mid        .0001 po         .0001 frozen    
+.0001 litde      .0001 fiat       .0001 titans     .0001 ty        
+.0001 mia        .0001 material   .0001 eyed       .0001 rite      
+.0001 cunning    .0001 ofl        .0001 starfire   .0001 value     
+.0001 tell       .0001 hat        .0001 related    .0001 ray       
+.0001 sne        .0001 recite     .0001 shut       .0001 elek      
+.0001 sting      .0001 midwife    .0001 bid        .0001 lat       
+.0001 lot        .0001 maj        .0001 man        .0001 cite      
+.0001 flame      .0001 sip        .0001 rain       .0001 air       
+.0001 teen       .0001 spring     .0001 dining     .0001 original  
+.0001 flatter    .0001 cynric     .0001 ill        .0001 paga      
+.0001 rid        .0001 brain      .0001 heart      .0001 jak       
+.0001 hem        .0001 mild       .0001 saiah      .0001 sum       
+.0001 brief      .0001 rk         .0001 lit        .0001 ashwin    
+.0001 quit       .0001 stint      .0001 dug        .0001 rare      
+.0001 loft       .0001 abide      .0000 anger      .0000 mere      
+.0000 boon       .0000 hamburg    .0000 bun        .0000 foo       
+.0000 cob        .0000 dying      .0000 eb         .0000 contemplat
+.0000 fritter    .0000 fragments  .0000 wnen       .0000 born      
+
+
+
+-------------------------------------------------------------------
+#: 0020  P: .0138    topic__20
+-------------------------------------------------------------------
+
+.0495 dog        .0231 horse      .0201 cat        .0164 master    
+.0119 animals    .0095 head       .0074 legs       .0071 black     
+.0070 run        .0060 tail       .0059 pet        .0058 house     
+.0052 poor       .0051 sheep      .0049 ran        .0045 monkey    
+.0045 bark       .0044 minnie     .0044 road       .0042 called    
+.0042 nose       .0041 paws       .0040 life       .0039 creature  
+.0039 ears       .0038 stable     .0038 mouth      .0037 eat       
+.0037 rat        .0036 carried    .0036 till       .0036 heard     
+.0035 cage       .0035 killed     .0035 lamb       .0034 neck      
+.0034 door       .0034 feet       .0033 yard       .0033 human     
+.0033 bit        .0032 food       .0031 jumped     .0029 cow       
+.0029 kitten     .0029 teeth      .0029 hard       .0029 round     
+.0028 smell      .0028 archie     .0027 whip       .0026 field     
+.0026 night      .0026 feed       .0026 lay        .0026 race      
+.0025 white      .0025 milk       .0025 stand      .0025 cold      
+.0025 bones      .0025 eyes       .0024 catch      .0024 ground    
+.0024 body       .0024 drive      .0024 pulled     .0024 hold      
+.0024 chase      .0024 coat       .0024 farm       .0024 caught    
+.0024 walk       .0024 mistress   .0023 wild       .0023 trick     
+.0023 beast      .0023 tried      .0023 kick       .0022 bad       
+.0022 licked     .0022 brought    .0022 drink      .0021 bite      
+.0020 hurt       .0020 stood      .0020 name       .0020 keeper    
+.0020 ragged     .0020 reins      .0019 warm       .0019 wood      
+.0019 noise      .0019 parrot     .0018 piece      .0018 fast      
+.0018 growled    .0018 close      .0018 owner      .0017 puppy     
+
+
+
+-------------------------------------------------------------------
+#: 0021  P: .0018    topic__21
+-------------------------------------------------------------------
+
+.0532 elsie      .0124 di         .0120 bertie     .0107 lulu      
+.0092 dan        .0072 dia        .0070 dinsmore   .0060 chloe     
+.0058 japanese   .0057 yang       .0055 stumps     .0049 wick      
+.0049 papa       .0040 aku        .0038 ada        .0036 marley    
+.0035 itu        .0034 travilla   .0033 honey      .0032 pritchard 
+.0032 moss       .0031 evelyn     .0029 ia         .0029 ini       
+.0027 max        .0026 arthur     .0025 ya         .0025 ah        
+.0024 womanhood  .0024 eddie      .0024 middleton  .0024 dwight    
+.0023 dengan     .0023 senor      .0022 mammy      .0022 adelaide  
+.0022 ina        .0021 dragon     .0020 hallie     .0020 tidak     
+.0020 san        .0020 japan      .0019 grandpa    .0019 roselands 
+.0019 violet     .0018 tyro       .0017 orange     .0017 chan      
+.0017 dari       .0017 enna       .0017 taro       .0016 wiles     
+.0016 jose       .0015 apa        .0015 tapi       .0015 pun       
+.0014 tak        .0014 untuk      .0013 marah      .0013 mau       
+.0013 tone       .0012 ion        .0012 lagi       .0012 din       
+.0012 sama       .0012 mereka     .0012 harold     .0012 ko        
+.0012 anak       .0012 sudah      .0011 veranda    .0011 wickford  
+.0011 bisa       .0011 akan       .0011 horace     .0011 juga      
+.0011 pak        .0010 enderby    .0010 kan        .0010 girard    
+.0010 air        .0010 mikado     .0010 ibu        .0010 yung      
+.0010 ayah       .0010 karena     .0010 hari       .0009 viamede   
+.0009 lester     .0009 saja       .0009 oh         .0009 leanne    
+.0009 kau        .0009 kami       .0009 ralston    .0009 allison   
+.0009 beaumont   .0009 jadi       .0009 cara       .0009 kamu      
+
+
+
+-------------------------------------------------------------------
+#: 0022  P: .0566    topic__22
+-------------------------------------------------------------------
+
+.0112 eyes       .0103 little     .0088 heart      .0073 love      
+.0063 beautiful  .0060 life       .0059 hand       .0059 night     
+.0059 light      .0054 flowers    .0050 stood      .0048 child     
+.0048 rose       .0048 dark       .0046 sun        .0045 tree      
+.0044 white      .0042 wind       .0039 air        .0038 head      
+.0037 voice      .0037 lay        .0036 dream      .0035 sound     
+.0034 sweet      .0032 bright     .0031 earth      .0031 passed    
+.0030 words      .0030 deep       .0030 green      .0029 sky       
+.0029 sat        .0028 water      .0028 golden     .0027 clouds    
+.0027 stars      .0027 strange    .0027 blue       .0027 dead      
+.0026 leave      .0026 sea        .0026 bird       .0026 close     
+.0026 wild       .0026 heard      .0026 cold       .0026 soul      
+.0026 god        .0025 smile      .0025 grew       .0024 sleep     
+.0024 shadow     .0024 happy      .0024 poor       .0024 fell      
+.0024 heaven     .0023 hill       .0023 woman      .0023 tears     
+.0023 spring     .0023 snow       .0023 waves      .0023 mountain  
+.0022 breath     .0022 arms       .0021 joy        .0021 round     
+.0021 shining    .0021 land       .0021 soft       .0020 summer    
+.0020 feet       .0020 wonder     .0020 mother     .0020 wings     
+.0019 lips       .0019 black      .0019 forth      .0019 death     
+.0019 sing       .0019 spirit     .0019 silent     .0019 moment    
+.0019 grave      .0018 filled     .0018 beneath    .0018 listen    
+.0018 gazed      .0018 hair       .0018 red        .0018 song      
+.0017 watch      .0017 gold       .0017 wood       .0017 fall      
+.0017 warm       .0017 peace      .0017 hour       .0017 people    
+
+
+
+-------------------------------------------------------------------
+#: 0023  P: .0008    topic__23
+-------------------------------------------------------------------
+
+.0333 carl       .0176 rodney     .0095 stock      .0088 jennings  
+.0076 parker     .0073 crawford   .0069 kelly      .0056 morgan    
+.0051 claude     .0045 gilroy     .0042 casket     .0042 julian    
+.0040 lisbeth    .0035 stark      .0035 jefferson  .0035 sue       
+.0034 norman     .0033 conrad     .0031 rope       .0030 gil       
+.0030 thompson   .0023 edgar      .0023 met        .0023 content   
+.0021 purse      .0020 cook       .0019 clary      .0019 trailer   
+.0019 allison    .0019 cobbler    .0018 newspaper  .0018 cone      
+.0017 dora       .0017 nicolai    .0017 buckeye    .0016 wheeler   
+.0016 ghost      .0016 silky      .0015 pettigrew  .0015 lie       
+.0015 hawkeye    .0015 roland     .0015 norris     .0015 tate      
+.0013 gems       .0012 change     .0012 gibbon     .0012 cyrus     
+.0011 meadow     .0011 dickon     .0010 lies       .0010 breed     
+.0010 london     .0010 luanda     .0010 phillips   .0010 kline     
+.0010 schoolboys .0009 frederic   .0009 hay        .0009 rod       
+.0009 dunmore    .0009 concluded  .0009 witherspoo .0009 louis     
+.0008 zeb        .0008 goodnow    .0008 pine       .0008 factory   
+.0008 roswald    .0008 redwood    .0008 squawman   .0008 rudolph   
+.0007 trey       .0007 smiley     .0007 sheldon    .0007 krinken   
+.0007 peg        .0007 spell      .0007 joyeuse    .0007 heather   
+.0007 lenox      .0007 hermann    .0007 caesar     .0006 mince     
+.0006 stepmother .0006 dispatched .0006 cent       .0006 leonard   
+.0006 gael       .0006 safe       .0006 mark       .0006 massa     
+.0006 montana    .0006 orderly    .0006 cloak      .0006 preston   
+.0005 edric      .0005 angus      .0005 mckenzie   .0005 milford   
+
+
+
+-------------------------------------------------------------------
+#: 0024  P: .0012    topic__24
+-------------------------------------------------------------------
+
+.0235 violet     .0225 archie     .0138 austin     .0135 ally      
+.0129 jinnie     .0124 peg        .0117 mattie     .0114 geoffrey  
+.0101 theodore   .0078 nan        .0077 phillis    .0077 victor    
+.0056 lafe       .0055 nell       .0052 tell       .0047 gardiner  
+.0046 drummond   .0044 grand      .0043 hall       .0038 shop      
+.0037 cobbler    .0035 challoner  .0034 lionel     .0032 bernardine
+.0031 arms       .0031 moore      .0030 jay        .0024 dulce     
+.0024 wife       .0023 mayne      .0023 ere        .0022 rosebud   
+.0022 blind      .0022 morse      .0021 rutherford .0019 bring     
+.0018 fiddle     .0018 archibald  .0018 hill       .0017 childie   
+.0017 morrow     .0016 bates      .0015 milly      .0015 placed    
+.0015 grace      .0015 grandoken  .0015 gerald     .0015 virginia  
+.0015 man        .0015 jordan     .0014 awful      .0014 cheyne    
+.0014 ill        .0013 crump      .0013 maudlin    .0013 cut       
+.0013 peanuts    .0012 breath     .0012 gerry      .0012 brought   
+.0012 drawing    .0012 pages      .0012 life       .0011 repeated  
+.0011 middleton  .0011 lips       .0011 hate       .0011 antoinette
+.0011 spite      .0010 geraldine  .0010 mannington .0009 observed  
+.0009 jew        .0009 peony      .0009 dead       .0009 ah        
+.0009 pendleton  .0009 geof       .0008 treherne   .0008 kiah      
+.0008 glen       .0008 hermione   .0008 length     .0008 mewlstone 
+.0008 oxford     .0007 fingers    .0007 killed     .0007 longed    
+.0007 joachim    .0007 kaitlyn    .0007 happy      .0007 lamont    
+.0007 thin       .0007 lila       .0007 angel      .0007 kid       
+.0007 uttered    .0006 magdalene  .0006 fitzroy    .0006 burden    
+
+
+
+-------------------------------------------------------------------
+#: 0025  P: .0010    topic__25
+-------------------------------------------------------------------
+
+.0379 barbara    .0256 wilson     .0248 harriet    .0170 jean      
+.0156 bab        .0153 peep       .0143 ruth       .0083 peter     
+.0081 sally      .0071 stuart     .0057 eunice     .0051 olive     
+.0038 automobile .0035 moore      .0033 thurston   .0032 red       
+.0031 stevens    .0028 hamlin     .0027 sal        .0026 jill      
+.0026 lenox      .0024 latham     .0022 returned   .0022 washington
+.0021 hill       .0021 angela     .0018 etta       .0018 pages     
+.0017 robertson  .0017 explained  .0017 elting     .0017 babe      
+.0015 car        .0015 presby     .0014 rover      .0014 ride      
+.0013 carter     .0013 chinese    .0012 continued  .0012 hurst     
+.0012 dillon     .0012 guardian   .0011 assistance .0011 lessing   
+.0011 buried     .0011 naki       .0011 inquired   .0011 harmon    
+.0011 volume     .0011 sanderson  .0011 reginald   .0010 avery     
+.0010 christophe .0010 passage    .0010 chicago    .0010 request   
+.0010 bubble     .0010 treasure   .0010 paper      .0009 ill       
+.0009 morris     .0009 canon      .0009 meyers     .0009 finlayson 
+.0009 dream      .0008 secretary  .0008 baker      .0008 wandered  
+.0008 murray     .0008 finny      .0008 berkeley   .0008 britton   
+.0008 protested  .0008 ambassador .0008 reception  .0008 story     
+.0007 persuaded  .0007 charlotte  .0007 gotten     .0007 companion 
+.0007 egbert     .0007 playroom   .0007 frieda     .0007 conversati
+.0007 morton     .0006 interrupte .0006 wilfred    .0006 rainbow   
+.0006 berkshire  .0006 frock      .0006 botterby   .0006 died      
+.0006 beech      .0006 dassonvill .0006 curtain    .0006 mitt      
+.0006 debt       .0005 owe        .0005 croft      .0005 shell     
+
+
+
+-------------------------------------------------------------------
+#: 0026  P: .0299    topic__26
+-------------------------------------------------------------------
+
+.0251 thy        .0219 god        .0164 lord       .0164 thee      
+.0162 love       .0125 thou       .0092 heart      .0091 jesus     
+.0067 bless      .0067 sing       .0066 praise     .0062 sin       
+.0060 heaven     .0060 christ     .0057 soul       .0055 light     
+.0055 life       .0053 song       .0051 holy       .0051 ing       
+.0051 word       .0050 earth      .0048 sweet      .0048 joy       
+.0045 children   .0043 ev         .0042 tis        .0040 saviour   
+.0040 ry         .0040 prayer     .0039 hear       .0039 oh        
+.0038 glory      .0037 pray       .0036 grace      .0035 father    
+.0035 name       .0034 bright     .0033 night      .0033 hymn      
+.0032 voice      .0032 peace      .0031 sus        .0031 thine     
+.0031 land       .0030 king       .0030 dear       .0030 call      
+.0030 faith      .0027 death      .0027 hath       .0027 child     
+.0026 bring      .0026 spirit     .0026 angels     .0025 son       
+.0025 mercy      .0025 art        .0025 fear       .0024 hand      
+.0024 hast       .0023 save       .0022 glad       .0022 heavenly  
+.0022 meet       .0022 care       .0022 ho         .0022 lead      
+.0022 till       .0020 died       .0020 ful        .0020 happy     
+.0020 die        .0020 tell       .0020 tie        .0020 stand     
+.0020 dark       .0020 hope       .0019 crown      .0019 sun       
+.0019 guide      .0019 cross      .0018 seek       .0018 en        
+.0018 trust      .0018 ter        .0018 sabbath    .0018 hour      
+.0018 lamb       .0018 christian  .0018 friend     .0017 low       
+.0017 throne     .0017 star       .0017 chorus     .0017 shine     
+.0017 dwell      .0017 rise       .0017 glo        .0017 power     
+
+
+
+-------------------------------------------------------------------
+#: 0027  P: .0138    topic__27
+-------------------------------------------------------------------
+
+.0419 unb        .0303 ber        .0237 bie        .0174 en        
+.0158 ben        .0154 ein        .0114 mit        .0111 fie       
+.0088 auf        .0086 bem        .0070 fein       .0058 te        
+.0054 ift        .0047 aber       .0044 nnb        .0042 fid       
+.0041 un         .0040 fd         .0038 mir        .0034 ju        
+.0033 fc         .0033 einen      .0032 nid        .0031 bic       
+.0031 ic         .0030 bu         .0027 mein       .0026 nig       
+.0025 bas        .0024 fic        .0023 bcr        .0022 nun       
+.0022 nur        .0022 ren        .0021 bei        .0021 einem     
+.0021 fe         .0020 ft         .0020 ober       .0020 oon       
+.0020 atte       .0019 nic        .0019 nad        .0019 anb       
+.0018 benn       .0018 feinen     .0018 nidjt      .0018 ter       
+.0018 eit        .0018 nod        .0018 ei         .0017 rt        
+.0017 rief       .0016 einer      .0016 aft        .0016 nen       
+.0015 ob         .0015 feiner     .0015 ab         .0015 fte       
+.0015 el         .0014 ier        .0014 unter      .0014 bann      
+.0014 feinem     .0013 bir        .0013 ging       .0013 aud       
+.0013 fa         .0013 ur         .0013 aus        .0013 baf       
+.0012 fagte      .0012 alte       .0012 err        .0012 als       
+.0012 ann        .0011 em         .0011 finb       .0010 sie       
+.0010 gro        .0010 bod        .0010 lange      .0010 inb       
+.0010 bin        .0009 fprad      .0009 biefe      .0009 mie       
+.0009 gen        .0009 immer      .0009 ott        .0009 uub       
+.0009 mid        .0009 burd       .0009 gel        .0009 rte       
+.0009 brei       .0009 gar        .0009 rbe        .0009 fei       
+
+
+
+-------------------------------------------------------------------
+#: 0028  P: .0012    topic__28
+-------------------------------------------------------------------
+
+.0471 pen        .0429 professor  .0193 bruno      .0071 hill      
+.0064 oo         .0052 signa      .0049 sylvie     .0046 lonely    
+.0041 aleck      .0039 doubt      .0036 castle     .0035 kurt      
+.0034 music      .0032 sing       .0030 lippo      .0029 leonore   
+.0029 wrong      .0028 gemma      .0028 violin     .0027 baron     
+.0023 muriel     .0023 arthur     .0022 run        .0022 song      
+.0022 mouth      .0021 words      .0021 rector     .0020 warden    
+.0020 maezli     .0019 mea        .0018 bring      .0017 pippa     
+.0017 ghost      .0017 brother    .0016 true       .0016 hate      
+.0016 palma      .0015 apollonie  .0015 nita       .0015 mean      
+.0015 act        .0015 mine       .0014 lying      .0014 vice      
+.0014 tried      .0014 bread      .0013 lastra     .0013 kingdon   
+.0013 maxa       .0013 lorenzo    .0013 tell       .0013 filled    
+.0013 wandered   .0012 boy        .0012 road       .0012 pain      
+.0012 innocent   .0012 lad        .0011 walker     .0011 labour    
+.0011 passion    .0010 rome       .0010 vines      .0010 salo      
+.0010 ruin       .0010 enquired   .0009 owl        .0009 killed    
+.0009 mule       .0009 goblin     .0009 empty      .0009 herr      
+.0009 hurt       .0008 memory     .0008 trius      .0008 marta     
+.0008 mute       .0008 bench      .0008 ting       .0008 met       
+.0008 terrible   .0008 intention  .0008 genius     .0008 violent   
+.0008 chancellor .0008 letting    .0008 tune       .0007 steward   
+.0007 worth      .0007 soil       .0007 extremely  .0007 dini      
+.0007 rage       .0007 wine       .0007 grandson   .0007 thief     
+.0007 sold       .0007 gate       .0007 ink        .0007 fault     
+
+
+
+-------------------------------------------------------------------
+#: 0029  P: .0003    topic__29
+-------------------------------------------------------------------
+
+.0051 alick      .0022 fit        .0009 eobert     .0008 filled    
+.0007 trim       .0006 cedar      .0006 green      .0005 young     
+.0005 meade      .0004 kain       .0003 howell     .0003 pearson   
+.0002 ary        .0002 dud        .0002 bad        .0002 cur       
+.0002 fro        .0002 kobert     .0002 tin        .0002 arms      
+.0002 ream       .0002 hay        .0002 altered    .0001 perplexed 
+.0001 grasmere   .0001 wylde      .0001 course     .0001 bat       
+.0001 bid        .0001 firmer     .0001 tied       .0001 bar       
+.0001 lit        .0001 hsr        .0001 tried      .0001 katharine 
+.0001 pert       .0001 land       .0001 ty         .0001 lain      
+.0001 offered    .0001 furnace    .0001 library    .0001 wet       
+.0001 ting       .0001 pit        .0001 ball       .0001 lot       
+.0001 loitering  .0001 bore       .0001 alon       .0001 fed       
+.0001 blaster    .0001 studded    .0001 fare       .0001 mite      
+.0001 quazo      .0001 rip        .0001 suppose    .0001 lor       
+.0001 anchor     .0001 scanned    .0001 rude       .0001 uttered   
+.0001 common     .0001 torn       .0001 everlastin .0001 burning   
+.0001 lies       .0000 lay        .0000 accord     .0000 blackened 
+.0000 bath       .0000 cryingi    .0000 skill      .0000 zayla     
+.0000 begun      .0000 brain      .0000 direction  .0000 valiantly 
+.0000 pay        .0000 fret       .0000 beaten     .0000 bribe     
+.0000 unwise     .0000 driven     .0000 able       .0000 bade      
+.0000 upright    .0000 custom     .0000 notion     .0000 easy      
+.0000 testify    .0000 grow       .0000 vent       .0000 undue     
+.0000 brat       .0000 book       .0000 limited    .0000 mell      
+
+
+
+-------------------------------------------------------------------
+#: 0030  P: .0160    topic__30
+-------------------------------------------------------------------
+
+.0069 fhe        .0061 faid       .0049 fome       .0048 fee       
+.0043 fuch       .0040 fay        .0037 little     .0037 life      
+.0036 thofe      .0035 thefe      .0030 friend     .0028 mind      
+.0028 nature     .0027 himfelf    .0026 ufe        .0026 fame      
+.0026 heart      .0025 fhould     .0025 father     .0024 mifs      
+.0024 ed         .0023 manner     .0023 muft       .0023 love      
+.0022 poor       .0022 moft       .0021 appear     .0021 hand      
+.0021 return     .0021 foon       .0020 houfe      .0020 firft     
+.0020 god        .0018 find       .0018 hope       .0017 ing       
+.0017 children   .0017 care       .0017 prefent    .0017 till      
+.0017 perfon     .0017 received   .0016 ihe        .0016 virtue    
+.0016 pleafe     .0016 pleafure   .0016 people     .0016 called    
+.0015 lady       .0015 eyes       .0015 feveral    .0015 fhall     
+.0015 power      .0015 con        .0015 matter     .0015 dear      
+.0014 confider   .0014 child      .0014 mother     .0014 faw       
+.0014 fon        .0014 country    .0014 feemed     .0014 fet       
+.0014 fure       .0014 fear       .0014 left       .0013 defire    
+.0013 company    .0013 reafon     .0013 death      .0013 wife      
+.0013 laft       .0013 obferved   .0013 mould      .0013 hall      
+.0013 continued  .0013 whofe      .0013 happy      .0013 fpeak     
+.0012 parents    .0012 body       .0012 leave      .0012 anfwered  
+.0012 able       .0012 obliged    .0012 foul       .0012 ill       
+.0012 themfelves .0012 juft       .0012 afked      .0012 attend    
+.0012 becaufe    .0012 reft       .0012 wifh       .0012 duty      
+.0012 age        .0012 honour     .0011 learn      .0011 form      
+
+
+
+-------------------------------------------------------------------
+#: 0031  P: .0074    topic__31
+-------------------------------------------------------------------
+
+.0323 illustrate .0272 cloth      .0263 price      .0254 book      
+.0230 story      .0163 tale       .0126 edition    .0117 author    
+.0113 vo         .0107 alfred     .0090 vol        .0087 history   
+.0079 volume     .0077 coloured   .0077 engravings .0073 london    
+.0067 crown      .0065 cents      .0064 adventures .0061 gilt      
+.0058 bound      .0056 series     .0055 published  .0049 life      
+.0048 edges      .0047 picture    .0045 juvenile   .0041 board     
+.0041 plates     .0040 printed    .0039 reader     .0038 containing
+.0036 extra      .0035 edward     .0034 rev        .0030 english   
+.0030 half       .0030 brown      .0029 edwin      .0028 children  
+.0026 lillie     .0026 frontispie .0026 written    .0026 plain     
+.0026 dora       .0025 library    .0024 pages      .0023 collection
+.0023 elegant    .0023 royal      .0022 covered    .0022 post      
+.0022 hero       .0022 paper      .0021 treasure   .0021 complete  
+.0021 amusement  .0021 henty      .0021 numerous   .0020 gold      
+.0019 delight    .0019 map        .0019 public     .0019 wood      
+.0019 fancy      .0019 original   .0018 style      .0018 boy       
+.0018 york       .0017 shillings  .0017 wat        .0017 portrait  
+.0017 selected   .0017 england    .0017 isaac      .0017 design    
+.0016 dean       .0016 instructio .0016 lessons    .0016 letter    
+.0016 travel     .0015 late       .0015 mine       .0015 ger       
+.0015 cts        .0015 popular    .0015 introducti .0015 copy      
+.0015 short      .0014 entertaini .0014 easy       .0014 drawing   
+.0014 nature     .0014 esq        .0014 square     .0014 sketches  
+.0014 historical .0014 morocco    .0014 alphabet   .0014 descriptio
+
+
+
+-------------------------------------------------------------------
+#: 0032  P: .0151    topic__32
+-------------------------------------------------------------------
+
+.0220 book       .0137 story      .0117 children   .0093 life      
+.0063 child      .0060 boy        .0055 song       .0054 american  
+.0044 little     .0043 form       .0042 poem       .0042 printed   
+.0042 study      .0041 picture    .0040 published  .0040 english   
+.0039 history    .0038 nature     .0038 author     .0038 century   
+.0037 music      .0036 school     .0035 art        .0035 name      
+.0035 play       .0035 poet       .0035 original   .0033 game      
+.0033 public     .0032 literature .0032 library    .0031 verse     
+.0031 written    .0031 poetry     .0031 writer     .0031 volume    
+.0030 tales      .0029 collection .0028 age        .0027 note      
+.0027 famous     .0026 reader     .0026 country    .0026 edition   
+.0026 london     .0025 england    .0025 modern     .0025 subject   
+.0024 character  .0023 copy       .0023 letter     .0022 called    
+.0022 person     .0022 people     .0021 artist     .0021 gift      
+.0021 learn      .0021 period     .0020 literary   .0020 editor    
+.0019 popular    .0019 education  .0019 family     .0019 illustrate
+.0019 york       .0018 words      .0018 beautiful  .0018 developmen
+.0018 america    .0018 practice   .0018 experience .0018 title     
+.0018 human      .0017 magazine   .0017 special    .0017 idea      
+.0017 women      .0017 novel      .0017 moral      .0017 critical  
+.0017 represente .0017 hero       .0017 suggested  .0016 divine    
+.0016 language   .0016 university .0016 reference  .0016 compared  
+.0016 success    .0016 record     .0016 list       .0015 french    
+.0015 memory     .0015 pages      .0015 true       .0015 paper     
+.0015 custom     .0015 church     .0015 historical .0014 translated
+
+
+
+-------------------------------------------------------------------
+#: 0033  P: .0034    topic__33
+-------------------------------------------------------------------
+
+.0568 christmas  .0285 hugh       .0216 bessie     .0156 dolly     
+.0139 nick       .0134 santa      .0123 diamond    .0102 carol     
+.0085 claus      .0082 tree       .0081 night      .0065 fire      
+.0060 sing       .0057 north      .0057 angel      .0054 eve       
+.0054 toys       .0049 sibyl      .0048 sleigh     .0047 angela    
+.0046 snow       .0046 jake       .0040 merry      .0039 holly     
+.0038 nicholas   .0037 prudence   .0035 gift       .0035 wind      
+.0034 bradley    .0032 bear       .0032 hayden     .0032 town      
+.0031 moses      .0031 faith      .0031 mead       .0031 gold      
+.0030 light      .0030 eleanor    .0030 holiday    .0030 course    
+.0029 carried    .0027 sort       .0026 ogilvie    .0026 city      
+.0026 campbell   .0024 stockings  .0024 festival   .0023 believe   
+.0023 pete       .0023 winter     .0023 zara       .0022 mean      
+.0022 thad       .0021 dewey      .0020 road       .0020 skates    
+.0019 geraldine  .0019 name       .0018 glaus      .0018 happy     
+.0018 custom     .0017 log        .0017 feast      .0017 star      
+.0017 prue       .0016 pretty     .0016 marcia     .0016 barry     
+.0015 folks      .0015 appeared   .0015 scranton   .0015 nodded    
+.0015 toinette   .0014 trotty     .0014 mine       .0014 sled      
+.0014 born       .0014 wonder     .0014 linnet     .0014 scrooge   
+.0014 lark       .0013 cinnamon   .0013 emerson    .0013 chimney   
+.0013 asphodel   .0013 team       .0013 shop       .0012 fairy     
+.0012 holmes     .0012 note       .0012 branches   .0012 upton     
+.0012 midnight   .0011 christ     .0011 crown      .0011 reindeer  
+.0011 close      .0011 rich       .0011 bring      .0011 dream     
+
+
+
+-------------------------------------------------------------------
+#: 0034  P: .0025    topic__34
+-------------------------------------------------------------------
+
+.0330 ralph      .0256 bud        .0216 tony       .0159 jones     
+.0068 peach      .0048 deering    .0044 logan      .0043 josie     
+.0041 mingo      .0040 master     .0036 jackanapes .0036 louise    
+.0035 coal       .0035 engine     .0035 ah         .0032 chief     
+.0031 office     .0031 osborn     .0029 constance  .0029 cousin    
+.0029 head       .0028 tell       .0028 night      .0027 court     
+.0026 johnson    .0025 eyes       .0025 happy      .0024 princeton 
+.0023 stanton    .0023 signorina  .0023 bouncing   .0022 kid       
+.0022 duty       .0022 nort       .0021 spell      .0021 hannah    
+.0021 black      .0020 burnham    .0020 ze         .0019 fire      
+.0018 italian    .0018 treasure   .0018 son        .0018 jessamine 
+.0017 lot        .0017 wilder     .0017 alora      .0016 flat      
+.0016 steal      .0016 mean       .0016 gustavo    .0016 died      
+.0015 left       .0015 hat        .0015 signor     .0015 cooper    
+.0015 air        .0015 nature     .0015 matter     .0014 arthur    
+.0014 name       .0014 ensign     .0014 cub        .0014 pipe      
+.0014 ranchers   .0013 american   .0013 postman    .0013 shocky    
+.0013 practice   .0013 words      .0013 pete       .0013 ride      
+.0013 wallace    .0012 captain    .0012 watch      .0012 lollo     
+.0012 report     .0012 sharpman   .0012 called     .0012 direction 
+.0012 hermit     .0012 bad        .0012 rustlers   .0011 villa     
+.0011 slim       .0011 suit       .0011 witness    .0011 hour      
+.0011 letter     .0011 ave        .0011 life       .0011 law       
+.0011 bachelor   .0011 smoke      .0010 green      .0010 bull      
+.0010 truth      .0010 chapin     .0010 tower      .0010 yellin    
+
+
+
+-------------------------------------------------------------------
+#: 0035  P: .0026    topic__35
+-------------------------------------------------------------------
+
+.0201 daniel     .0196 ich        .0158 un         .0151 der       
+.0151 die        .0100 und        .0097 sie        .0093 ein       
+.0082 herr       .0073 von        .0073 den        .0068 zu        
+.0067 eleanore   .0055 wi         .0055 nich       .0048 mit       
+.0047 mir        .0040 di         .0037 ist        .0036 auf       
+.0036 spinoza    .0034 aber       .0034 dem        .0034 mich      
+.0034 war        .0034 gertrude   .0033 philippina .0033 hat       
+.0032 wenn       .0030 nicht      .0030 jordan     .0030 dab       
+.0029 sein       .0029 dorothea   .0028 mein       .0027 sagte     
+.0027 sich       .0026 calf       .0024 wilamowitz .0024 als       
+.0023 ihr        .0023 carovius   .0022 wahr       .0022 eberhard  
+.0022 nur        .0021 aus        .0021 bin        .0020 weil      
+.0020 friedlande .0020 noch       .0020 frau       .0019 auch      
+.0019 fon        .0019 ihm        .0018 einen      .0018 letters   
+.0017 du         .0017 wir        .0017 sehr       .0016 pp        
+.0016 benda      .0016 ford       .0016 jason      .0016 ganz      
+.0016 hab        .0015 wer        .0015 bis        .0015 wird      
+.0015 dann       .0014 oder       .0014 bei        .0014 wie       
+.0014 kinzer     .0013 kann       .0013 berlin     .0013 linde     
+.0013 ob         .0012 paulus     .0012 fir        .0012 references
+.0012 zum        .0012 ed         .0012 nach       .0011 schon     
+.0010 gut        .0010 andreas    .0010 derlein    .0010 ja        
+.0010 dabney     .0010 elsalill   .0010 wo         .0010 doch      
+.0010 baron      .0009 foster     .0009 nun        .0009 sin       
+.0009 wider      .0009 einer      .0009 philosophy .0009 te        
+
+
+
+-------------------------------------------------------------------
+#: 0036  P: .0012    topic__36
+-------------------------------------------------------------------
+
+.0281 lawrence   .0201 claire     .0194 steve      .0139 tlie      
+.0106 key        .0105 max        .0091 fire       .0076 ashton    
+.0071 visit      .0066 judge      .0064 cosmo      .0059 vere      
+.0049 lie        .0046 jackson    .0045 owen       .0042 lyon      
+.0038 blair      .0033 tliat      .0031 bandy      .0031 sapphire  
+.0030 grandfathe .0029 met        .0028 sophie     .0027 bunch     
+.0025 legs       .0025 perry      .0025 snowman    .0024 missouri  
+.0023 hay        .0022 ettie      .0022 blind      .0021 lier      
+.0021 slie       .0020 tower      .0020 meet       .0020 middleton 
+.0020 doggy      .0019 mob        .0018 tbe        .0017 grand     
+.0016 witli      .0016 euth       .0016 union      .0016 cecil     
+.0016 die        .0015 eachel     .0015 liad       .0015 preacher  
+.0015 dunn       .0014 fanshawe   .0014 liis       .0014 brown     
+.0013 rence      .0013 davy       .0013 tliey      .0013 continued 
+.0012 arms       .0012 patience   .0012 foley      .0012 sylvester 
+.0012 peabody    .0012 lumpy      .0011 wlien      .0011 ginevra   
+.0010 barrier    .0010 frost      .0010 pounce     .0010 tliem     
+.0010 erskine    .0010 jewels     .0010 liim       .0010 guilford  
+.0010 secret     .0009 blood      .0009 gifford    .0009 willoughby
+.0009 trelawney  .0009 tke        .0009 wliat      .0009 rhodes    
+.0009 foot       .0009 richardson .0008 carson     .0008 hanging   
+.0008 burning    .0008 arsenal    .0008 hold       .0008 jemmy     
+.0008 kansas     .0008 verulam    .0008 rival      .0008 pearl     
+.0007 ketcham    .0007 burial     .0007 rake       .0007 hate      
+.0007 liave      .0007 thanksgivi .0007 stream     .0007 drove     
+
+
+
+-------------------------------------------------------------------
+#: 0037  P: .0004    topic__37
+-------------------------------------------------------------------
+
+.0151 adelaide   .0101 villa      .0042 murray     .0038 met       
+.0022 major      .0017 rainsford  .0016 rossaley   .0015 robinson  
+.0014 fit        .0012 ray        .0007 walden     .0007 rosanna   
+.0006 waldegrave .0005 noi        .0004 tenali     .0004 valor     
+.0004 painfully  .0004 ball       .0004 orangie    .0004 avonley   
+.0003 lies       .0003 rama       .0003 forenoon   .0003 ros       
+.0003 woodford   .0003 jemima     .0003 trace      .0003 waller    
+.0002 invited    .0002 mason      .0002 rely       .0002 mishka    
+.0002 blondie    .0002 source     .0002 boatman    .0002 pact      
+.0002 continued  .0001 longed     .0001 relief     .0001 saley     
+.0001 tell       .0001 umbreon    .0001 sad        .0001 vijaynagar
+.0001 died       .0001 brinjal    .0001 fluffball  .0001 alarm     
+.0001 loot       .0001 krishnadev .0001 flirt      .0001 clarina   
+.0001 main       .0001 filled     .0001 raixsford  .0001 wal       
+.0001 born       .0001 omitted    .0001 tamil      .0001 ramaya    
+.0001 fergus     .0001 hakim      .0001 occitan    .0001 rid       
+.0001 beaux      .0001 orb        .0001 unsteady   .0001 awhin     
+.0001 broken     .0001 air        .0001 added      .0001 tried     
+.0001 holwa      .0001 sanna      .0001 refuge     .0001 walde     
+.0001 belen      .0001 lucifer    .0001 whereabout .0001 power     
+.0001 joined     .0001 logy       .0001 bent       .0001 sw        
+.0001 food       .0001 kancharam  .0001 guidance   .0001 dabbu     
+.0001 unwelcome  .0001 novel      .0001 rossa      .0001 drought   
+.0001 melted     .0001 soon       .0001 reddened   .0001 backward  
+.0001 belford    .0001 hue        .0001 plant      .0001 likened   
+
+
+
+-------------------------------------------------------------------
+#: 0038  P: .0014    topic__38
+-------------------------------------------------------------------
+
+.0452 emily      .0351 herbert    .0170 felix      .0124 frances   
+.0121 blind      .0090 serena     .0087 carey      .0085 happy     
+.0071 douglas    .0068 dear       .0063 foster     .0062 marian    
+.0055 colville   .0054 caroline   .0053 melville   .0052 sidney    
+.0050 wilton     .0047 austen     .0047 becky      .0046 party     
+.0044 ah         .0044 smart      .0042 cousin     .0039 gilbert   
+.0039 leicester  .0035 sybil      .0034 beck       .0032 beulah    
+.0031 papa       .0031 smile      .0030 clayton    .0029 wyndham   
+.0027 arthur     .0025 laughed    .0025 plan       .0024 schillie  
+.0024 somers     .0024 brighton   .0023 ville      .0022 begged    
+.0022 col        .0021 drawing    .0021 proved     .0021 admiration
+.0020 sensible   .0018 gatty      .0016 language   .0015 pigou     
+.0015 character  .0015 leech      .0014 declared   .0014 understand
+.0014 tideshead  .0013 chryssa    .0013 play       .0013 age       
+.0013 correct    .0013 dance      .0013 odd        .0013 remember  
+.0012 self       .0012 gill       .0011 opinion    .0011 cheerful  
+.0011 name       .0011 hour       .0011 charlotte  .0011 feel      
+.0011 madam      .0011 ridiculous .0011 liberal    .0011 parker    
+.0010 hope       .0010 quick      .0010 zo         .0010 charming  
+.0010 arranged   .0010 claimed    .0009 air        .0009 mount     
+.0009 cox        .0009 civil      .0009 pure       .0009 goldwin   
+.0009 harmon     .0009 source     .0008 randolph   .0008 peacemaker
+.0008 popham     .0008 imitation  .0008 ladyship   .0008 common    
+.0008 mortimer   .0008 packet     .0008 mirror     .0008 french    
+.0008 ok         .0008 active     .0008 cavern     .0008 neville   
+
+
+
+-------------------------------------------------------------------
+#: 0039  P: .0046    topic__39
+-------------------------------------------------------------------
+
+.1337 frank      .0223 andy       .0099 lewis      .0082 fellow    
+.0069 boy        .0057 bart       .0049 merriwell  .0046 oh        
+.0039 randy      .0038 horse      .0036 cried      .0036 columbia  
+.0035 hand       .0034 declared   .0030 professor  .0028 barney    
+.0027 friend     .0027 hold       .0026 till       .0025 aristide  
+.0024 exclaimed  .0024 brown      .0024 diamond    .0023 rover     
+.0023 racer      .0023 lanky      .0023 called     .0022 hastings  
+.0020 yale       .0020 name       .0020 ther       .0020 mean      
+.0020 dunk       .0018 crowd      .0018 black      .0018 gif       
+.0017 ran        .0017 manner     .0016 sportsman  .0016 play      
+.0016 race       .0016 laughed    .0016 heard      .0016 blow      
+.0016 pomp       .0016 hans       .0016 game       .0015 father    
+.0015 engineer   .0015 run        .0015 godfrey    .0015 chapter   
+.0015 settled    .0014 woods      .0014 mail       .0014 tell      
+.0014 wild       .0014 granville  .0014 bruce      .0014 told      
+.0014 observed   .0013 davis      .0013 merry      .0013 believe   
+.0013 mystery    .0013 fire       .0013 held       .0013 fight     
+.0013 dinkie     .0013 morton     .0013 werner     .0013 haynes    
+.0013 struck     .0013 eugene     .0012 understand .0012 club      
+.0012 dale       .0012 town       .0012 ice        .0012 wonder    
+.0012 air        .0011 card       .0011 cousin     .0011 easy      
+.0011 rushed     .0011 lad        .0011 hodge      .0011 explained 
+.0011 remarked   .0011 sort       .0011 lathrop    .0011 scotch    
+.0011 clifford   .0011 smoke      .0011 arm        .0010 road      
+.0010 willie     .0010 stand      .0010 danger     .0010 ivory     
+
+
+
+-------------------------------------------------------------------
+#: 0040  P: .0074    topic__40
+-------------------------------------------------------------------
+
+.0341 alice      .0233 ruth       .0115 arthur     .0073 cried     
+.0065 oh         .0061 hand       .0045 tell       .0045 susan     
+.0041 jem        .0040 rosamond   .0038 voice      .0038 queen     
+.0037 cecile     .0037 lady       .0036 mean       .0036 money     
+.0035 picture    .0035 guinea     .0034 called     .0034 door      
+.0034 play       .0034 word       .0033 half       .0033 kathie    
+.0032 scene      .0031 laughed    .0031 heard      .0031 hope      
+.0030 hear       .0029 grey       .0028 friend     .0028 frederick 
+.0028 exclaimed  .0027 juliet     .0027 archer     .0027 cecilia   
+.0027 speak      .0026 paul       .0026 head       .0026 diana     
+.0026 round      .0026 managed    .0025 isabella   .0024 father    
+.0024 moment     .0023 maurice    .0023 boy        .0023 russ      
+.0023 farmer     .0022 pay        .0022 glass      .0022 lord      
+.0021 tone       .0021 white      .0021 thank      .0021 reuben    
+.0021 wait       .0020 believe    .0020 wish       .0020 simple    
+.0020 euth       .0020 minute     .0020 till       .0020 film      
+.0019 woman      .0019 poor       .0019 name       .0019 hold      
+.0019 bell       .0018 dear       .0018 afraid     .0018 answered  
+.0018 basket     .0018 farm       .0018 cameron    .0018 company   
+.0017 repeated   .0017 find       .0017 leave      .0017 garden    
+.0017 theodora   .0017 night      .0017 added      .0017 morrow    
+.0017 hat        .0017 brother    .0017 bow        .0016 girl      
+.0016 wheel      .0016 fancy      .0016 mind       .0016 party     
+.0016 pertell    .0016 business   .0016 begged     .0016 attorney  
+.0015 bit        .0015 window     .0015 eyes       .0015 hen       
+
+
+
+-------------------------------------------------------------------
+#: 0041  P: .0284    topic__41
+-------------------------------------------------------------------
+
+.0223 king       .0161 prince     .0130 princess   .0093 fairy     
+.0091 queen      .0074 palace     .0073 beautiful  .0065 son       
+.0054 gold       .0053 little     .0052 daughter   .0052 wife      
+.0050 told       .0049 answered   .0047 father     .0047 cried     
+.0046 night      .0044 returned   .0044 brother    .0043 hand      
+.0041 woman      .0041 head       .0041 thou       .0041 house     
+.0040 heard      .0039 door       .0039 castle     .0038 carried   
+.0036 story      .0036 water      .0035 tree       .0035 find      
+.0035 people     .0034 mother     .0033 replied    .0031 fell      
+.0031 brought    .0031 called     .0030 wish       .0030 horse     
+.0030 tell       .0030 giant      .0027 left       .0026 married   
+.0026 passed     .0026 eyes       .0026 words      .0025 tales     
+.0025 poor       .0025 till       .0025 court      .0024 entered   
+.0024 happened   .0024 leave      .0024 ran        .0023 golden    
+.0023 kingdom    .0023 master     .0023 eat        .0023 piece     
+.0022 country    .0022 sent       .0022 garden     .0022 forest    
+.0022 stone      .0022 city       .0022 sultan     .0021 name      
+.0021 merchant   .0021 appeared   .0021 dress      .0021 killed    
+.0021 husband    .0021 aladdin    .0020 bring      .0020 wonderful 
+.0020 sister     .0020 sat        .0020 clothes    .0020 reached   
+.0020 servants   .0020 royal      .0020 wait       .0019 bird      
+.0019 slave      .0019 stood      .0019 majesty    .0019 rich      
+.0019 bed        .0019 wood       .0019 promised   .0019 journey   
+.0018 immediatel .0018 threw      .0018 begged     .0018 white     
+.0018 sleep      .0018 silver     .0018 walked     .0017 mountain  
+
+
+
+-------------------------------------------------------------------
+#: 0042  P: .0036    topic__42
+-------------------------------------------------------------------
+
+.0351 phil       .0177 bee        .0164 teddy      .0148 circus    
+.0117 larry      .0100 tent       .0099 performanc .0077 rosy      
+.0069 irene      .0062 act        .0058 beatrice   .0053 car       
+.0053 clown      .0044 percival   .0042 town       .0041 head      
+.0041 jarvis     .0039 scattergoo .0036 run        .0036 managed   
+.0036 parson     .0035 butterfly  .0034 sparling   .0033 people    
+.0032 lot        .0032 wagon      .0031 play       .0030 tucker    
+.0030 train      .0030 audience   .0029 business   .0029 elephant  
+.0028 hand       .0028 cage       .0027 stand      .0026 fellow    
+.0026 dress      .0026 showman    .0025 rosamund   .0025 riddell   
+.0025 land       .0024 season     .0024 tell       .0023 strong    
+.0022 silk       .0022 afternoon  .0022 gabriel    .0021 rope      
+.0021 adele      .0021 crowd      .0020 woman      .0020 parade    
+.0020 wyndham    .0020 called     .0019 band       .0019 gap       
+.0019 fall       .0019 oh         .0019 pole       .0018 forrest   
+.0018 sort       .0018 row        .0018 mean       .0018 san       
+.0018 hive       .0018 katrina    .0018 try        .0018 mind      
+.0018 moment     .0018 feet       .0017 maya       .0017 owner     
+.0017 laughed    .0017 fly        .0017 race       .0017 ride      
+.0017 pulled     .0017 break      .0016 seat       .0016 pickett   
+.0016 half       .0016 lad        .0016 horse      .0016 catch     
+.0016 nuova      .0016 animal     .0015 trunk      .0015 started   
+.0015 answered   .0015 eyes       .0015 hero       .0015 professor 
+.0015 cause      .0015 thank      .0015 air        .0014 cut       
+.0014 stake      .0014 shouted    .0014 railroad   .0014 red       
+
+
+
+-------------------------------------------------------------------
+#: 0043  P: .0271    topic__43
+-------------------------------------------------------------------
+
+.0283 boat       .0210 captain    .0174 ship       .0167 water     
+.0148 sea        .0123 island     .0108 sail       .0093 shore     
+.0081 land       .0080 board      .0078 deck       .0077 rollo     
+.0065 sailor     .0063 vessel     .0057 river      .0056 wind      
+.0051 little     .0049 fish       .0046 crew       .0038 called    
+.0038 rock       .0036 boy        .0035 carried    .0035 father    
+.0034 voyage     .0032 hour       .0032 coast      .0030 ashore    
+.0030 run        .0030 find       .0030 lake       .0029 round     
+.0029 waves      .0029 jonas      .0029 steamer    .0028 party     
+.0028 cabin      .0028 course     .0028 miles      .0028 ready     
+.0028 reached    .0027 passed     .0027 oars       .0027 walked    
+.0027 anchor     .0026 fire       .0026 bay        .0026 half      
+.0026 pirates    .0025 beach      .0025 light      .0025 row       
+.0023 told       .0023 port       .0023 sand       .0021 till      
+.0021 left       .0021 night      .0021 brought    .0021 bow       
+.0021 house      .0021 watch      .0021 storm      .0020 ocean     
+.0020 head       .0020 rope       .0020 aboard     .0020 mate      
+.0020 hand       .0020 adventures .0019 wreck      .0019 suppose   
+.0019 sight      .0019 craft      .0019 stand      .0019 replied   
+.0019 weather    .0018 floating   .0018 hold       .0018 travel    
+.0018 yacht      .0018 name       .0018 passengers .0018 continued 
+.0018 cut        .0018 returned   .0018 mast       .0017 pulled    
+.0017 fast       .0017 stone      .0017 gun        .0017 safe      
+.0017 length     .0017 distance   .0017 wish       .0017 people    
+.0016 story      .0016 piece      .0016 stern      .0016 ice       
+
+
+
+-------------------------------------------------------------------
+#: 0044  P: .0024    topic__44
+-------------------------------------------------------------------
+
+.1315 george     .0344 richard    .0307 sarah      .0143 nelson    
+.0117 warren     .0106 janice     .0070 mill       .0068 father    
+.0067 timothy    .0061 rosemary   .0060 amelia     .0056 watson    
+.0054 marty      .0044 town       .0044 clay       .0040 lottie    
+.0036 juan       .0035 school     .0032 lake       .0031 jason     
+.0029 declared   .0028 elder      .0028 coin       .0026 naomi     
+.0025 master     .0025 horatia    .0023 hill       .0022 windmill  
+.0022 quaker     .0022 haley      .0021 country    .0021 charity   
+.0020 cross      .0020 inn        .0020 wife       .0019 store     
+.0018 abel       .0018 clive      .0018 moore      .0018 cheap     
+.0017 son        .0017 poor       .0017 people     .0017 uncle     
+.0017 schoolmast .0017 cousin     .0017 border     .0016 rill      
+.0016 osmond     .0016 folks      .0015 nevers     .0015 walky     
+.0015 shirley    .0015 dexter     .0015 hopewell   .0015 woman     
+.0015 ezra       .0015 mira       .0014 change     .0014 street    
+.0014 money      .0014 demanded   .0013 road       .0013 pip       
+.0013 mine       .0013 bernard    .0013 newcome    .0013 car       
+.0013 chap       .0013 corbet     .0012 note       .0012 porch     
+.0012 bar        .0012 swift      .0012 drugg      .0011 train     
+.0011 mind       .0011 ruin       .0011 polktown   .0011 oh        
+.0011 josie      .0011 goodness   .0010 family     .0010 howroyd   
+.0010 esmond     .0010 haw        .0010 rufus      .0010 lem       
+.0010 observed   .0010 gold       .0009 building   .0009 poketown  
+.0009 believe    .0009 led        .0009 crewys     .0009 mean      
+.0009 church     .0009 pay        .0009 violin     .0008 night     
+
+
+
+-------------------------------------------------------------------
+#: 0045  P: .0029    topic__45
+-------------------------------------------------------------------
+
+.0359 rob        .0219 roger      .0205 hamilton   .0173 louis     
+.0166 frances    .0128 francis    .0090 horace     .0077 brother   
+.0068 tutor      .0067 reginald   .0059 letter     .0056 bill      
+.0054 friend     .0050 ghost      .0047 monsieur   .0044 win       
+.0040 master     .0039 armstrong  .0037 lane       .0037 father    
+.0037 name       .0035 fellow     .0033 round      .0032 viscount  
+.0032 lady       .0032 sinclair   .0031 replied    .0031 mortimer  
+.0030 fluff      .0030 gentleman  .0029 myrtle     .0028 son       
+.0028 eyes       .0028 ah         .0027 jacinth    .0026 squire    
+.0025 thank      .0025 fancy      .0025 london     .0025 tubby     
+.0024 night      .0024 prison     .0024 till       .0023 lay       
+.0023 manor      .0022 head       .0022 stone      .0022 bit       
+.0022 yew        .0022 fair       .0021 half       .0020 antoine   
+.0020 wall       .0019 matter     .0019 harper     .0019 sort      
+.0018 hear       .0018 ago        .0018 arthur     .0018 pupil     
+.0017 mildmay    .0017 vicar      .0017 remember   .0017 figure    
+.0017 dream      .0017 added      .0017 captain    .0016 friedrich 
+.0016 jemima     .0016 late       .0016 ballad     .0015 melchior  
+.0015 mind       .0015 glass      .0015 merritt    .0015 ill       
+.0014 hour       .0014 garden     .0014 firs       .0014 chamber   
+.0014 rosalind   .0013 stafford   .0013 franz      .0013 philip    
+.0013 bad        .0013 pale       .0013 ferrers    .0013 bully     
+.0012 comfort    .0012 cruden     .0012 note       .0012 doubt     
+.0012 post       .0012 buried     .0012 pounds     .0012 nurse     
+.0012 dead       .0012 arnold     .0011 family     .0011 cell      
+
+
+
+-------------------------------------------------------------------
+#: 0046  P: .0713    topic__46
+-------------------------------------------------------------------
+
+.0057 friend     .0053 returned   .0050 appeared   .0050 mind      
+.0045 life       .0042 nature     .0039 manner     .0039 poor      
+.0037 person     .0036 received   .0036 hope       .0034 continued 
+.0033 observed   .0032 feel       .0032 pleasure   .0032 wish      
+.0031 power      .0031 father     .0030 master     .0029 happy     
+.0029 heart      .0028 family     .0027 passed     .0026 replied   
+.0026 fear       .0026 suffered   .0025 expression .0025 respect   
+.0024 subject    .0024 son        .0024 parents    .0024 lady      
+.0023 cause      .0023 reason     .0023 attention  .0023 find      
+.0023 form       .0022 duty       .0022 able       .0022 desire    
+.0022 possession .0022 entered    .0021 conduct    .0021 assistance
+.0021 considered .0021 immediatel .0021 remained   .0021 account   
+.0021 conversati .0020 object     .0020 character  .0020 spirit    
+.0020 attend     .0020 arrived    .0020 obliged    .0020 occasion  
+.0020 house      .0019 length     .0019 care       .0019 age       
+.0019 hand       .0019 ill        .0019 speak      .0019 death     
+.0019 visit      .0018 hour       .0018 moment     .0018 expected  
+.0018 till       .0018 affection  .0018 leave      .0018 companion 
+.0018 effect     .0018 related    .0017 sister     .0017 purpose   
+.0017 youth      .0017 equal      .0017 fortune    .0017 words     
+.0017 pain       .0017 history    .0016 danger     .0016 determined
+.0016 admiration .0016 discovered .0016 acquainted .0016 servant   
+.0016 truth      .0016 act        .0016 consequenc .0016 country   
+.0016 god        .0016 left       .0016 frequently .0016 called    
+.0016 answered   .0015 circumstan .0015 dear       .0015 scarcely  
+
+
+
+-------------------------------------------------------------------
+#: 0047  P: .0740    topic__47
+-------------------------------------------------------------------
+
+.0425 little     .0220 mother     .0145 father     .0125 children  
+.0123 dear       .0110 boy        .0103 tell       .0096 child     
+.0088 poor       .0083 girl       .0079 oh         .0075 aunt      
+.0075 house      .0071 told       .0070 love       .0067 mamma     
+.0064 hand       .0064 wish       .0058 lady       .0054 called    
+.0053 sister     .0051 care       .0050 book       .0048 people    
+.0048 walk       .0047 happy      .0047 papa       .0046 door      
+.0043 feel       .0043 pretty     .0043 bed        .0043 eyes      
+.0042 heard      .0042 words      .0042 heart      .0042 brother   
+.0041 play       .0041 story      .0040 try        .0039 glad      
+.0038 till       .0037 hear       .0037 school     .0036 night     
+.0036 answered   .0035 dress      .0034 garden     .0034 mind      
+.0033 nice       .0032 hope       .0032 beautiful  .0032 leave     
+.0032 remember   .0031 round      .0031 learn      .0031 find      
+.0030 speak      .0030 friend     .0030 head       .0030 afraid    
+.0029 tears      .0029 laughed    .0028 left       .0028 cried     
+.0027 woman      .0027 cry        .0026 stay       .0026 wonder    
+.0026 baby       .0026 comfort    .0026 lucy       .0025 arms      
+.0025 thank      .0025 flowers    .0025 half       .0025 letter    
+.0025 sorry      .0025 window     .0025 sat        .0024 nurse     
+.0024 hard       .0024 god        .0023 table      .0023 pleasant  
+.0023 cousin     .0023 brought    .0023 lessons    .0023 kissed    
+.0023 ran        .0023 tired      .0023 trouble    .0023 delight   
+.0022 family     .0022 mean       .0022 ready      .0022 deal      
+.0022 run        .0022 smile      .0021 stood      .0021 wait      
+
+
+
+-------------------------------------------------------------------
+#: 0048  P: .0103    topic__48
+-------------------------------------------------------------------
+
+.0223 dorothy    .0083 little     .0068 girl       .0059 people    
+.0057 magic      .0056 head       .0055 replied    .0051 penny     
+.0050 wizard     .0050 king       .0046 friends    .0045 oz        
+.0045 scarecrow  .0044 city       .0043 trot       .0039 country   
+.0038 answered   .0037 land       .0036 bright     .0034 find      
+.0034 eyes       .0034 tin        .0034 shaggy     .0033 button    
+.0033 witch      .0030 wonderful  .0030 ozma       .0028 bill      
+.0028 lion       .0026 voice      .0025 returned   .0025 queen     
+.0025 cried      .0025 walked     .0024 royal      .0023 declared  
+.0023 creature   .0023 remarked   .0022 tell       .0022 eat       
+.0022 love       .0022 wish       .0022 scraps     .0022 laughed   
+.0021 oh         .0021 pretty     .0021 princess   .0020 palace    
+.0020 road       .0020 tree       .0020 woodman    .0020 emerald   
+.0020 bear       .0019 exclaimed  .0019 power      .0019 blue      
+.0019 color      .0019 left       .0019 beautiful  .0019 dear      
+.0019 stood      .0019 called     .0018 body       .0018 legs      
+.0018 boy        .0018 course     .0017 yellow     .0017 glass     
+.0017 wall       .0017 ojo        .0017 pink       .0017 reached   
+.0017 air        .0017 fairy      .0016 water      .0016 silver    
+.0016 life       .0016 travel     .0016 dragon     .0016 mountain  
+.0016 green      .0016 path       .0016 betsy      .0015 strange   
+.0015 hand       .0015 inquired   .0015 happy      .0015 surprise  
+.0015 arms       .0015 try        .0015 house      .0014 rock      
+.0014 sat        .0014 appeared   .0014 escape     .0014 continued 
+.0014 cowardly   .0014 entered    .0014 marvel     .0014 happened  
+
+
+
+-------------------------------------------------------------------
+#: 0049  P: .0140    topic__49
+-------------------------------------------------------------------
+
+.0456 dick       .0115 game       .0110 dave       .0106 ball      
+.0106 school     .0104 fellow     .0088 play       .0079 team      
+.0073 players    .0073 prescott   .0056 called     .0051 left      
+.0051 dan        .0049 captain    .0045 field      .0042 darrin    
+.0042 run        .0040 class      .0036 win        .0036 coach     
+.0035 cadet      .0032 score      .0031 half       .0030 college   
+.0030 football   .0030 hand       .0029 greg       .0029 started   
+.0029 stand      .0028 dodge      .0028 yards      .0027 hall      
+.0026 practice   .0026 rover      .0026 try        .0026 west      
+.0025 office     .0025 answered   .0024 oh         .0024 passed    
+.0024 cheer      .0023 hard       .0023 crowd      .0023 club      
+.0023 replied    .0023 minutes    .0023 guess      .0022 fight     
+.0021 head       .0021 afternoon  .0021 demanded   .0021 students  
+.0021 chums      .0020 tackle     .0020 athletic   .0020 goal      
+.0020 train      .0020 hit        .0019 academy    .0019 gridley   
+.0019 study      .0018 race       .0018 quarter    .0018 nodded    
+.0018 lot        .0018 muttered   .0017 sir        .0017 kick      
+.0017 grin       .0017 hold       .0017 returned   .0017 belle     
+.0017 guard      .0016 holmes     .0016 signal     .0016 eleven    
+.0016 pitcher    .0016 name       .0016 throw      .0016 walked    
+.0016 report     .0015 seat       .0015 forward    .0015 smiled    
+.0015 chance     .0015 clint      .0015 dalzell    .0015 fred      
+.0015 fine       .0015 caught     .0015 step       .0015 bat       
+.0015 ground     .0015 tried      .0015 retorted   .0015 meet      
+.0015 feet       .0014 pitch      .0014 laughed    .0014 baseball  
+
+
+
+-------------------------------------------------------------------
+#: 0050  P: .0006    topic__50
+-------------------------------------------------------------------
+
+.0321 florence   .0107 katy       .0083 sawyer     .0066 quincy    
+.0064 cherry     .0047 clover     .0042 mummy      .0036 alien     
+.0034 court      .0034 scholarshi .0028 flo        .0025 dana      
+.0025 kids       .0023 aylmer     .0023 talent     .0020 strout    
+.0019 ivy        .0019 company    .0019 agency     .0017 hon       
+.0016 citizen    .0016 model      .0015 abner      .0015 hawkins   
+.0015 bertha     .0014 clavering  .0014 jagged     .0014 essay     
+.0014 merry      .0013 offered    .0013 album      .0013 service   
+.0012 ike        .0012 win        .0011 lead       .0011 pounds    
+.0011 lilly      .0011 ryce       .0010 det        .0010 carr      
+.0010 ella       .0010 wreath     .0009 fernboroug .0009 client    
+.0009 complete   .0009 har        .0008 pod        .0007 born      
+.0007 career     .0007 stamp      .0007 dig        .0007 adams     
+.0007 reputation .0007 alexander  .0007 wallis     .0007 industry  
+.0007 med        .0006 profession .0006 competitor .0006 och       
+.0006 sharston   .0006 elen       .0006 var        .0006 lucky     
+.0006 han        .0006 som        .0006 florry     .0006 bateman   
+.0006 upper      .0005 ashes      .0005 cast       .0005 died      
+.0005 nathaniel  .0005 job        .0005 cass       .0005 boss      
+.0005 bliss      .0005 jello      .0005 ensure     .0005 centre    
+.0004 mason      .0004 maude      .0004 sonya      .0004 hornaby   
+.0004 key        .0004 dartmoor   .0004 isburn     .0004 teens     
+.0004 competitio .0004 heroism    .0004 grocery    .0004 test      
+.0004 competent  .0004 wilbur     .0004 obadiah    .0004 review    
+.0004 met        .0004 pettingill .0004 maxwell    .0004 procession
+
+
+
+-------------------------------------------------------------------
+#: 0051  P: .0054    topic__51
+-------------------------------------------------------------------
+
+.0657 grace      .0558 girls      .0496 betty      .0363 molly     
+.0363 anne       .0158 emma       .0151 henry      .0121 julia     
+.0100 nora       .0096 mabel      .0074 little     .0073 oh        
+.0068 rose       .0057 louise     .0051 gray       .0050 declared  
+.0050 ruby       .0050 added      .0048 allen      .0045 exclaimed 
+.0045 outdoor    .0043 betsy      .0040 hippy      .0039 gerald    
+.0038 amanda     .0038 amy        .0037 harrington .0036 house     
+.0036 harlowe    .0034 wonder     .0033 elfreda    .0032 miriam    
+.0030 amos       .0029 cleo       .0028 ford       .0028 answered  
+.0027 kathleen   .0026 dragon     .0025 wish       .0025 called    
+.0023 run        .0022 night      .0022 replied    .0022 road      
+.0020 woods      .0020 cousin     .0020 martha     .0019 tree      
+.0019 sorcha     .0019 visit      .0018 west       .0018 freeman   
+.0018 plan       .0018 summer     .0017 jean       .0017 ghost     
+.0017 car        .0017 aunt       .0017 club       .0017 started   
+.0017 overton    .0017 hurry      .0017 folks      .0017 paper     
+.0017 voice      .0016 agreed     .0016 pine       .0016 town      
+.0016 overland   .0016 decided    .0016 finished   .0015 captain   
+.0015 arline     .0014 party      .0014 eleanor    .0014 spoke     
+.0014 jessica    .0014 patience   .0014 margaret   .0014 woman     
+.0014 series     .0014 chapter    .0014 goodness   .0014 gem       
+.0014 meet       .0013 boston     .0013 candy      .0013 tied      
+.0013 leave      .0012 mystery    .0012 american   .0012 tessie    
+.0012 maid       .0012 letter     .0012 gracie     .0012 david     
+.0012 nelson     .0012 stoddard   .0011 step       .0011 secret    
+
+
+
+-------------------------------------------------------------------
+#: 0052  P: .0589    topic__52
+-------------------------------------------------------------------
+
+.0283 boy        .0135 jack       .0093 hand       .0074 replied   
+.0070 moment     .0063 eyes       .0057 fellow     .0054 head      
+.0051 tell       .0051 cried      .0050 little     .0049 answered  
+.0047 minutes    .0047 chapter    .0046 started    .0045 night     
+.0044 lad        .0044 word       .0044 voice      .0041 close     
+.0040 heard      .0039 find       .0039 try        .0036 joe       
+.0035 exclaimed  .0035 laughed    .0035 chance     .0034 course    
+.0034 watch      .0034 shouted    .0034 suddenly   .0034 step      
+.0033 wait       .0033 sound      .0032 remarked   .0032 mind      
+.0032 believe    .0031 question   .0030 feet       .0030 half      
+.0030 light      .0029 matter     .0029 hold       .0029 reached   
+.0029 happened   .0028 stood      .0028 left       .0028 mean      
+.0027 run        .0027 door       .0027 fire       .0027 trouble   
+.0027 hope       .0026 feel       .0025 guess      .0025 hour      
+.0025 dark       .0025 glance     .0025 sight      .0024 declared  
+.0024 wonder     .0024 dropped    .0024 called     .0024 passed    
+.0024 forward    .0024 hear       .0023 arms       .0023 added     
+.0023 direction  .0022 evidently  .0022 hurry      .0021 demanded  
+.0021 whispered  .0021 returned   .0021 continued  .0021 excitement
+.0021 caught     .0020 suggested  .0020 ready      .0019 appeared  
+.0019 stand      .0019 listen     .0019 expected   .0019 suppose   
+.0018 quick      .0018 smile      .0018 breath     .0018 surprise  
+.0018 shoulder   .0018 spoke      .0018 fred       .0018 told      
+.0017 leave      .0017 able       .0017 fear       .0017 held      
+.0017 oh         .0017 slowly     .0017 finally    .0017 drew      
+
+
+
+-------------------------------------------------------------------
+#: 0053  P: .0044    topic__53
+-------------------------------------------------------------------
+
+.0155 en         .0143 van        .0106 een        .0090 sense     
+.0081 het        .0076 te         .0072 den        .0071 sounds    
+.0071 op         .0069 word       .0064 term       .0064 ze        
+.0059 dutch      .0059 die        .0057 phrase     .0057 met       
+.0036 dat        .0035 zijn       .0032 als        .0031 hij       
+.0031 google     .0031 french     .0030 import     .0030 ik        
+.0029 form       .0028 digitized  .0027 latin      .0027 chaucer   
+.0023 implying   .0021 ester      .0020 niet       .0020 popular   
+.0020 toe        .0019 original   .0019 ook        .0019 aan       
+.0018 hem        .0018 bij        .0018 mean       .0018 hans      
+.0018 uit        .0017 zie        .0017 wat        .0016 johnson   
+.0016 belong     .0016 participle .0016 mee        .0016 reference 
+.0015 dan        .0015 zoo        .0015 nog        .0015 travesty  
+.0015 source     .0015 voor       .0015 door       .0015 wel       
+.0015 der        .0015 naar       .0014 grimm      .0014 verb      
+.0013 pres       .0013 hie        .0013 saxon      .0013 hier      
+.0013 expression .0013 twee       .0012 nen        .0012 wij       
+.0012 zij        .0012 vk         .0012 ground     .0012 daar      
+.0012 italian    .0012 mijn       .0011 explained  .0011 land      
+.0011 ander      .0011 aen        .0011 person     .0011 evidently 
+.0010 heeft      .0010 tot        .0010 idem       .0010 blz       
+.0010 kinderen   .0010 vl         .0010 onder      .0010 waar      
+.0009 zal        .0009 wie        .0009 question   .0009 heet      
+.0009 frederik   .0009 wordt      .0009 gaan       .0009 sinte     
+.0009 el         .0009 dit        .0009 spelt      .0009 mij       
+
+
+
+-------------------------------------------------------------------
+#: 0054  P: .0111    topic__54
+-------------------------------------------------------------------
+
+.0141 madame     .0122 love       .0104 lady       .0080 woman     
+.0076 france     .0074 paris      .0063 french     .0063 duke      
+.0051 women      .0049 count      .0049 english    .0044 married   
+.0043 maurice    .0043 lord       .0038 monsieur   .0036 mademoisel
+.0036 beautiful  .0035 countess   .0034 court      .0034 life      
+.0034 wife       .0032 london     .0031 husband    .0031 saint     
+.0031 father     .0030 ah         .0030 name       .0030 heart     
+.0030 carriage   .0030 daughter   .0029 duchess    .0029 england   
+.0028 noble      .0027 jeanne     .0027 marriage   .0026 words     
+.0026 person     .0026 travel     .0025 hand       .0025 eyes      
+.0025 soul       .0024 entered    .0024 letter     .0024 passed    
+.0023 church     .0023 family     .0023 fine       .0022 visit     
+.0022 bertha     .0022 madeleine  .0021 mistress   .0021 fortune   
+.0020 lover      .0020 priest     .0020 marquis    .0019 force     
+.0019 friend     .0019 dress      .0019 remained   .0019 street    
+.0019 admiration .0018 charming   .0018 town       .0018 arms      
+.0017 grand      .0017 louis      .0017 prison     .0017 scene     
+.0017 speak      .0016 moment     .0016 cathedral  .0016 passion   
+.0016 house      .0016 hour       .0016 jacques    .0016 honor     
+.0015 servant    .0015 leave      .0015 royal      .0015 apartment 
+.0015 hotel      .0015 nell       .0015 emperor    .0015 law       
+.0014 chapel     .0014 secret     .0014 death      .0014 left      
+.0014 people     .0014 tower      .0013 ruin       .0013 mother    
+.0013 gallery    .0013 handsome   .0013 desire     .0013 grace     
+.0013 true       .0013 devoted    .0013 mere       .0012 inn       
+
+
+
+-------------------------------------------------------------------
+#: 0055  P: .0022    topic__55
+-------------------------------------------------------------------
+
+.0418 amy        .0348 bobby      .0302 dot        .0285 agnes     
+.0255 jessie     .0246 meg        .0159 blossoms   .0072 corner    
+.0071 laurie     .0065 kangaroo   .0060 sammy      .0059 neale     
+.0049 tess       .0047 declared   .0046 aunt       .0042 jud       
+.0038 robbie     .0032 twaddles   .0032 car        .0027 jo        
+.0025 johnson    .0025 brook      .0025 em         .0025 stone     
+.0024 meggie     .0024 sharp      .0021 conductor  .0021 demanded  
+.0019 libbie     .0019 pine       .0018 company    .0018 farm      
+.0017 sam        .0017 laurence   .0017 ruth       .0016 linda     
+.0016 compton    .0016 station    .0016 gasped     .0016 hannah    
+.0016 folks      .0015 drive      .0015 mason      .0014 holt      
+.0014 jess       .0014 berries    .0014 delay      .0014 marcus    
+.0013 tyltyl     .0013 pilgrims   .0013 trimmer    .0013 milton    
+.0013 fernald    .0013 fence      .0013 turner     .0012 explained 
+.0012 human      .0012 shrieked   .0012 act        .0012 bobolink  
+.0012 bates      .0012 brookside  .0012 bell       .0011 suit      
+.0011 kenway     .0011 minutes    .0011 neighbor   .0011 horton    
+.0011 biff       .0011 burnit     .0011 goodness   .0011 norma     
+.0011 ada        .0011 harley     .0010 martial    .0010 aggie     
+.0010 repeated   .0010 train      .0010 trix       .0010 stock     
+.0010 perks      .0010 tied       .0010 littell    .0009 hill      
+.0009 oak        .0009 women      .0009 bertha     .0009 admitted  
+.0009 pool       .0009 peabody    .0009 norwood    .0009 rufus     
+.0009 applerod   .0009 brought    .0009 fine       .0009 hospital  
+.0009 post       .0009 dry        .0009 observed   .0008 cheerfully
+
+
+
+-------------------------------------------------------------------
+#: 0056  P: .0019    topic__56
+-------------------------------------------------------------------
+
+.0429 anna       .0352 susan      .0245 village    .0199 louisa    
+.0157 albert     .0140 lady       .0139 ross       .0134 matilda   
+.0128 daughter   .0114 rachel     .0060 adopted    .0059 sophia    
+.0057 campbell   .0056 visit      .0052 wilmot     .0050 replied   
+.0050 blanche    .0048 miller     .0048 terry      .0047 gloria    
+.0045 returned   .0028 left       .0027 lucia      .0027 leave     
+.0027 oh         .0026 hope       .0026 cottage    .0025 added     
+.0025 octavia    .0025 langley    .0025 continued  .0024 penny     
+.0024 ladyship   .0024 grandfathe .0024 virgie     .0023 delia     
+.0023 meridith   .0023 orphan     .0023 wife       .0022 valerie   
+.0022 church     .0022 heath      .0022 thank      .0022 ah        
+.0021 visitor    .0021 meet       .0020 met        .0020 entered   
+.0020 dance      .0019 belinda    .0019 fosbrook   .0018 murray    
+.0018 farm       .0018 family     .0017 arrived    .0017 egerton   
+.0017 dress      .0017 weston     .0016 liberty    .0015 palmer    
+.0015 rosetta    .0015 farmer     .0015 foster     .0015 melvina   
+.0014 proud      .0014 hannah     .0013 remained   .0013 ida       
+.0013 carleton   .0013 aurora     .0013 married    .0013 barclay   
+.0013 meadows    .0013 rebby      .0013 pay        .0013 brother   
+.0012 ill        .0012 sunbonnet  .0012 invited    .0012 age       
+.0012 granville  .0011 niece      .0011 bella      .0011 lorraine  
+.0011 america    .0011 wilson     .0011 bring      .0011 string    
+.0011 hunt       .0011 lyon       .0011 theobald   .0011 clement   
+.0010 frye       .0010 cleveland  .0010 justice    .0010 note      
+.0010 luretta    .0010 burgomaste .0010 medal      .0010 tied      
+
+
+
+-------------------------------------------------------------------
+#: 0057  P: .0017    topic__57
+-------------------------------------------------------------------
+
+.0438 blue       .0330 beth       .0134 cyril      .0121 bonnet    
+.0118 victoria   .0104 ethel      .0094 biddy      .0074 bridget   
+.0067 doodles    .0063 vane       .0053 fairchild  .0051 patsy     
+.0048 jacky      .0048 bernard    .0046 iris       .0045 caldwell  
+.0042 alie       .0041 replied    .0036 celestina  .0033 rough     
+.0030 red        .0029 round      .0029 answered   .0026 bed       
+.0026 dan        .0024 cliff      .0023 north      .0022 annabel   
+.0022 low        .0022 sand       .0020 mammy      .0019 yes       
+.0019 rejoined   .0019 exclaimed  .0018 tea        .0018 added     
+.0018 grey       .0017 window     .0017 kenyon     .0017 ethelwyn  
+.0017 hose       .0017 silvia     .0017 fan        .0016 shop      
+.0016 met        .0015 winston    .0015 ill        .0014 plague    
+.0014 beatrice   .0014 london     .0014 hat        .0014 paris     
+.0014 thank      .0014 arms       .0013 clark      .0013 ashes     
+.0013 door       .0013 gladys     .0013 died       .0013 wegg      
+.0012 front      .0012 wilkes     .0012 lucinda    .0012 dining    
+.0012 bride      .0012 bath       .0012 wife       .0012 salteena  
+.0011 drawing    .0011 french     .0011 viper      .0011 servant   
+.0011 breakfast  .0011 rosalys    .0010 angelica   .0010 goodriche 
+.0010 arrived    .0010 laurel     .0010 gip        .0010 ptolemy   
+.0010 dont       .0010 note       .0009 shut       .0009 beard     
+.0009 diogenes   .0009 bit        .0009 settled    .0009 clyde     
+.0009 carita     .0009 caruso     .0009 carroll    .0009 friskarina
+.0009 emerson    .0009 parlour    .0009 station    .0009 attention 
+.0009 tide       .0008 palsey     .0008 lenox      .0008 women     
+
+
+
+-------------------------------------------------------------------
+#: 0058  P: .0004    topic__58
+-------------------------------------------------------------------
+
+.0203 mat        .0064 tin        .0044 court      .0037 lie       
+.0022 geranium   .0013 bent       .0006 monu       .0006 freeman   
+.0004 rage       .0004 navvy      .0003 bail       .0003 roan      
+.0003 aim        .0003 loner      .0003 pledge     .0003 drunkard  
+.0003 haa        .0003 mill       .0002 fit        .0002 spivens   
+.0002 mid        .0002 tie        .0002 din        .0002 ty        
+.0002 worn       .0002 upas       .0002 barren     .0002 cholera   
+.0002 drunken    .0001 dying      .0001 fine       .0001 costermong
+.0001 velu       .0001 died       .0001 collector  .0001 brim      
+.0001 content    .0001 bade       .0001 bad        .0001 oi        
+.0001 ah         .0001 torn       .0001 rot        .0001 rap       
+.0001 offer      .0001 comer      .0001 teetotalle .0001 bring     
+.0001 trice      .0001 attention  .0001 title      .0001 seema     
+.0001 unskilful  .0001 hit        .0001 barter     .0001 fling     
+.0001 xor        .0001 hum        .0001 university .0001 matson    
+.0001 amma       .0001 ruin       .0001 varied     .0001 shopkeeper
+.0001 orgies     .0001 chal       .0001 flies      .0001 rate      
+.0001 sandford   .0001 pyra       .0001 publican   .0001 streak    
+.0001 pit        .0001 ot         .0001 lame       .0001 jet       
+.0001 bare       .0001 bed        .0001 timber     .0001 idle      
+.0001 narrow     .0001 tied       .0001 begins     .0001 sum       
+.0001 powr       .0001 iii        .0001 win        .0001 ioo       
+.0001 food       .0001 vet        .0001 reema      .0001 till      
+.0001 fastened   .0001 break      .0000 deadly     .0000 lucifer   
+.0000 hotter     .0000 beads      .0000 rending    .0000 ninny     
+
+
+
+-------------------------------------------------------------------
+#: 0059  P: .0026    topic__59
+-------------------------------------------------------------------
+
+.2189 uncle      .0844 billy      .0244 donald     .0192 maud      
+.0179 kate       .0065 added      .0058 lydia      .0055 adrian    
+.0051 bertram    .0046 josephine  .0039 lee        .0037 letter    
+.0037 rider      .0035 dorry      .0032 lucy       .0026 tell      
+.0026 celeste    .0025 tower      .0024 york       .0024 broncho   
+.0023 name       .0022 keineth    .0021 reed       .0021 laud      
+.0019 chet       .0018 border     .0018 mme        .0017 race      
+.0017 man        .0016 nephew     .0016 harold     .0016 gentleman 
+.0015 ted        .0015 doris      .0015 chat       .0015 pan       
+.0014 tussaud    .0013 library    .0012 drive      .0012 ride      
+.0012 isabel     .0012 chit       .0011 bradley    .0011 ay        
+.0011 ah         .0011 celebrated .0011 hill       .0011 picture   
+.0011 liddy      .0011 rang       .0010 thornton   .0010 pedro     
+.0010 constance  .0010 tonio      .0010 charity    .0009 hannah    
+.0009 strange    .0009 hat        .0009 relatives  .0009 fair      
+.0008 story      .0008 america    .0008 walker     .0008 texas     
+.0008 folks      .0008 grand      .0008 bar        .0008 beat      
+.0008 teresa     .0008 zankiwank  .0008 match      .0008 drury     
+.0008 cane       .0008 eeed       .0008 topsail    .0007 danby     
+.0007 henry      .0007 foam       .0007 richard    .0007 cracker   
+.0007 secret     .0007 mystery    .0007 pablo      .0007 word      
+.0007 rangers    .0007 hartley    .0007 timothy    .0007 skylark   
+.0007 club       .0007 spring     .0007 twins      .0007 reins     
+.0007 tender     .0007 eben       .0007 dill       .0007 visit     
+.0007 grange     .0007 joined     .0007 pete       .0007 spunk     
+
+
+
+-------------------------------------------------------------------
+#: 0060  P: .0120    topic__60
+-------------------------------------------------------------------
+
+.0803 ing        .0230 tion       .0228 con        .0138 ment      
+.0118 dis        .0107 ed         .0088 pro        .0087 ter       
+.0081 pre        .0073 fore       .0071 un         .0066 tain      
+.0064 ness       .0061 self       .0057 ap         .0056 ac        
+.0056 ful        .0053 ture       .0051 ere        .0048 lie       
+.0048 ward       .0044 en         .0043 pose       .0042 der       
+.0041 ous        .0040 mis        .0039 hap        .0038 sion      
+.0035 ting       .0035 selves     .0034 tle        .0034 sup       
+.0033 ther       .0033 ob         .0032 ble        .0032 sur       
+.0032 ton        .0031 dare       .0029 ner        .0028 pos       
+.0027 mer        .0027 ning       .0026 fol        .0026 inter     
+.0026 peared     .0025 tered      .0025 chil       .0025 tor       
+.0025 plied      .0024 est        .0023 dren       .0023 tive      
+.0023 ence       .0023 ple        .0023 ish        .0023 gether    
+.0023 manded     .0022 ceived     .0022 pur        .0022 ance      
+.0022 dered      .0021 coun       .0021 lit        .0021 ve        
+.0020 ried       .0020 pected     .0020 ent        .0019 cer       
+.0019 ber        .0019 prise      .0019 op         .0019 lieve     
+.0019 sud        .0019 plea       .0018 par        .0018 tinued    
+.0018 tween      .0018 mas        .0018 ut         .0017 pany      
+.0017 yon        .0017 mon        .0017 tended     .0017 ley       
+.0017 swered     .0017 ingly      .0017 fa         .0016 gen       
+.0016 dow        .0016 ling       .0016 library    .0016 ceeded    
+.0016 remem      .0016 pened      .0015 sub        .0015 hun       
+.0015 gray       .0015 min        .0015 ant        .0015 low       
+
+
+
+-------------------------------------------------------------------
+#: 0061  P: .0033    topic__61
+-------------------------------------------------------------------
+
+.0608 mark       .0215 kit        .0184 bet        .0139 stephen   
+.0105 bevis      .0083 joy        .0080 brownie    .0078 pixie     
+.0063 hetty      .0062 till       .0047 claudine   .0045 tidd      
+.0042 pan        .0041 minute     .0041 round      .0039 hester    
+.0038 hand       .0037 farm       .0035 tell       .0035 enid      
+.0035 kat        .0032 oliver     .0032 mind       .0031 sort      
+.0031 business   .0031 find       .0030 pudding    .0029 justin    
+.0028 head       .0027 rock       .0027 waterman   .0027 shirley   
+.0026 pretty     .0026 bridgie    .0025 judge      .0025 left      
+.0025 treasure   .0025 wait       .0025 ought      .0025 bill      
+.0025 half       .0024 wicked     .0024 walked     .0022 esmeralda 
+.0022 quick      .0022 watch      .0020 editor     .0019 word      
+.0019 loman      .0019 ready      .0018 paper      .0018 run       
+.0018 row        .0018 sat        .0018 hard       .0017 laughed   
+.0017 manufactur .0017 lot        .0017 hedge      .0017 touch     
+.0017 greenfield .0016 heard      .0016 erica      .0016 folks     
+.0016 dominic    .0016 ran        .0016 hear       .0016 try       
+.0015 note       .0015 swiss      .0015 pat        .0015 dent      
+.0014 piece      .0014 shoot      .0014 saint      .0014 fan       
+.0014 sight      .0014 bank       .0014 kie        .0014 spite     
+.0014 straight   .0013 susanna    .0013 shut       .0013 grass     
+.0013 cut        .0013 wall       .0013 mowbray    .0013 kapchack  
+.0013 believe    .0013 rolf       .0013 easy       .0013 match     
+.0013 quiet      .0013 foot       .0013 tried      .0012 yard      
+.0012 feet       .0012 hit        .0012 bramble    .0012 log       
+
+
+
+-------------------------------------------------------------------
+#: 0062  P: .0015    topic__62
+-------------------------------------------------------------------
+
+.0422 colonel    .0204 caroline   .0156 ware       .0134 lloyd     
+.0127 card       .0119 joyce      .0112 georgie    .0089 cousin    
+.0073 play       .0064 dark       .0058 monster    .0056 gate      
+.0052 karl       .0049 gay        .0047 attack     .0047 summoned  
+.0046 offer      .0041 hall       .0038 blythe     .0034 life      
+.0031 drawing    .0029 constance  .0028 norman     .0027 white     
+.0026 port       .0026 passed     .0026 jester     .0026 scissors  
+.0025 folio      .0024 wilkinson  .0024 called     .0024 active    
+.0023 keith      .0023 johnston   .0021 allison    .0021 texas     
+.0021 revealed   .0021 keeping    .0021 decorated  .0021 georgina  
+.0021 destroy    .0020 magic      .0019 mode       .0017 lose      
+.0017 fitz       .0016 dragon     .0016 finally    .0016 watchword 
+.0016 palmer     .0015 berry      .0015 win        .0015 hoffmann  
+.0015 grandfathe .0015 warwick    .0015 emmeline   .0015 awhile    
+.0014 hand       .0014 malcolm    .0014 duel       .0014 sherman   
+.0014 drew       .0013 field      .0013 beck       .0013 ride      
+.0013 rose       .0013 candace    .0013 lp         .0013 cannie    
+.0012 defense    .0012 bring      .0012 locust     .0012 force     
+.0012 tryst      .0012 von        .0012 barnaby    .0012 token     
+.0012 land       .0012 davenport  .0012 german     .0012 volume    
+.0011 kentucky   .0011 jules      .0011 magician   .0011 sword     
+.0011 shadow     .0011 caro       .0011 mirror     .0011 rare      
+.0010 deck       .0010 blue       .0010 portrait   .0010 light     
+.0010 eyes       .0010 library    .0010 gregg      .0010 ormsby    
+.0009 deep       .0009 allowed    .0009 vs         .0009 mina      
+
+
+
+-------------------------------------------------------------------
+#: 0063  P: .0072    topic__63
+-------------------------------------------------------------------
+
+.0513 polly      .0191 oh         .0183 david      .0159 peggy     
+.0149 cried      .0148 sally      .0127 joel       .0124 jasper    
+.0120 little     .0098 hand       .0080 pepper     .0066 phronsie  
+.0064 dear       .0058 eyes       .0058 tell       .0052 head      
+.0052 ben        .0047 arms       .0045 davy       .0044 laughed   
+.0041 exclaimed  .0038 boy        .0038 fisher     .0038 run       
+.0035 king       .0033 charlotte  .0033 chair      .0033 door      
+.0031 mother     .0031 declared   .0029 ran        .0028 brown     
+.0027 word       .0025 grandpapa  .0025 hurry      .0025 girl      
+.0025 dudley     .0024 em         .0024 bit        .0024 alexia    
+.0023 guess      .0023 hear       .0022 hold       .0022 called    
+.0021 glad       .0021 breath     .0021 house      .0021 smile     
+.0021 harold     .0020 stewart    .0020 step       .0020 mamsie    
+.0019 minute     .0019 cheeks     .0019 black      .0019 rushed    
+.0019 suddenly   .0019 joe        .0018 gentleman  .0018 picked    
+.0018 wait       .0018 added      .0018 pulled     .0018 dr        
+.0018 begged     .0018 screamed   .0018 mean       .0017 delight   
+.0017 white      .0017 pickering  .0017 stopped    .0016 feel      
+.0016 dropped    .0016 lyman      .0016 voice      .0016 table     
+.0016 feet       .0016 try        .0016 dreadful   .0016 care      
+.0016 till       .0016 nice       .0015 floor      .0015 fingers   
+.0015 stairs     .0015 sat        .0015 wish       .0015 glance    
+.0015 cry        .0015 percy      .0015 fly        .0014 doctor    
+.0014 lois       .0014 adventures .0014 bed        .0014 kitchen   
+.0014 bring      .0014 child      .0014 mind       .0013 stay      
+
+
+
+-------------------------------------------------------------------
+#: 0064  P: .0003    topic__64
+-------------------------------------------------------------------
+
+.0055 eyed       .0032 sami       .0013 celebrated .0012 goddess   
+.0010 faerie     .0010 oil        .0008 ja         .0007 fionah    
+.0007 henna      .0006 bar        .0006 illusen    .0006 jhudora   
+.0005 fae        .0004 sen        .0003 malon      .0003 ill       
+.0003 brigid     .0003 pies       .0002 stoeffi    .0002 niy       
+.0002 sill       .0002 oli        .0002 abide      .0002 tai       
+.0002 niin       .0002 ku         .0002 ol         .0002 oi        
+.0002 wong       .0002 hay        .0002 uli        .0001 jos       
+.0001 tried      .0001 cleanse    .0001 tend       .0001 pit       
+.0001 vain       .0001 aim        .0001 spring     .0001 eli       
+.0001 consuego   .0001 tornec     .0001 tier       .0001 marietta  
+.0001 rely       .0001 filled     .0001 samhain    .0001 liquid    
+.0001 solstice   .0001 halifax    .0001 sano       .0001 serra     
+.0001 bit        .0001 kuin       .0001 loudly     .0001 lie       
+.0001 ett        .0001 joined     .0001 imbolc     .0001 zweisimmen
+.0001 aid        .0001 mara       .0001 icy        .0001 hem       
+.0001 fiery      .0001 joka       .0001 oo         .0001 puff      
+.0001 meridell   .0001 kun        .0001 laughter   .0001 chailly   
+.0001 died       .0001 darkest    .0001 wit        .0001 ovation   
+.0001 lapsi      .0001 noise      .0001 chia       .0001 entice    
+.0001 encouraged .0001 silt       .0001 glade      .0001 lor       
+.0001 nut        .0001 mutta      .0001 silta      .0001 oskari    
+.0001 appeared   .0001 vay        .0001 job        .0001 vacant    
+.0001 avas       .0001 annasi     .0001 poi        .0001 tst       
+.0001 fret       .0001 sinne      .0001 bring      .0001 olla      
+
+
+
+-------------------------------------------------------------------
+#: 0065  P: .0014    topic__65
+-------------------------------------------------------------------
+
+.0435 iv         .0367 iii        .0301 ix         .0290 vii       
+.0258 viii       .0202 xi         .0199 xii        .0157 xiv       
+.0149 xiii       .0144 xv         .0117 xvi        .0099 xx        
+.0090 xvii       .0087 xviii      .0085 xix        .0065 xxi       
+.0062 xxii       .0055 xxv        .0054 xxiv       .0054 xxiii     
+.0050 xxvi       .0047 post       .0043 chief      .0042 xxvii     
+.0040 planet     .0037 xl         .0036 xxx        .0035 xxix      
+.0035 xxviii     .0031 xxxi       .0030 tell       .0028 emblem    
+.0028 xxxii      .0027 word       .0026 strange    .0023 xxxiii    
+.0022 chilcats   .0022 xxxiv      .0022 owindia    .0021 people    
+.0020 dan        .0019 longed     .0019 xxxv       .0019 matt      
+.0017 mark       .0017 ah         .0017 xxxvi      .0015 saturn    
+.0015 klitonda   .0015 xxxvii     .0014 cor        .0014 xxxix     
+.0013 bind       .0013 xxxviii    .0013 mush       .0012 job       
+.0012 xli        .0011 isa        .0011 coast      .0011 building  
+.0011 earth      .0010 xlii       .0010 doug       .0009 token     
+.0009 pet        .0009 xlv        .0008 xliii      .0008 ayana     
+.0008 rang       .0007 rom        .0007 thread     .0007 maiden    
+.0007 xlvi       .0007 xliv       .0007 silk       .0007 istatsatt 
+.0007 xlviii     .0006 clan       .0006 oe         .0006 prov      
+.0006 visai      .0006 xlix       .0006 florida    .0006 brave     
+.0006 forth      .0005 xlvii      .0005 tbe        .0005 heb       
+.0005 snoopy     .0005 shuttle    .0005 jakub      .0004 eph       
+.0004 natsatt    .0004 course     .0004 met        .0004 space     
+.0004 lying      .0004 plainly    .0004 moon       .0004 realised  
+
+
+
+-------------------------------------------------------------------
+#: 0066  P: .0009    topic__66
+-------------------------------------------------------------------
+
+.0779 smith      .0196 hector     .0087 napoleon   .0054 master    
+.0051 gregory    .0043 london     .0038 roscoe     .0035 jim       
+.0035 guy        .0031 tick       .0031 hawkesbury .0028 company   
+.0027 ah         .0025 boots      .0024 doubleday  .0023 socrates  
+.0022 wilkins    .0021 usher      .0020 crow       .0020 savage    
+.0019 huntington .0019 fingers    .0019 nathaniel  .0018 nash      
+.0018 lodge      .0017 beckoned   .0017 gentlemen  .0017 bonaparte 
+.0017 batchelor  .0016 bates      .0015 barnacle   .0015 jamestown 
+.0015 pocahontas .0015 partner    .0015 flanagan   .0015 hawk      
+.0014 crabb      .0014 plot       .0014 canon      .0014 bread     
+.0013 lit        .0013 wallop     .0012 henniker   .0012 principal 
+.0012 roam       .0012 education  .0012 charcoal   .0012 carpenter 
+.0011 allan      .0011 owe        .0010 bare       .0010 marshal   
+.0010 nephew     .0010 knights    .0010 fruit      .0010 governor  
+.0010 rid        .0009 backward   .0009 peek       .0009 pigeon    
+.0009 peacock    .0009 whipcord   .0009 lie        .0009 newport   
+.0009 corsican   .0009 dare       .0009 eleanor    .0008 tie       
+.0008 shield     .0008 pupils     .0008 burner     .0008 powhatan  
+.0008 institute  .0008 bouquet    .0008 merrett    .0008 tack      
+.0008 beadle     .0008 stonebridg .0008 greeted    .0008 council   
+.0008 plane      .0008 thrash     .0007 wrath      .0007 playground
+.0007 filled     .0007 wheel      .0007 masham     .0007 socks     
+.0007 air        .0007 grotto     .0006 sport      .0006 platt     
+.0006 shillings  .0006 brave      .0006 schoolfell .0006 future    
+.0006 newman     .0006 plant      .0006 brienne    .0006 hudson    
+
+
+
+-------------------------------------------------------------------
+#: 0067  P: .0006    topic__67
+-------------------------------------------------------------------
+
+.0353 simon      .0182 jonathan   .0071 michelle   .0067 maxwell   
+.0065 burke      .0055 popular    .0041 simple     .0026 continued 
+.0023 parson     .0023 parish     .0023 lottery    .0023 unlucky   
+.0023 bascom     .0023 hepsey     .0022 parents    .0021 virginia  
+.0021 rector     .0021 meet       .0020 samson     .0018 dom       
+.0018 jin        .0016 pair       .0015 melanie    .0015 nicholas  
+.0015 cassidy    .0014 joseph     .0014 hopkins    .0014 pierce    
+.0014 vase       .0013 tent       .0013 marco      .0013 mel       
+.0013 chain      .0013 germaine   .0012 warden     .0012 entered   
+.0012 chrissy    .0012 common     .0011 rectory    .0011 spent     
+.0011 hyacinth   .0011 von        .0011 nickey     .0010 church    
+.0010 chelsea    .0009 moumouth   .0009 leaf       .0009 tan       
+.0009 murad      .0009 lustucru   .0008 holden     .0008 sign      
+.0008 drama      .0008 foster     .0008 missionary .0007 rosanna   
+.0007 trophy     .0007 principal  .0007 chandler   .0007 garret    
+.0006 stafford   .0006 din        .0006 saladin    .0005 hash      
+.0005 complete   .0005 knitting   .0005 thunder    .0005 project   
+.0005 quentin    .0005 bar        .0005 steward    .0005 blank     
+.0005 jackson    .0005 windy      .0005 potion     .0005 title     
+.0005 repair     .0005 vestry     .0005 punch      .0004 exam      
+.0004 united     .0004 ejected    .0004 grenouill  .0004 win       
+.0004 demon      .0004 clean      .0004 durford    .0004 radbourne 
+.0004 janine     .0004 ruin       .0004 faulkenbur .0004 bring     
+.0004 filled     .0004 manchester .0004 library    .0004 blood     
+.0004 born       .0004 faribole   .0003 act        .0003 lungs     
+
+
+
+-------------------------------------------------------------------
+#: 0068  P: .0009    topic__68
+-------------------------------------------------------------------
+
+.0621 walter     .0422 charley    .0155 chris      .0130 lilac     
+.0116 henrietta  .0073 plume      .0065 bella      .0060 deborah   
+.0032 plague     .0028 conviction .0027 em         .0026 joshua    
+.0025 henderson  .0025 fit        .0025 kenrick    .0025 discovery 
+.0023 died       .0022 farm       .0022 leigh      .0018 fair      
+.0017 walt       .0017 toll       .0017 agnetta    .0017 greenways 
+.0016 florida    .0014 bell       .0014 jones      .0013 tied      
+.0013 eden       .0012 buried     .0012 butter     .0010 hen       
+.0010 monitor    .0010 prize      .0009 massa      .0009 wal       
+.0009 met        .0009 nigger     .0009 golly      .0008 fringe    
+.0008 orchard    .0008 buckle     .0008 darky      .0008 kennedy   
+.0008 lor        .0008 speech     .0007 altered    .0007 ramon     
+.0007 eaton      .0007 ecneitap   .0007 evson      .0007 wilton    
+.0007 couch      .0007 jael       .0007 flipper    .0007 barren    
+.0006 outlaw     .0006 harpour    .0006 paton      .0006 periwinkle
+.0006 alderman   .0006 spies      .0006 bliss      .0006 vail      
+.0006 vigilantes .0006 planter    .0006 hose       .0006 flip      
+.0005 char       .0005 approved   .0005 fever      .0005 court     
+.0005 cheerfully .0005 cactus     .0005 dairy      .0005 jacques   
+.0005 mccarty    .0005 tabea      .0005 musk       .0005 chapel    
+.0005 ecneitapmi .0005 morrow     .0005 relief     .0005 concert   
+.0005 saint      .0005 hay        .0005 whyte      .0004 sherwood  
+.0004 rushlight  .0004 huckleberr .0004 trim       .0004 thorn     
+.0004 whalley    .0004 friedsam   .0004 fine       .0004 vain      
+.0004 loft       .0004 redfeather .0004 prudence   .0004 plymouth  
+
+
+
+-------------------------------------------------------------------
+#: 0069  P: .0011    topic__69
+-------------------------------------------------------------------
+
+.0473 sandy      .0195 mama       .0096 allan      .0086 giddy     
+.0075 shenac     .0057 pierrot    .0055 reggie     .0053 lisa      
+.0051 post       .0047 deleah     .0046 brass      .0046 brother   
+.0044 hamish     .0044 margot     .0040 marjorie   .0038 dan       
+.0037 land       .0036 office     .0033 mountain   .0032 lad       
+.0029 neil       .0029 wool       .0026 fine       .0025 major     
+.0024 letter     .0023 mere       .0022 dhu        .0022 tricksy   
+.0021 ron        .0021 bare       .0020 heather    .0020 road      
+.0019 cut        .0019 allister   .0018 band       .0018 stewart   
+.0018 cave       .0018 chamber    .0018 annette    .0017 angus     
+.0017 field      .0016 gibbon     .0016 fair       .0016 thede     
+.0016 smugglers  .0015 chief      .0015 elder      .0015 hamper    
+.0015 sent       .0015 boult      .0015 change     .0015 sandman   
+.0015 speak      .0014 carter     .0014 eagle      .0014 wandered  
+.0014 lips       .0014 bernard    .0014 grubb      .0014 weary     
+.0013 howell     .0013 pies       .0013 belgium    .0012 people    
+.0012 continued  .0012 amal       .0012 wheel      .0012 jar       
+.0012 gathered   .0011 mind       .0011 cavern     .0011 bring     
+.0011 laddie     .0011 jolly      .0011 younkins   .0011 eyes      
+.0011 rain       .0010 caretaker  .0010 evan       .0010 grave     
+.0010 iss        .0010 holly      .0010 late       .0010 fork      
+.0010 passed     .0010 forcus     .0010 canfield   .0010 antoine   
+.0009 franky     .0009 plough     .0009 content    .0009 bryant    
+.0009 elgood     .0009 summer     .0009 pere       .0009 ricks     
+.0009 judge      .0009 meet       .0009 cottage    .0009 struggle  
+
+
+
+-------------------------------------------------------------------
+#: 0070  P: .0052    topic__70
+-------------------------------------------------------------------
+
+.0167 olive      .0114 maggie     .0081 scotland   .0066 esther    
+.0053 rhymes     .0051 ken        .0051 wi         .0046 faith     
+.0045 house      .0043 hand       .0042 ay         .0041 tell      
+.0039 woman      .0039 kirk       .0038 name       .0038 words     
+.0037 christine  .0037 gavin      .0037 minister   .0033 jean      
+.0032 answered   .0031 wife       .0028 till       .0028 hill      
+.0027 called     .0026 edinburgh  .0026 night      .0026 ronald    
+.0026 stairs     .0026 lord       .0026 fan        .0026 love      
+.0025 bonnie     .0025 scottish   .0025 popular    .0025 hae       
+.0024 door       .0023 castle     .0023 felicia    .0023 speak     
+.0023 english    .0022 auld       .0022 glen       .0022 hollyhock 
+.0022 nanny      .0022 highland   .0021 water      .0021 margaret  
+.0021 heard      .0021 lad        .0021 babbie     .0021 round     
+.0020 married    .0019 wee        .0019 weel       .0018 women     
+.0018 scotch     .0018 scots      .0018 rain       .0017 patsy     
+.0017 awa        .0017 lassie     .0017 prissy     .0016 bairn     
+.0016 stone      .0016 jock       .0016 egyptian   .0016 stand     
+.0016 gang       .0015 gie        .0015 fire       .0015 people    
+.0015 niagara    .0015 sae        .0015 lady       .0015 earl      
+.0015 rothesay   .0015 harold     .0014 twas       .0014 town      
+.0014 rapids     .0014 rob        .0014 family     .0013 guide     
+.0013 burn       .0013 gaed       .0013 eden       .0013 dinna     
+.0013 laird      .0013 country    .0013 head       .0012 son       
+.0012 walk       .0012 glasgow    .0012 god        .0012 black     
+.0012 lang       .0012 folk       .0012 hame       .0012 gypsy     
+
+
+
+-------------------------------------------------------------------
+#: 0071  P: .0018    topic__71
+-------------------------------------------------------------------
+
+.0569 jerry      .0350 nelly      .0134 leslie     .0124 winnie    
+.0104 milly      .0081 gwen       .0079 preston    .0070 replied   
+.0060 noddy      .0058 allen      .0050 hard       .0046 rose      
+.0046 frankie    .0045 party      .0043 ethan      .0041 crosby    
+.0036 carpet     .0036 witch      .0035 wait       .0034 phoenix   
+.0033 adelaide   .0033 lawry      .0031 anthea     .0029 sherwood  
+.0028 marmaduke  .0028 ticonderog .0028 sprite     .0027 jim       
+.0026 race       .0025 added      .0025 grant      .0024 lost      
+.0023 exclaimed  .0022 baker      .0021 win        .0021 wing      
+.0021 lot        .0021 slim       .0021 court      .0020 tod       
+.0020 fine       .0019 cynthia    .0019 silver     .0019 toyman    
+.0019 change     .0018 dandy      .0018 hung       .0018 safe      
+.0018 door       .0017 green      .0017 road       .0017 flaxie    
+.0017 fulton     .0017 bertha     .0016 shouted    .0016 nay       
+.0016 brother    .0016 stacey     .0016 netta      .0016 intended  
+.0015 enoch      .0015 woodville  .0015 venture    .0014 yi        
+.0014 youth      .0014 father     .0014 told       .0014 lubin     
+.0014 ching      .0014 studio     .0013 form       .0013 gray      
+.0013 professor  .0013 gyp        .0013 family     .0013 girl      
+.0013 crow       .0012 act        .0012 mystery    .0012 harcourt  
+.0012 prize      .0011 ponto      .0011 armstrong  .0011 locked    
+.0011 wash       .0011 vere       .0010 charlton   .0010 laid      
+.0010 house      .0010 chinese    .0010 snodgrass  .0010 arrived   
+.0010 cart       .0010 clinton    .0010 invited    .0010 affair    
+.0010 amen       .0010 greatly    .0010 burning    .0009 chamber   
+
+
+
+-------------------------------------------------------------------
+#: 0072  P: .0152    topic__72
+-------------------------------------------------------------------
+
+.0742 tom        .0214 ned        .0069 machine    .0065 engine    
+.0055 motor      .0051 cried      .0046 air        .0043 car       
+.0042 swift      .0041 sam        .0041 jimmy      .0037 answered  
+.0037 started    .0035 electric   .0034 called     .0031 chum      
+.0031 exclaimed  .0031 wire       .0029 oh         .0028 damon     
+.0028 speed      .0028 guess      .0027 wonder     .0026 light     
+.0026 chapter    .0026 try        .0026 inventor   .0026 run       
+.0025 night      .0025 miles      .0024 fire       .0024 little    
+.0024 craft      .0023 power      .0022 business   .0021 friends   
+.0021 tell       .0021 trip       .0021 plane      .0020 happened  
+.0020 airship    .0020 hope       .0020 aeroplane  .0020 flying    
+.0019 agreed     .0019 wheel      .0019 ready      .0019 operation 
+.0018 office     .0018 aviators   .0018 mine       .0018 land      
+.0018 road       .0018 declared   .0018 course     .0018 submarine 
+.0017 tank       .0017 gold       .0017 find       .0017 german    
+.0017 gun        .0017 plan       .0016 observed   .0016 mean      
+.0016 bless      .0016 message    .0016 lad        .0016 chance    
+.0015 father     .0015 blake      .0015 house      .0015 send      
+.0015 remarked   .0015 sent       .0015 added      .0015 andy      
+.0015 flight     .0015 matter     .0015 telephone  .0015 picture   
+.0014 spoke      .0014 heard      .0014 race       .0014 american  
+.0014 test       .0014 sort       .0014 cloud      .0014 carried   
+.0014 suggested  .0014 water      .0014 earth      .0014 watch     
+.0014 ground     .0013 told       .0013 explosion  .0013 wireless  
+.0013 pilot      .0013 colored    .0013 paper      .0013 idea      
+
+
+
+-------------------------------------------------------------------
+#: 0073  P: .0014    topic__73
+-------------------------------------------------------------------
+
+.0730 henry      .0439 tim        .0411 maria      .0213 janet     
+.0173 howard     .0145 burning    .0099 harvey     .0054 vasco     
+.0044 bag        .0038 silk       .0036 bangs      .0036 ellison   
+.0034 vail       .0033 raphael    .0031 gama       .0029 friendly  
+.0029 san        .0028 hill       .0027 moor       .0027 danger    
+.0025 brenda     .0025 india      .0025 sent       .0024 madelaine 
+.0022 hans       .0022 danvers    .0022 tube       .0020 arms      
+.0019 brandon    .0018 portuguese .0018 braxton    .0018 city      
+.0017 elwood     .0017 cousin     .0017 davy       .0016 mill      
+.0016 charlotta  .0016 oakley     .0015 thornton   .0015 evie      
+.0014 sign       .0014 blind      .0013 witham     .0013 guardian  
+.0013 adrift     .0012 died       .0012 thornly    .0012 judge     
+.0012 salome     .0012 dress      .0011 harlow     .0011 phenix    
+.0011 paulo      .0011 arabs      .0010 trade      .0010 double    
+.0010 guard      .0010 message    .0010 zamorin    .0010 fruit     
+.0010 offered    .0010 gazed      .0009 irishman   .0009 born      
+.0009 lee        .0009 shasta     .0009 hobart     .0009 teuzer    
+.0008 benton     .0008 wandered   .0008 yez        .0008 portugal  
+.0008 terror     .0008 fur        .0008 janey      .0008 devant    
+.0007 dunes      .0007 library    .0007 stumper    .0007 low       
+.0007 boarders   .0007 senex      .0007 monks      .0007 arose     
+.0007 repair     .0007 pah        .0007 dam        .0007 hide      
+.0007 late       .0007 relief     .0007 melinda    .0007 ritter    
+.0007 spread     .0007 stranger   .0007 gensfleisc .0006 met       
+.0006 calicut    .0006 utah       .0006 timothy    .0006 cannon    
+
+
+
+-------------------------------------------------------------------
+#: 0074  P: .0043    topic__74
+-------------------------------------------------------------------
+
+.0959 doctor     .0306 dr         .0259 little     .0129 earl      
+.0115 people     .0103 lord       .0065 boy        .0060 street    
+.0051 jim        .0046 wonder     .0045 hanny      .0045 imp       
+.0043 house      .0040 jinks      .0039 joe        .0039 beautiful 
+.0037 ben        .0037 fauntleroy .0037 friend     .0037 hospital  
+.0035 hannah     .0033 nurse      .0033 son        .0032 strange   
+.0031 life       .0030 black      .0030 woman      .0029 chair     
+.0028 daisy      .0028 name       .0027 fellow     .0027 deal      
+.0026 city       .0026 story      .0026 margaret   .0025 york      
+.0025 medicine   .0024 party      .0024 grand      .0024 red       
+.0024 hand       .0023 sick       .0023 hair       .0023 eyes      
+.0022 queer      .0022 arbell     .0022 called     .0022 grandfathe
+.0022 white      .0022 brain      .0021 splendid   .0021 patient   
+.0021 excitement .0021 sat        .0020 tall       .0020 pretty    
+.0020 fond       .0020 castle     .0020 delight    .0020 married   
+.0020 handsome   .0019 picture    .0019 curious    .0019 country   
+.0019 fashion    .0018 crowd      .0018 lordship   .0018 visit     
+.0018 ago        .0018 cedric     .0017 proud      .0017 head      
+.0017 brought    .0017 hobbs      .0017 arms       .0017 told      
+.0016 feel       .0016 fine       .0016 died       .0016 walk      
+.0016 park       .0016 course     .0016 change     .0015 travers   
+.0015 cure       .0015 store      .0015 tell       .0015 charles   
+.0015 voice      .0015 grown      .0014 physician  .0014 sort      
+.0014 reed       .0014 underhill  .0014 alden      .0014 carriage  
+.0014 dolly      .0013 person     .0013 women      .0013 soft      
+
+
+
+-------------------------------------------------------------------
+#: 0075  P: .0242    topic__75
+-------------------------------------------------------------------
+
+.0573 le         .0233 un         .0177 que        .0142 en        
+.0136 ce         .0127 qui        .0112 pas        .0104 dans      
+.0100 vous       .0096 pour       .0094 du         .0093 elle      
+.0081 son        .0074 lui        .0070 tout       .0068 avec      
+.0063 plus       .0063 par        .0061 petit      .0061 est       
+.0061 te         .0060 sur        .0057 tait       .0056 bien      
+.0051 tu         .0050 nous       .0049 mon        .0048 ses       
+.0048 dit        .0048 leur       .0046 tre        .0044 comme     
+.0037 avait      .0035 moi        .0034 cette      .0033 grand     
+.0032 fait       .0029 ils        .0028 enfants    .0028 vol       
+.0028 ou         .0027 sans       .0027 faire      .0027 deux      
+.0025 rent       .0024 tous       .0024 aux        .0023 bon       
+.0022 jour       .0021 sont       .0020 ur         .0019 encore    
+.0019 pauvre     .0019 temps      .0019 tant       .0019 quand     
+.0019 quelques   .0019 aussi      .0019 main       .0016 fut       
+.0016 peu        .0016 cela       .0016 rien       .0015 jean      
+.0015 bonne      .0015 taient     .0015 autres     .0015 mme       
+.0015 fille      .0015 chez       .0015 suis       .0015 puis      
+.0014 pi         .0014 sous       .0014 gravures   .0014 porte     
+.0014 dont       .0014 dire       .0014 donc       .0013 ton       
+.0013 votre      .0013 voir       .0013 jeune      .0013 femme     
+.0013 homme      .0013 fois       .0013 ami        .0013 roi       
+.0012 car        .0012 dieu       .0012 faut       .0012 jamais    
+.0012 toujours   .0012 toi        .0012 monsieur   .0012 chose     
+.0012 ta         .0011 pierre     .0011 peut       .0011 madame    
+
+
+
+-------------------------------------------------------------------
+#: 0076  P: .0015    topic__76
+-------------------------------------------------------------------
+
+.0164 christie   .0145 flash      .0140 gertrude   .0123 oscar     
+.0122 anthony    .0111 nance      .0109 storm      .0105 jacket    
+.0091 watch      .0090 clark      .0087 thunder    .0082 poppy     
+.0067 vincent    .0063 rain       .0057 cassie     .0056 star      
+.0047 chair      .0045 beppo      .0043 jed        .0041 sister    
+.0041 dan        .0040 hour       .0037 tell       .0037 continued 
+.0035 window     .0034 glover     .0034 organ      .0029 mare      
+.0029 lee        .0029 maxine     .0028 brian      .0026 red       
+.0025 tessa      .0024 herd       .0023 catch      .0023 em        
+.0023 mignon     .0023 stiffens   .0022 black      .0021 silence   
+.0020 mac        .0020 sullivan   .0020 sat        .0020 huggermugg
+.0020 bell       .0020 change     .0020 power      .0020 golden    
+.0019 friend     .0019 birdie     .0019 treffy     .0019 brock     
+.0019 head       .0018 colt       .0018 lightning  .0018 stanhope  
+.0018 thistledow .0017 clarissa   .0017 adair      .0017 stallion  
+.0017 silvain    .0017 elsli      .0016 foal       .0016 sing      
+.0016 fani       .0016 factory    .0016 alley      .0015 boots     
+.0015 pere       .0015 note       .0015 effie      .0014 dress     
+.0014 bluebird   .0014 snawdor    .0014 court      .0014 night     
+.0014 tune       .0013 completely .0013 aubert     .0013 tiffany   
+.0013 minutes    .0013 song       .0012 smelt      .0012 meet      
+.0011 moment     .0011 strange    .0011 patch      .0011 ripley    
+.0011 lightfoot  .0011 puma       .0011 secret     .0011 son       
+.0011 passed     .0010 anatole    .0010 heavy      .0010 pokemon   
+.0010 strong     .0010 wait       .0010 denise     .0010 bruce     
+
+
+
+-------------------------------------------------------------------
+#: 0077  P: .0029    topic__77
+-------------------------------------------------------------------
+
+.2613 sir        .0808 william    .0481 charles    .0200 thomas    
+.0185 ready      .0144 lady       .0142 replied    .0133 edward    
+.0131 hardy      .0053 leave      .0051 lucilla    .0048 thank     
+.0037 benson     .0036 water      .0036 dumb       .0036 bell      
+.0034 deaf       .0033 ride       .0032 haste      .0029 met       
+.0027 seagrave   .0026 left       .0024 bring      .0024 selwyn    
+.0023 moore      .0023 treat      .0021 newton     .0020 agreed    
+.0020 bed        .0019 hubert     .0019 morrow     .0018 gentleman 
+.0018 mason      .0018 castle     .0017 tied       .0017 fair      
+.0017 rode       .0017 dinner     .0017 liam       .0016 conway    
+.0016 able       .0015 england    .0014 party      .0014 juno      
+.0013 henry      .0013 percival   .0013 wil        .0012 beat      
+.0012 nut        .0012 ghost      .0012 ah         .0011 fine      
+.0011 fixed      .0011 sedley     .0011 madam      .0011 tommy     
+.0010 recovered  .0010 true       .0010 elfield    .0010 arrived   
+.0010 phebe      .0009 joseph     .0009 dead       .0009 darry     
+.0009 rube       .0009 baronet    .0009 rival      .0008 tent      
+.0008 spectre    .0008 gained     .0008 perceived  .0008 ditch     
+.0007 gentlemen  .0007 archibald  .0007 assistance .0006 cocoa     
+.0006 written    .0006 latin      .0006 heavy      .0006 fetch     
+.0006 belfry     .0006 examined   .0006 savage     .0005 gale      
+.0005 hour       .0005 weston     .0005 samuel     .0005 montgomery
+.0005 carver     .0005 note       .0005 constance  .0005 osborn    
+.0005 andros     .0004 low        .0004 fit        .0004 cousin    
+.0004 brunton    .0004 eighteen   .0004 altered    .0004 remained  
+
+
+
+-------------------------------------------------------------------
+#: 0078  P: .0020    topic__78
+-------------------------------------------------------------------
+
+.0744 james      .0279 adventures .0218 donkey     .0114 poor      
+.0113 pinocchio  .0091 squire     .0054 fry        .0050 piece     
+.0049 head       .0049 road       .0048 mouth      .0045 myles     
+.0045 fish       .0044 voice      .0041 knocked    .0041 puppet    
+.0035 merry      .0035 water      .0034 jill       .0034 field     
+.0029 lame       .0029 friend     .0028 marionette .0028 ground    
+.0027 feet       .0027 legs       .0027 boy        .0026 imagine   
+.0025 tell       .0025 laughed    .0025 dead       .0025 toots     
+.0024 fine       .0023 yard       .0023 truly      .0023 hour      
+.0023 ears       .0023 geoff      .0022 bad        .0022 walk      
+.0021 elsa       .0021 wooden     .0021 nose       .0020 cap       
+.0020 country    .0020 eat        .0019 gold       .0019 life      
+.0018 meet       .0018 branches   .0018 met        .0017 patience  
+.0017 pincushion .0017 hunger     .0016 hand       .0016 ill       
+.0016 balloon    .0016 bread      .0016 shouted    .0015 late      
+.0015 account    .0015 blow       .0015 geppetto   .0015 cry       
+.0015 paul       .0015 cricket    .0015 prison     .0014 coat      
+.0014 wood       .0014 alive      .0014 study      .0014 hoot      
+.0014 farmer     .0014 moment     .0013 ah         .0013 matthew   
+.0013 race       .0013 blunt      .0013 tongue     .0013 reached   
+.0013 foot       .0013 ass        .0013 die        .0013 door      
+.0012 drink      .0012 street     .0012 words      .0012 cart      
+.0012 jocko      .0012 sell       .0012 broken     .0012 skin      
+.0012 hold       .0012 throw      .0012 sold       .0011 bray      
+.0011 pity       .0011 drowned    .0011 companions .0011 eaten     
+
+
+
+-------------------------------------------------------------------
+#: 0079  P: .0052    topic__79
+-------------------------------------------------------------------
+
+.1265 mary       .0581 jane       .0299 ellen      .0277 nancy     
+.0189 laura      .0176 jenny      .0099 judith     .0095 girl      
+.0088 leonard    .0086 sylvia     .0066 lee        .0058 caleb     
+.0045 twin       .0045 tell       .0045 evelyn     .0041 door      
+.0040 party      .0039 replied    .0039 oh         .0039 mother    
+.0036 marshall   .0035 school     .0033 minutes    .0032 edna      
+.0030 lester     .0030 course     .0029 pauline    .0029 fortune   
+.0028 house      .0027 dress      .0026 sophia     .0025 raymond   
+.0025 merrill    .0024 learned    .0024 told       .0024 allen     
+.0024 lindsay    .0024 van        .0024 added      .0024 plain     
+.0023 fair       .0023 elinor     .0023 spring     .0022 hurry     
+.0021 christina  .0021 alice      .0021 plan       .0020 visit     
+.0019 declared   .0018 hudson     .0018 margaret   .0018 hall      
+.0018 mystery    .0018 oak        .0018 term       .0017 notice    
+.0017 fire       .0017 madam      .0017 dance      .0017 timmy     
+.0017 vera       .0017 till       .0016 brunt      .0016 grandmothe
+.0016 audrey     .0016 flora      .0016 sarah      .0016 exclaimed 
+.0016 dear       .0016 ran        .0016 alma       .0016 explained 
+.0016 guess      .0015 amabel     .0015 plague     .0015 try       
+.0015 irvin      .0015 ride       .0015 cicely     .0015 lloyd     
+.0014 ready      .0014 dale       .0014 called     .0014 montgomery
+.0014 promised   .0014 suppose    .0013 matter     .0013 rejoined  
+.0013 secret     .0013 judy       .0012 catherine  .0012 nettie    
+.0012 wonder     .0012 grace      .0012 agreed     .0012 person    
+.0012 folks      .0012 wait       .0012 barn       .0011 lane      
+
+
+
+-------------------------------------------------------------------
+#: 0080  P: .0214    topic__80
+-------------------------------------------------------------------
+
+.0130 hand       .0104 house      .0092 round      .0089 wall      
+.0080 window     .0075 stand      .0075 door       .0072 paper     
+.0070 picture    .0060 cut        .0060 front      .0057 people    
+.0057 table      .0055 street     .0055 head       .0055 piece     
+.0055 drawing    .0054 glass      .0051 floor      .0050 corner    
+.0048 painted    .0048 light      .0047 play       .0046 feet      
+.0045 building   .0044 red        .0044 half       .0043 covered   
+.0043 square     .0042 steps      .0041 left       .0039 hold      
+.0038 stone      .0038 form       .0037 little     .0036 black     
+.0036 figure     .0036 white      .0034 foot       .0034 circle    
+.0032 fingers    .0032 basket     .0031 stick      .0031 chair     
+.0031 garden     .0030 outside    .0030 inches     .0030 passed    
+.0030 middle     .0029 person     .0029 inside     .0029 roof      
+.0028 row        .0028 color      .0028 seat       .0028 cross     
+.0027 arms       .0027 bridge     .0027 clothes    .0027 edge      
+.0026 iron       .0025 book       .0025 hat        .0025 shape     
+.0025 sides      .0025 called     .0025 fig        .0024 green     
+.0023 placed     .0023 game       .0022 space      .0022 flat      
+.0022 opposite   .0022 hole       .0022 string     .0022 close     
+.0022 shop       .0022 mark       .0022 ball       .0021 direction 
+.0021 object     .0021 centre     .0021 wooden     .0021 bag       
+.0021 rolled     .0020 touch      .0020 wheel      .0020 finished  
+.0020 lower      .0020 blue       .0020 sort       .0019 legs      
+.0019 shoes      .0019 candle     .0019 wide       .0019 ground    
+.0019 post       .0018 block      .0018 yard       .0018 double    
+
+
+
+-------------------------------------------------------------------
+#: 0081  P: .0008    topic__81
+-------------------------------------------------------------------
+
+.0289 pierre     .0278 daisy      .0173 rex        .0128 sydney    
+.0105 brother    .0072 jess       .0071 reed       .0061 brook     
+.0057 morrison   .0051 shoes      .0040 clarence   .0040 tyler     
+.0038 pell       .0035 eve        .0034 died       .0030 benny     
+.0029 zephyr     .0027 pluma      .0024 hall       .0024 lise      
+.0024 edna       .0023 firmstone  .0022 willoughby .0021 arms      
+.0021 artie      .0020 mill       .0019 syd        .0018 hartwell  
+.0016 laurie     .0015 blanche    .0013 luna       .0013 talisman  
+.0013 hurlhurst  .0013 met        .0013 wife       .0012 stormy    
+.0012 handsome   .0012 instant    .0011 victor     .0011 ze        
+.0011 gertie     .0011 madame     .0011 keeler     .0010 cruel     
+.0010 dike       .0010 placed     .0010 heiress    .0010 harrington
+.0009 schenck    .0009 goose      .0009 lyon       .0009 whitestone
+.0008 birdie     .0008 carter     .0008 acadians   .0008 fallen    
+.0008 fatal      .0007 eva        .0007 win        .0007 stanwick  
+.0007 bride      .0007 removed    .0007 beausejour .0007 towser    
+.0007 tudor      .0007 fro        .0006 mine       .0006 lecorbeau 
+.0006 path       .0006 summerfiel .0006 basil      .0006 crutch    
+.0006 tide       .0006 odd        .0006 raynor     .0006 pantops   
+.0006 abbe       .0006 kiara      .0005 darley     .0005 company   
+.0005 mad        .0005 rapidly    .0005 lester     .0005 detective 
+.0005 hutch      .0005 loutre     .0005 mention    .0005 bin       
+.0005 marsh      .0005 dandelion  .0005 marley     .0004 skaters   
+.0004 mek        .0004 bore       .0004 motion     .0004 wit       
+.0004 meditation .0004 jojo       .0004 septima    .0004 coleman   
+
+
+
+-------------------------------------------------------------------
+#: 0082  P: .0024    topic__82
+-------------------------------------------------------------------
+
+.0401 kitty      .0219 edith      .0196 luke       .0136 stanley   
+.0131 ernest     .0125 rod        .0115 arnold     .0114 guard     
+.0106 percy      .0106 body       .0104 judy       .0093 queen     
+.0073 duncan     .0070 stan       .0058 ray        .0054 josh      
+.0052 jeff       .0051 chicken    .0047 wing       .0047 jeffreys  
+.0044 morton     .0044 roderick   .0043 blunt      .0038 elizabeth 
+.0038 family     .0035 till       .0035 maynard    .0031 randolph  
+.0030 selina     .0030 peyton     .0028 watch      .0028 isabel    
+.0026 mean       .0026 feel       .0025 burning    .0024 ursula    
+.0024 bank       .0024 ready      .0023 green      .0022 offered   
+.0021 scarf      .0020 managed    .0019 bring      .0019 send      
+.0018 lynn       .0018 lonely     .0017 webster    .0017 bad       
+.0016 dun        .0016 arranged   .0016 store      .0016 visit     
+.0016 butter     .0015 fall       .0015 replied    .0015 bolton    
+.0015 outlaw     .0014 harold     .0014 parson     .0014 peck      
+.0013 greatly    .0013 tea        .0013 gertie     .0013 dead      
+.0013 died       .0013 ah         .0013 window     .0012 plan      
+.0012 fire       .0012 parasyte   .0012 excitement .0012 lie       
+.0012 junk       .0012 royal      .0012 brother    .0012 dering    
+.0012 rimbolt    .0012 forrester  .0012 raby       .0011 brook     
+.0011 doubt      .0011 west       .0011 deal       .0011 julius    
+.0011 delight    .0011 colonel    .0011 harrison   .0011 half      
+.0011 sleep      .0010 poodles    .0010 fresh      .0010 midget    
+.0010 filled     .0010 pot        .0010 wish       .0010 course    
+.0010 eod        .0010 neale      .0010 poor       .0009 prize     
+
+
+
+-------------------------------------------------------------------
+#: 0083  P: .0132    topic__83
+-------------------------------------------------------------------
+
+.0470 harry      .0277 bob        .0176 boy        .0161 scouts    
+.0117 bert       .0111 tommy      .0104 little     .0099 nan       
+.0095 camp       .0091 roy        .0080 freddie    .0079 oh        
+.0076 bobbsey    .0067 wee        .0064 tell       .0059 called    
+.0055 pee        .0054 told       .0051 guess      .0050 snap      
+.0049 fellow     .0049 flossie    .0048 cried      .0047 twins     
+.0044 laughed    .0041 car        .0040 fire       .0039 lot       
+.0038 started    .0038 water      .0036 boat       .0036 chapter   
+.0036 lake       .0034 answered   .0034 night      .0033 woods     
+.0033 patrol     .0033 shouted    .0031 road       .0030 find      
+.0028 happened   .0027 anyway     .0027 eat        .0027 troop     
+.0027 tree       .0026 mean       .0026 house      .0026 pretty    
+.0025 heard      .0024 run        .0023 train      .0023 slade     
+.0023 girl       .0022 fun        .0022 stay       .0022 father    
+.0021 exclaimed  .0021 wait       .0021 care       .0020 dinah     
+.0020 hear       .0019 cook       .0019 suppose    .0019 lost      
+.0019 added      .0018 fish       .0018 try        .0018 glad      
+.0017 kid        .0017 temple     .0017 worry      .0017 name      
+.0017 hill       .0017 gee        .0016 hope       .0016 adventures
+.0016 dark       .0016 tent       .0016 hand       .0016 wonder    
+.0016 believe    .0016 track      .0016 engine     .0016 fine      
+.0015 book       .0015 money      .0015 hold       .0015 afraid    
+.0015 stand      .0015 hurry      .0015 stick      .0015 stood     
+.0015 ought      .0015 blakeley   .0015 hard       .0015 light     
+.0015 island     .0014 sammy      .0014 em         .0014 sort      
+
+
+
+-------------------------------------------------------------------
+#: 0084  P: .0202    topic__84
+-------------------------------------------------------------------
+
+.0078 city       .0072 people     .0069 war        .0068 church    
+.0060 country    .0057 washington .0051 york       .0051 law       
+.0044 president  .0044 american   .0044 england    .0043 government
+.0043 united     .0041 nation     .0035 army       .0034 command   
+.0034 office     .0034 letter     .0034 history    .0033 land      
+.0031 called     .0030 america    .0030 name       .0029 son       
+.0028 life       .0028 appointed  .0028 received   .0028 death     
+.0028 greek      .0027 served     .0026 governor   .0026 elected   
+.0026 south      .0026 lincoln    .0025 sent       .0025 public    
+.0025 till       .0025 study      .0024 indians    .0024 power     
+.0024 boston     .0023 returned   .0023 philadelph .0023 author    
+.0023 chief      .0023 english    .0022 congress   .0022 civil     
+.0022 service    .0021 colony     .0021 house      .0021 roman     
+.0021 battle     .0020 river      .0020 college    .0020 north     
+.0020 french     .0020 west       .0020 court      .0020 king      
+.0019 senate     .0018 education  .0018 published  .0018 gen       
+.0018 town       .0018 soldiers   .0017 british    .0017 establishe
+.0017 held       .0017 age        .0017 europe     .0017 peace     
+.0017 william    .0016 franklin   .0016 died       .0016 virginia  
+.0016 entered    .0016 christian  .0016 university .0016 father    
+.0016 mass       .0015 society    .0015 bishop     .0015 county    
+.0015 john       .0015 building   .0015 force      .0015 minister  
+.0015 afterward  .0014 spain      .0014 island     .0014 built     
+.0014 rome       .0014 honor      .0014 act        .0014 columbus  
+.0014 success    .0013 charge     .0013 visit      .0013 ceremonies
+
+
+
+-------------------------------------------------------------------
+#: 0085  P: .0006    topic__85
+-------------------------------------------------------------------
+
+.0735 giant      .0366 fat        .0140 mew        .0114 lie       
+.0064 congo      .0045 search     .0020 lay        .0018 roar      
+.0017 stewart    .0016 killer     .0016 ill        .0015 norman    
+.0015 groaned    .0012 dying      .0009 cork       .0009 coat      
+.0008 die        .0008 cooper     .0007 club       .0007 met       
+.0007 mitch      .0006 diet       .0006 fright     .0006 gracie    
+.0005 fan        .0005 golu       .0005 wit        .0005 horseman  
+.0004 oath       .0004 painter    .0004 flare      .0004 matron    
+.0003 repository .0003 thumb      .0003 puny       .0003 tying     
+.0003 rid        .0003 fiery      .0003 bar        .0003 billet    
+.0003 exploits   .0003 hur        .0003 sworn      .0003 loaves    
+.0002 cormoran   .0002 medart     .0002 lies       .0002 gog       
+.0002 livery     .0002 broiled    .0002 win        .0002 quarry    
+.0002 doleful    .0002 itch       .0002 tie        .0002 rage      
+.0002 feebee     .0002 wales      .0002 rosalinda  .0002 carne     
+.0002 bondone    .0002 shamrock   .0002 dandlem    .0002 iv        
+.0002 quog       .0002 stew       .0002 tah        .0002 ho        
+.0002 ix         .0002 entity     .0002 sibold     .0002 app       
+.0002 magog      .0002 plain      .0002 abc        .0002 gnashing  
+.0001 horrid     .0001 ahem       .0001 weaker     .0001 compared  
+.0001 fee        .0001 cooty      .0001 tineboy    .0001 marketplac
+.0001 galligantu .0001 untied     .0001 pelting    .0001 dolefully 
+.0001 spluttered .0001 pickaxe    .0001 kill       .0001 fit       
+.0001 watch      .0001 confounded .0001 brisk      .0001 low       
+.0001 larder     .0001 florgishna .0001 blunderbor .0001 blubber   
+
+
+
+-------------------------------------------------------------------
+#: 0086  P: .0008    topic__86
+-------------------------------------------------------------------
+
+.0075 bit        .0072 bent       .0054 ta         .0053 nnb       
+.0047 mill       .0041 bat        .0030 bay        .0028 mid       
+.0025 cine       .0025 nod        .0024 nub        .0023 lie       
+.0022 fain       .0020 cin        .0020 nn         .0018 bid       
+.0017 inn        .0017 lief       .0016 tie        .0015 die       
+.0015 foil       .0014 bcr        .0014 menu       .0014 bio       
+.0014 fid        .0013 mi         .0013 ev         .0012 jic       
+.0011 nut        .0011 nidit      .0010 bev        .0010 ill       
+.0010 fort       .0010 fprad      .0010 tic        .0010 united    
+.0009 itnb       .0009 bic        .0009 init       .0009 tin       
+.0009 ban        .0009 bcv        .0008 fie        .0008 iind      
+.0008 bar        .0007 tat        .0007 mas        .0007 iic       
+.0007 bad        .0007 nid        .0007 anf        .0006 abcr      
+.0006 bin        .0006 jie        .0006 bor        .0006 nd        
+.0006 gutter     .0006 mad        .0006 hat        .0006 nnd       
+.0006 bag        .0006 cud        .0006 hub        .0006 urn       
+.0006 babe       .0006 cut        .0006 ait        .0006 ale       
+.0006 ibr        .0005 tun        .0005 rot        .0005 bcin      
+.0005 jd         .0005 yi         .0005 mare       .0005 jab       
+.0005 iie        .0005 batten     .0005 cure       .0005 jprad     
+.0005 lit        .0005 faun       .0005 bac        .0004 mollte    
+.0004 jid        .0004 nun        .0004 bom        .0004 waiter    
+.0004 alien      .0004 fount      .0004 eo         .0004 bavin     
+.0004 tor        .0004 tcr        .0004 ld         .0004 dadaji    
+.0004 anj        .0004 boo        .0004 mat        .0004 fiir      
+
+
+
+-------------------------------------------------------------------
+#: 0087  P: .0003    topic__87
+-------------------------------------------------------------------
+
+.0061 dreda      .0047 drake      .0024 rowena     .0023 saxon     
+.0017 guy        .0012 essay      .0009 norah      .0008 seton     
+.0007 bun        .0006 prize      .0005 rawdon     .0005 lay       
+.0005 etheldreda .0005 rut        .0005 duck       .0004 gurth     
+.0004 dull       .0003 ill        .0003 met        .0003 synopsis  
+.0003 ssh        .0003 wempati    .0003 bed        .0003 currant   
+.0002 mane       .0002 sufi       .0002 mead       .0002 neely     
+.0002 sub        .0002 bretherton .0002 poured     .0002 oil       
+.0002 cavalcade  .0002 brand      .0002 raid       .0002 bandar    
+.0002 form       .0002 micky      .0002 tie        .0002 bit       
+.0002 bent       .0002 padie      .0002 mandate    .0001 lali      
+.0001 terms      .0001 hid        .0001 suet       .0001 cudgel    
+.0001 clerc      .0001 bring      .0001 mutilated  .0001 mend      
+.0001 grapple    .0001 mine       .0001 rud        .0001 diet      
+.0001 lid        .0001 furious    .0001 tame       .0001 rejuiced  
+.0001 hasty      .0001 meaner     .0001 lot        .0001 livestock 
+.0001 preciate   .0001 flow       .0001 rip        .0001 comet     
+.0001 peeli      .0001 died       .0001 gaping     .0001 rap       
+.0001 strain     .0001 teat       .0001 tell       .0001 chritmas  
+.0001 ebbed      .0001 bank       .0001 dote       .0001 ofthe     
+.0001 earthquake .0001 bat        .0001 owe        .0001 mad       
+.0001 note       .0001 allay      .0001 wax        .0001 tilt      
+.0001 chimpanzee .0001 locked     .0001 cramped    .0001 suit      
+.0001 tottering  .0001 ave        .0001 lungs      .0001 bay       
+.0001 din        .0001 dying      .0001 mid        .0001 bind      
+
+
+
+-------------------------------------------------------------------
+#: 0088  P: .0025    topic__88
+-------------------------------------------------------------------
+
+.2152 john       .0350 elizabeth  .0240 grant      .0164 eliza     
+.0155 fred       .0131 joy        .0100 peterkin   .0081 phyllis   
+.0075 cricket    .0067 house      .0050 solomon    .0049 family    
+.0045 little     .0042 boy        .0041 hilda      .0034 olga      
+.0032 fire       .0031 giles      .0029 button     .0025 hildegarde
+.0024 grandfathe .0023 burroughs  .0023 bring      .0022 brought   
+.0022 eunice     .0022 agamemnon  .0020 late       .0019 key       
+.0019 marten     .0019 hill       .0016 cow        .0016 daphne    
+.0016 trunk      .0016 carrier    .0016 road       .0016 edna      
+.0015 farm       .0015 clarence   .0015 margie     .0015 philadelph
+.0014 cup        .0014 explained  .0014 leverett   .0014 chilian   
+.0014 hermit     .0014 decided    .0013 tried      .0013 suggested 
+.0013 appeared   .0012 book       .0012 yard       .0012 royal     
+.0011 language   .0011 study      .0011 dining     .0011 coffee    
+.0011 course     .0010 locked     .0010 growler    .0010 landis    
+.0010 strongest  .0010 piazza     .0010 exeter     .0010 auntie    
+.0010 forward    .0010 gail       .0010 pack       .0010 reached   
+.0009 stone      .0009 front      .0009 find       .0009 leaning   
+.0009 dinner     .0009 hood       .0009 black      .0009 meet      
+.0009 proposed   .0009 declared   .0009 hungary    .0008 zaidee    
+.0008 arrived    .0008 pounds     .0008 directly   .0008 sonia     
+.0008 burning    .0008 hewitt     .0008 chuck      .0008 cynthia   
+.0008 wylie      .0008 gigi       .0007 rubber     .0007 foreign   
+.0007 friends    .0007 salem      .0007 neighbors  .0007 allan     
+.0007 boston     .0007 dion       .0007 parlor     .0007 india     
+
+
+
+-------------------------------------------------------------------
+#: 0089  P: .0320    topic__89
+-------------------------------------------------------------------
+
+.0167 indian     .0080 fire       .0079 camp       .0064 river     
+.0061 horse      .0061 white      .0060 mountains  .0057 bear      
+.0056 tree       .0049 trail      .0049 killed     .0047 water     
+.0045 woods      .0045 forest     .0045 hunting    .0044 miles     
+.0041 ground     .0041 animal     .0041 chief      .0040 night     
+.0040 wild       .0039 reached    .0038 head       .0038 rock      
+.0037 little     .0036 hunter     .0036 feet       .0036 shot      
+.0035 run        .0034 gun        .0032 snow       .0032 canoe     
+.0032 red        .0031 rifle      .0031 country    .0030 stream    
+.0030 pony       .0029 left       .0029 party      .0027 people    
+.0026 land       .0026 deer       .0025 warriors   .0025 friends   
+.0024 hill       .0024 spot       .0024 cattle     .0024 called    
+.0024 savage     .0024 black      .0024 told       .0023 lake      
+.0023 ranch      .0023 buffalo    .0023 skin       .0022 fight     
+.0022 carried    .0022 distance   .0021 close      .0021 log       
+.0021 plain      .0021 fort       .0021 shoot      .0021 travel    
+.0021 war        .0021 started    .0020 danger     .0020 tribe     
+.0020 passed     .0020 sun        .0020 hand       .0020 heard     
+.0020 half       .0020 sight      .0020 find       .0020 father    
+.0020 wolf       .0019 west       .0019 cut        .0019 bank      
+.0019 foot       .0019 watch      .0019 body       .0019 guide     
+.0019 north      .0019 arrow      .0018 game       .0018 valley    
+.0018 ride       .0018 herd       .0018 brought    .0018 prairie   
+.0018 returned   .0017 grass      .0017 saddle     .0017 spring    
+.0017 boy        .0017 dead       .0017 tent       .0017 creek     
+
+
+
+-------------------------------------------------------------------
+#: 0090  P: .0020    topic__90
+-------------------------------------------------------------------
+
+.0782 helen      .0445 martin     .0190 joan       .0169 scott     
+.0114 marion     .0107 leon       .0067 hereward   .0059 hortense  
+.0055 herd       .0049 hall       .0048 inn        .0047 father    
+.0045 flossy     .0040 theo       .0038 dawson     .0033 eskdale   
+.0033 head       .0033 miles      .0032 dale       .0030 hill      
+.0030 waif       .0028 bob        .0025 elliott    .0025 tell      
+.0024 van        .0024 reached    .0023 county     .0023 eurie     
+.0023 left       .0022 macy       .0021 road       .0021 juniper   
+.0021 send       .0020 rebel      .0020 dennis     .0020 bell      
+.0020 margie     .0020 parson     .0019 barney     .0019 dixie     
+.0019 rattler    .0019 church     .0018 porter     .0018 tonia     
+.0018 neville    .0018 walk       .0018 added      .0018 stone     
+.0018 sprague    .0018 rebellion  .0018 half       .0017 torfrida  
+.0017 ride       .0017 gale       .0017 curt       .0016 clayton   
+.0016 miller     .0016 bring      .0016 ana        .0015 true      
+.0015 grimes     .0015 likewise   .0014 step       .0014 erskine   
+.0014 settled    .0013 starkweath .0013 dan        .0013 manse     
+.0013 arms       .0013 blind      .0013 cable      .0013 river     
+.0013 armstrong  .0012 hermit     .0012 dorn       .0012 nate      
+.0012 dayton     .0012 words      .0012 sunset     .0012 chautauqua
+.0012 stairs     .0012 dead       .0011 sacrifice  .0011 agreed    
+.0011 william    .0011 continued  .0011 promised   .0011 jacques   
+.0011 conquest   .0011 hold       .0011 supper     .0011 hand      
+.0011 wear       .0011 run        .0010 vose       .0010 director  
+.0010 mule       .0010 business   .0010 company    .0010 jeremiah  
+
+
+
+-------------------------------------------------------------------
+#: 0091  P: .0034    topic__91
+-------------------------------------------------------------------
+
+.0370 patty      .0292 philip     .0132 th         .0114 marian    
+.0078 rhoda      .0076 phoebe     .0072 norah      .0057 tell      
+.0050 gipsy      .0049 tis        .0048 cherry     .0039 mind      
+.0039 nan        .0038 chris      .0037 lass       .0037 people    
+.0034 temple     .0032 matter     .0031 bit        .0029 fairfield 
+.0029 mona       .0028 tembarom   .0027 ay         .0027 em        
+.0026 words      .0024 hand       .0024 abe        .0024 wife      
+.0024 alison     .0024 sort       .0023 wi         .0023 nature    
+.0023 father     .0022 christian  .0022 elise      .0022 van       
+.0021 kenneth    .0021 mean       .0021 trouble    .0020 round     
+.0020 blanchard  .0019 chap       .0019 roger      .0019 flamstead 
+.0019 course     .0019 un         .0018 woman      .0018 theer     
+.0018 fletcher   .0018 poor       .0018 village    .0018 oi        
+.0018 noel       .0018 night      .0017 iv         .0017 declared  
+.0017 hall       .0017 wan        .0017 fur        .0017 yo        
+.0017 hard       .0016 dance      .0016 miller     .0016 married   
+.0015 told       .0015 knaw       .0015 lot        .0015 bill      
+.0015 fool       .0015 barholm    .0015 pounds     .0015 nurse     
+.0014 hear       .0014 alicia     .0014 date       .0014 half      
+.0014 sheer      .0014 lettice    .0014 blew       .0013 law       
+.0013 tha        .0013 fra        .0013 stone      .0013 london    
+.0013 hutchinson .0013 grimbal    .0013 cecilia    .0013 pearson   
+.0013 gate       .0012 ugh        .0012 husband    .0012 laughed   
+.0012 bad        .0012 promise    .0012 cottage    .0012 tea       
+.0012 cameron    .0012 thank      .0012 happened   .0012 reckon    
+
+
+
+-------------------------------------------------------------------
+#: 0092  P: .0025    topic__92
+-------------------------------------------------------------------
+
+.0368 girl       .0169 clara      .0164 cora       .0128 winifred  
+.0104 bess       .0091 gladys     .0083 ed         .0076 bell      
+.0072 camp       .0071 sahwah     .0068 road       .0065 car       
+.0064 katherine  .0059 fire       .0055 nyoda      .0051 margery   
+.0050 carew      .0047 agony      .0047 hinpoha    .0046 pollyanna 
+.0043 jamie      .0043 virginia   .0035 house      .0033 act       
+.0032 called     .0032 migwan     .0031 oh         .0030 carter    
+.0030 woods      .0030 inez       .0029 tent       .0028 dell      
+.0027 lillian    .0027 chancellor .0026 evans      .0026 hazel     
+.0025 exclaimed  .0025 bed        .0024 letter     .0024 acre      
+.0024 college    .0024 summer     .0023 winnebagos .0022 path      
+.0022 lake       .0022 suit       .0022 low        .0021 veronica  
+.0021 main       .0021 replied    .0021 trip       .0020 voice     
+.0020 honor      .0019 landon     .0019 letitia    .0019 louise    
+.0018 name       .0018 sent       .0018 slim       .0018 pshaw     
+.0018 bath       .0017 office     .0017 hill       .0017 junior    
+.0017 justice    .0017 canoe      .0016 told       .0016 millicent 
+.0016 skylark    .0016 sherburne  .0016 finished   .0015 night     
+.0015 beach      .0015 betts      .0015 sat        .0015 eyes      
+.0014 forest     .0014 tell       .0014 swim       .0014 hall      
+.0014 sweet      .0014 drayton    .0013 grey       .0013 shakespear
+.0013 dock       .0013 dean       .0013 launch     .0012 rand      
+.0012 denny      .0012 glow       .0012 glad       .0012 head      
+.0012 grayson    .0012 pendleton  .0012 alpha      .0012 sing      
+.0012 floor      .0012 gamma      .0012 wallace    .0012 folks     
+
+
+
+-------------------------------------------------------------------
+#: 0093  P: .0034    topic__93
+-------------------------------------------------------------------
+
+.0928 school     .0372 teacher    .0216 class      .0210 margaret  
+.0119 lou        .0113 rosalie    .0109 emmy       .0082 tilly     
+.0079 pupils     .0077 book       .0066 desk       .0061 lizzie    
+.0060 hattie     .0055 aunt       .0053 paper      .0049 boy       
+.0045 genevieve  .0045 lesson     .0045 reader     .0041 cordelia  
+.0040 little     .0039 board      .0039 recess     .0039 lady      
+.0036 principal  .0033 bumper     .0031 words      .0030 sadie     
+.0029 louise     .0029 agatha     .0029 fanny      .0027 head      
+.0026 spell      .0026 recite     .0026 caravan    .0026 examinatio
+.0025 learn      .0024 jenny      .0024 bell       .0024 emily     
+.0024 pencil     .0023 note       .0022 name       .0022 grammar   
+.0022 scholars   .0022 church     .0022 charlie    .0021 teach     
+.0021 valentine  .0021 stood      .0020 rang       .0019 gwendoline
+.0018 slate      .0017 fur        .0017 cheeks     .0016 rita      
+.0016 copy       .0016 question   .0016 rule       .0016 meant     
+.0016 explained  .0016 withers    .0016 breath     .0015 told      
+.0015 close      .0014 carried    .0014 store      .0014 jot       
+.0013 pop        .0013 met        .0013 failed     .0013 hart      
+.0013 crowd      .0013 halcot     .0012 texas      .0012 grade     
+.0012 betsey     .0012 public     .0012 bryan      .0012 william   
+.0012 wonder     .0011 arithmetic .0011 gate       .0011 platform  
+.0011 mean       .0011 trial      .0011 medal      .0010 tears     
+.0010 black      .0010 gazed      .0010 absalom    .0010 compositio
+.0010 manikin    .0010 shanty     .0010 hartley    .0010 corner    
+.0010 forth      .0010 step       .0010 visit      .0010 laughed   
+
+
+
+-------------------------------------------------------------------
+#: 0094  P: .0063    topic__94
+-------------------------------------------------------------------
+
+.0228 lion       .0153 fables     .0121 fox        .0096 wolf      
+.0075 ass        .0071 tiger      .0066 elephant   .0062 beasts    
+.0061 fool       .0051 friend     .0047 wise       .0046 bear      
+.0046 tis        .0045 eat        .0040 goat       .0038 vol       
+.0038 ger        .0038 eagle      .0036 moral      .0035 cock      
+.0034 hare       .0032 ill        .0031 prey       .0030 death     
+.0030 kill       .0029 sheep      .0027 virtue     .0026 fall      
+.0026 words      .0026 bad        .0026 peacock    .0025 applicatio
+.0025 shepherd   .0025 mouse      .0024 enemy      .0024 bull      
+.0024 danger     .0023 rich       .0022 bird       .0022 vain      
+.0022 ox         .0022 devil      .0021 stag       .0021 frog      
+.0020 crow       .0020 tongue     .0020 wit        .0019 art       
+.0019 monkey     .0019 fly        .0019 dutch      .0019 fate      
+.0019 folly      .0018 greek      .0018 meat       .0018 fear      
+.0018 ant        .0018 thief      .0017 truth      .0017 ital      
+.0017 traveller  .0017 mouth      .0017 crane      .0017 find      
+.0016 horn       .0016 chance     .0016 leopard    .0016 drink     
+.0015 wisdom     .0015 tortoise   .0015 jupiter    .0015 worth     
+.0015 sp         .0015 fed        .0015 blind      .0014 latin     
+.0014 skin       .0014 rule       .0014 food       .0014 law       
+.0014 oft        .0014 dead       .0013 swallow    .0013 idle      
+.0013 fab        .0013 pride      .0013 dove       .0013 fortune   
+.0013 fell       .0013 snake      .0013 sow        .0013 die       
+.0013 load       .0013 catch      .0013 lay        .0012 cunning   
+.0012 wicked     .0012 man        .0012 hawk       .0012 kite      
+
+
+
+-------------------------------------------------------------------
+#: 0095  P: .0012    topic__95
+-------------------------------------------------------------------
+
+.0169 father     .0110 sed        .0108 wood       .0092 mac       
+.0071 mother     .0048 sum        .0048 told       .0043 deal      
+.0040 beany      .0035 tell       .0034 dont       .0033 rite      
+.0031 erroll     .0030 fair       .0029 meath      .0029 life      
+.0029 wont       .0028 house      .0028 jest       .0028 deer      
+.0027 feller     .0027 mad        .0027 lot        .0026 wind      
+.0025 hard       .0024 school     .0023 round      .0023 cant      
+.0023 head       .0022 water      .0022 keen       .0021 potter    
+.0020 mimi       .0020 licked     .0020 play       .0020 boy       
+.0019 minister   .0018 pay        .0017 dident     .0017 ast       
+.0017 pewt       .0017 called     .0017 winder     .0017 enny      
+.0016 izzy       .0016 ike        .0016 band       .0016 macgregor 
+.0015 pembroke   .0015 boat       .0015 bet        .0015 town      
+.0014 weak       .0014 wish       .0014 throw      .0014 aint      
+.0014 bed        .0014 bill       .0014 whitch     .0013 heard     
+.0013 cood       .0013 yard       .0013 porky      .0013 cents     
+.0013 hear       .0012 peace      .0012 becaus     .0012 holler    
+.0012 asa        .0012 red        .0012 door       .0012 bit       
+.0011 killed     .0011 awful      .0011 stay       .0011 try       
+.0011 cele       .0011 hit        .0011 run        .0011 nite      
+.0010 graf       .0010 rotten     .0010 begun      .0010 sick      
+.0010 fun        .0010 legs       .0010 grateful   .0010 bad       
+.0010 wall       .0010 glad       .0009 hand       .0009 cat       
+.0009 row        .0009 fire       .0009 hold       .0009 hot       
+.0009 fool       .0009 sheep      .0009 bull       .0008 eat       
+
+
+
+-------------------------------------------------------------------
+#: 0096  P: .0004    topic__96
+-------------------------------------------------------------------
+
+.0041 piano      .0033 brittany   .0032 cap        .0030 ramuntcho 
+.0017 bailey     .0016 obscure    .0015 basque     .0013 gracieuse 
+.0013 son        .0012 grand      .0010 profound   .0010 cider     
+.0010 arrochkoa  .0010 spain      .0009 antique    .0009 nun       
+.0009 infinite   .0009 ave        .0009 retained   .0009 game      
+.0008 smugglers  .0008 ball       .0008 project    .0008 intoxicate
+.0008 smuggling  .0008 isolated   .0008 regain     .0007 sombre    
+.0007 route      .0007 doubtless  .0007 mute       .0006 nocturnal 
+.0006 bench      .0006 ill        .0006 quit       .0006 inn       
+.0006 mass       .0006 dolores    .0006 joyful     .0005 spanish   
+.0005 itchoua    .0005 prolonged  .0005 fright     .0005 abandoned 
+.0005 ardent     .0005 primitive  .0005 immovable  .0005 sonorous  
+.0004 elevated   .0004 lukewarm   .0004 dint       .0004 frontier  
+.0004 ascended   .0004 torrent    .0004 refrain    .0004 healthy   
+.0004 demeanor   .0004 tradition  .0004 virgin     .0004 ardor     
+.0004 fandango   .0004 reddish    .0004 etchezar   .0004 franchita 
+.0003 tranquil   .0003 unique     .0003 sort       .0003 perspirati
+.0003 sap        .0003 chaos      .0003 sandals    .0003 ordinarily
+.0003 uncertain  .0003 habitual   .0003 mustache   .0003 woolen    
+.0003 nave       .0003 discreet   .0003 immense    .0003 emanated  
+.0003 village    .0003 silhouette .0003 tepid      .0003 recital   
+.0003 cadence    .0003 schnitzen  .0003 crier      .0003 scruples  
+.0003 rainy      .0003 epoch      .0003 supple     .0002 prohibited
+.0002 pelota     .0002 separated  .0002 florentino .0002 granite   
+.0002 biscay     .0002 amassed    .0002 champion   .0002 ferocious 
+
+
+
+-------------------------------------------------------------------
+#: 0097  P: .0244    topic__97
+-------------------------------------------------------------------
+
+.0112 oh         .0112 little     .0072 mother     .0071 started   
+.0069 walked     .0066 girl       .0066 boy        .0063 cried     
+.0062 called     .0057 house      .0053 play       .0051 answered  
+.0050 children   .0050 brown      .0049 sister     .0047 friends   
+.0047 bunny      .0046 door       .0045 smiled     .0044 ted       
+.0043 tell       .0043 happened   .0043 ran        .0042 laughed   
+.0042 told       .0042 guess      .0042 eyes       .0041 name      
+.0041 head       .0040 run        .0039 fun        .0038 brother   
+.0038 find       .0038 toby       .0038 lot        .0038 sue       
+.0036 story      .0035 pulled     .0035 trouble    .0035 eat       
+.0035 dad        .0035 nice       .0034 daddy      .0034 bed       
+.0033 hand       .0033 wait       .0032 front      .0031 hair      
+.0031 jumped     .0031 try        .0029 stay       .0029 water     
+.0029 heard      .0029 mom        .0028 snow       .0028 ride      
+.0028 blue       .0028 picked     .0027 watch      .0027 red       
+.0026 kids       .0026 car        .0025 stopped    .0025 sat       
+.0025 inside     .0025 father     .0025 left       .0024 janet     
+.0024 pony       .0024 doll       .0024 teddy      .0023 baby      
+.0022 tried      .0022 bit        .0021 white      .0021 exclaimed 
+.0021 hurt       .0021 school     .0021 grandpa    .0021 finally   
+.0021 voice      .0021 window     .0021 ice        .0021 bad       
+.0021 night      .0021 sleep      .0020 leave      .0020 minutes   
+.0020 wonder     .0020 toy        .0020 sound      .0019 course    
+.0019 twins      .0019 nodded     .0019 funny      .0019 monkey    
+.0019 hard       .0019 thank      .0019 outside    .0019 love      
+
+
+
+-------------------------------------------------------------------
+#: 0098  P: .0028    topic__98
+-------------------------------------------------------------------
+
+.0173 clay       .0168 pearl      .0144 madge      .0134 dotty     
+.0126 prudy      .0125 alex       .0106 susy       .0103 effie     
+.0098 horace     .0092 river      .0059 dimple     .0056 fly       
+.0049 em         .0048 curtis     .0048 lucile     .0043 fel       
+.0041 jules      .0041 eyes       .0037 stub       .0036 cried     
+.0036 motor      .0035 jeanie     .0035 sand       .0035 folks     
+.0033 bernard    .0032 parlin     .0032 rambler    .0032 cup       
+.0032 head       .0032 barrow     .0031 boat       .0031 clo       
+.0029 grandma    .0029 clifford   .0029 red        .0028 inga      
+.0027 white      .0027 car        .0026 fairy      .0026 allen     
+.0024 water      .0024 auntie     .0023 rinkitink  .0022 bear      
+.0020 dropped    .0019 mikros     .0019 replied    .0019 west      
+.0019 flyaway    .0018 foot       .0018 lost       .0018 mouth     
+.0018 grace      .0017 beverley   .0017 breath     .0017 miles     
+.0017 astray     .0016 sherry     .0016 windy      .0016 annette   
+.0016 bilbil     .0015 believe    .0015 tania      .0015 midsummer 
+.0015 whispered  .0015 black      .0014 light      .0014 party     
+.0014 fish       .0014 ears       .0014 colorado   .0013 columbia  
+.0013 blind      .0013 floor      .0013 secret     .0013 voice     
+.0013 mississipp .0013 hatchet    .0013 story      .0013 dog       
+.0012 cross      .0012 added      .0012 pat        .0012 board     
+.0012 cousin     .0012 rolled     .0012 door       .0012 mose      
+.0011 staunton   .0011 maum       .0011 captain    .0011 pingaree  
+.0011 lacy       .0011 mine       .0011 row        .0011 nose      
+.0011 lie        .0011 gran       .0011 canary     .0011 remarked  
+
+
+
+-------------------------------------------------------------------
+#: 0099  P: .0005    topic__99
+-------------------------------------------------------------------
+
+.0158 ho         .0077 tied       .0046 gnitle     .0032 del       
+.0026 tan        .0023 select     .0023 mor        .0018 cum       
+.0014 rum        .0013 sambo      .0011 lie        .0010 lies      
+.0010 ut         .0009 eyed       .0008 cap        .0008 quod      
+.0008 tot        .0007 grandma    .0006 nut        .0006 pie       
+.0006 amicably   .0006 bonbeaw    .0006 tally      .0006 died      
+.0005 bou        .0005 eo         .0005 arc        .0005 aim       
+.0005 internet   .0005 temerity   .0005 able       .0004 fed       
+.0004 quo        .0004 nam        .0004 fable      .0004 eft       
+.0004 qua        .0004 quam       .0004 qui        .0004 fa        
+.0004 terra      .0003 quid       .0003 bestioles  .0003 ta        
+.0003 amigues    .0003 dum        .0003 ab         .0003 library   
+.0003 fabula     .0003 mid        .0003 icy        .0003 ire       
+.0003 pies       .0003 jam        .0003 whenford   .0003 amb       
+.0003 hoc        .0003 inquit     .0002 homeward   .0002 omnes     
+.0002 wherefore  .0002 ah         .0002 pel        .0002 deaun     
+.0002 duval      .0002 bid        .0002 illi       .0002 nit       
+.0002 inter      .0002 dani       .0002 philalethe .0002 content   
+.0002 ind        .0002 autem      .0002 quan       .0002 ubi       
+.0002 indicat    .0002 din        .0002 sibi       .0002 nee       
+.0002 earn       .0002 tibi       .0002 lent       .0002 pri       
+.0002 tum        .0002 sol        .0002 flor       .0002 canis     
+.0002 erat       .0002 minus      .0002 fine       .0002 efle      
+.0002 ita        .0002 fall       .0002 quia       .0002 fu        
+.0002 cam        .0002 length     .0002 lid        .0002 lor       
+
+
+
+-------------------------------------------------------------------
+#: 0100  P: .0223    topic__100
+-------------------------------------------------------------------
+
+.0193 little     .0151 peter      .0147 bird       .0133 tree      
+.0079 rabbit     .0070 green      .0068 nest       .0055 fox       
+.0055 wood       .0053 head       .0050 find       .0048 mother    
+.0047 crow       .0047 tell       .0046 tail       .0045 farmer    
+.0045 squirrel   .0043 eyes       .0043 called     .0042 brown     
+.0041 johnny     .0041 water      .0041 meadow     .0040 wings     
+.0039 fly        .0039 eat        .0039 heard      .0039 jimmy     
+.0039 white      .0037 mouse      .0037 house      .0036 told      
+.0036 frog       .0036 watch      .0034 ground     .0033 happened  
+.0032 flew       .0032 run        .0031 hole       .0031 laughed   
+.0031 feathers   .0030 eggs       .0030 black      .0030 course    
+.0029 family     .0029 forest     .0029 grandfathe .0028 night     
+.0028 bushes     .0027 wonder     .0027 jumped     .0026 hear      
+.0026 wait       .0026 people     .0026 hen        .0026 happy     
+.0025 voice      .0025 story      .0025 cried      .0025 try       
+.0024 owl        .0024 bear       .0024 grass      .0024 branches  
+.0023 hard       .0023 started    .0023 sat        .0023 legs      
+.0023 replied    .0023 fish       .0022 friends    .0022 hurry     
+.0022 red        .0022 hunting    .0022 catch      .0021 leave     
+.0021 climbed    .0021 pond       .0021 caught     .0021 nature    
+.0020 winter     .0020 duck       .0020 sound      .0019 stopped   
+.0019 snow       .0019 fast       .0019 hide       .0019 tried     
+.0019 bit        .0018 sammy      .0018 sing       .0018 reached   
+.0018 ran        .0018 sun        .0018 ears       .0018 feel      
+.0017 toad       .0017 close      .0017 sight      .0017 spot      
+
+
