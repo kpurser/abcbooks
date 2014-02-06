@@ -1,4 +1,4 @@
-package org.json;
+package book;
 
 /*
  Copyright (c) 2002 JSON.org
