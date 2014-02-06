@@ -23,8 +23,8 @@ public class Test
 		
 		String matrix=args[1];
 		String inputTopic=args[2];
-		inputTopic=stem.stem(inputTopic); // stem input topic to match words
-		abcWords theWords=new abcWords(topics, inputTopic, matrix);
+		String sinputTopic=stem.stem(inputTopic); // stem input topic to match words
+		abcWords theWords=new abcWords(topics, sinputTopic, matrix);
 		HashMap<String, String> chosenWords=theWords.get26Words();
 		
 		System.out.println("Selected 26 words ");
@@ -32,6 +32,13 @@ public class Test
 			System.out.println(w + " " + chosenWords.get(w));
 
 
+		abcWordsWN theWordsWN=new abcWordsWN(topics, sinputTopic, matrix);
+		HashMap<String, String> chosenWordsWN=theWordsWN.get26Words();
+		
+		System.out.println("Selected 26 words ");
+		for(String w:chosenWordsWN.keySet())
+			System.out.println(w + " " + chosenWordsWN.get(w));
+		
 
 		
 		
