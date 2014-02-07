@@ -3,8 +3,13 @@ from phrase_generator import PhraseGenerator
 from nltk.corpus import brown
 import sys
 
+_corpus_path = "./data/oneFile_50.txt"
+
 def main(abc_file, out_file):
-	gen = PhraseGenerator(brown)
+	#gen = PhraseGenerator(brown)
+	corpus = open(_corpus_path).read()
+	print "Corpus read"
+	gen = PhraseGenerator(corpus)
 	lines = open(abc_file).readlines()
 	assert len(lines) == 26
 	sentences = []

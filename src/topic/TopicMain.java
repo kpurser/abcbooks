@@ -3,7 +3,7 @@ package topic;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class Test
+public class TopicMain
 {
 	public static void main(String args[]) throws IOException
 	{
@@ -42,10 +42,6 @@ public class Test
 		System.out.println("Selected 26 words based on non-stemmed topics and WordNet ");
 		for(String w:chosenWordsWN.keySet())
 			System.out.println(w + " " + chosenWordsWN.get(w));
-		
-
-		
-		
 	}
 }
 

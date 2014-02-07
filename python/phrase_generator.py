@@ -51,7 +51,7 @@ class PhraseGenerator(object):
 		bigrams = nltk.bigrams([w.lower() for w in words])
 		self.cdf = nltk.ConditionalFreqDist(bigrams)
 		self.case_cdf = nltk.ConditionalFreqDist([(w.lower(), w) for w in words])
-		self.avg_sent_len = int(len(words)/len(sents))
+		self.avg_sent_len = int(len(words)/len(sents)) / 2
 
 	def __call__(self, word):
 		'''Produces a likely phrase based on the initial "seed word" provided
