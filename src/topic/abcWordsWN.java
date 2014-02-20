@@ -10,6 +10,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
+import java.util.StringTokenizer;
 import java.util.TreeSet;
 
 import rita.wordnet.RiWordnet;
@@ -30,24 +31,39 @@ public class abcWordsWN {
 		wordnet = new RiWordnet();
 		double probabilityTopic=0;
 		
+		
+		
+		
+		HashSet<String> givenTopics=new HashSet<String>();
+		StringTokenizer tk= new StringTokenizer(inputTopic,"::");
+		while(tk.hasMoreTokens())
+			givenTopics.add(tk.nextToken());
+
+		
 		for (Topic topic: topics)
 		{
+			double tempprob=0;
+			for(String gt:givenTopics){
 			
-			if(topic.hasWord(inputTopic)){
+			if(topic.hasWord(gt)){
 				//System.out.println("==> in  "+topic.name+" "+topic.getProb(inputTopic) );
 				
-				if(topic.getProb(inputTopic) >probabilityTopic){
-					probabilityTopic=topic.getProb(inputTopic); 
-					choseTopic=topic;
-				}
+				tempprob+=topic.getProb(gt);
+						
 			}
-		
+											
+			}
+			
+			if(tempprob >probabilityTopic){
+				probabilityTopic=tempprob; 
+				choseTopic=topic;
+			}
 		}
 		
 		
 
 		chosenTopic=choseTopic;
-		//System.out.println("Chosen Topic: "+ chosenTopic.name + " with probability: "+probabilityTopic);
+		System.out.println("Chosen Topic: "+ chosenTopic.name + " with probability: "+probabilityTopic);
 		//System.out.println(this. matrix.getSimWords(inputTopic));
 	}
 
@@ -63,7 +79,7 @@ public class abcWordsWN {
 			String[] pos=wordnet.getPos(chosenTopic.getWordPair(i).word);
 			
 			for(int p=0;p<pos.length; p++){
-				String[] synonyms = wordnet.getSynonyms(chosenTopic.getWordPair(i).word, pos[p]);
+				String[] synonyms = wordnet.getSynonyms(chosenTopic.getWordPair(i).word, pos[p], 10);
 				//String[] synonyms = wordnet.getSimilar(chosenTopic.getWordPair(i).word, pos[p]);
 				if (synonyms != null) {
 
@@ -105,12 +121,15 @@ public class abcWordsWN {
 
 			
 		
-		for(int l=0; l<alphabet.size()-1; l++){
+		for(int l=0; l<alphabet.size(); l++){
 			
 			
+			if(l+1>=alphabet.size())
+			alphabeticalWords.put(alphabet.get(l), getWordforLetter(alphabet.get(l) ,"zz"));
+			else
+				alphabeticalWords.put(alphabet.get(l), getWordforLetter(alphabet.get(l) ,alphabet.get(l+1)));	
 			
-			
-			alphabeticalWords.put(alphabet.get(l), getWordforLetter(alphabet.get(l) ,alphabet.get(l+1)));
+		//	alphabeticalWords.put(alphabet.get(l), getWordforLetter(alphabet.get(l) ,alphabet.get(l+1)));
 			
 		}
 		
@@ -123,7 +142,7 @@ public class abcWordsWN {
 		Iterator<String>it=alphabet.iterator();
 		while(it.hasNext()){
 			String letter=it.next();
-			if(alphabeticalWords.containsKey(letter))
+			//if(alphabeticalWords.containsKey(letter))
 		bf.write(alphabeticalWords.get(letter) +"\n");
 		}
 		

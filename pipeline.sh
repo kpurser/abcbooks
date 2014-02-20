@@ -18,9 +18,12 @@
 #output_out_file=output/book_$(book + "%T").html
 
 ./compile
-java -cp "build/:lib/RiTaWN/library/*" topic.TopicMain output/lda_output/topics.txt data/CorrelationMatrix.txt  output/lda_stemmed_output/topics.txt queen
+
+java -cp "build/:lib/RiTaWN/library/*" topic.TopicMain output/lda_output/topics.txt data/CorrelationMatrix.txt  output/lda_stemmed_output/topics.txt $1
 
 python python/sentences.py 26Words.txt output/sentences.txt
+
+java -cp "build/" book.ABCBookCreator ./26Words.txt output/sentences.txt $1
 
 #$words_cmd $words_args $words_exe $words_in_file $words_out_file
 #$sentences_cmd $sentences_args $sentences_exe $sentences_in_file $sentences_out_file

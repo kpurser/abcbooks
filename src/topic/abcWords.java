@@ -1,14 +1,19 @@
 package topic;
 
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Scanner;
 import java.util.Set;
+import java.util.StringTokenizer;
 import java.util.TreeSet;
 
 public class abcWords {
@@ -18,32 +23,69 @@ public class abcWords {
 	private HashMap<String, String> alphabeticalWords;
 	private ArrayList<String> alphabet= new ArrayList<String>();
 	private TreeSet<String> sortedPool= new TreeSet<String>();
+	private PorterStemmer stem=new PorterStemmer();
+	
+	private static HashMap<String, String>likelyStem=new HashMap<String, String>();
 
 	public abcWords(Topic[] topics, String inputTopic, String matrixFname) throws IOException {
+		
+		loadLikelyStem();
 		 matrix= new similarityMatrix(matrixFname);
 		Topic choseTopic = null;
 		
+		HashSet<String> givenTopics=new HashSet<String>();
+		StringTokenizer tk= new StringTokenizer(inputTopic,"::");
+		while(tk.hasMoreTokens())
+			givenTopics.add(stem.stem(tk.nextToken()));
+		
+		System.out.println(givenTopics);
 		double probabilityTopic=0;
 		
 		for (Topic topic: topics)
 		{
-			
-			if(topic.hasWord(inputTopic)){
-				//System.out.println("==> in  "+topic.name+" "+topic.getProb(inputTopic) );
+			double tempprob=0;
+			for(String gt:givenTopics){
+								
+			if(topic.hasWord(gt)){
 				
-				if(topic.getProb(inputTopic) >probabilityTopic){
-					probabilityTopic=topic.getProb(inputTopic); 
-					choseTopic=topic;
-				}
+				
+				tempprob+=topic.getProb(gt);
+						
 			}
-		
+											
+			}
+			
+			if(tempprob >probabilityTopic){
+				probabilityTopic=tempprob; 
+				choseTopic=topic;
+			}
 		}
-		
-		
 
 		chosenTopic=choseTopic;
-		//System.out.println("Chosen Topic: "+ chosenTopic.name + " with probability: "+probabilityTopic);
+		System.out.println("Chosen Topic: "+ chosenTopic.name + " with probability: "+probabilityTopic);
 		//System.out.println(this. matrix.getSimWords(inputTopic));
+	}
+
+	private void loadLikelyStem() throws FileNotFoundException {
+
+		
+		Scanner s = new Scanner(new File("mostLikelyStem.txt"));
+		while (s.hasNextLine())
+		{
+			String line = s.nextLine().trim();
+			String[] tokens = line.split("\t");
+			
+
+           String w = tokens[0];
+           String sw = tokens[1];
+
+           likelyStem.put(w, sw);
+		
+		}
+	
+		s.close();
+	
+	
 	}
 
 	public HashMap<String, String> get26Words() throws IOException {
@@ -62,12 +104,19 @@ public class abcWords {
 
 			
 		
-		for(int l=0; l<alphabet.size()-1; l++){
+		for(int l=0; l<alphabet.size(); l++){
 			
 			
+			String selectedWord="";
+			if(l+1>=alphabet.size())
+				selectedWord= getWordforLetter(alphabet.get(l) ,"zz");
+			else
+				selectedWord=getWordforLetter(alphabet.get(l) ,alphabet.get(l+1));	
 			
+			if(likelyStem.containsKey(selectedWord))
+			selectedWord=likelyStem.get(selectedWord);
 			
-			alphabeticalWords.put(alphabet.get(l), getWordforLetter(alphabet.get(l) ,alphabet.get(l+1)));
+			 alphabeticalWords.put(alphabet.get(l), selectedWord);
 			
 		}
 		
@@ -80,7 +129,7 @@ public class abcWords {
 		Iterator<String>it=alphabet.iterator();
 		while(it.hasNext()){
 			String letter=it.next();
-			if(alphabeticalWords.containsKey(letter))
+			//if(alphabeticalWords.containsKey(letter))
 		bf.write(alphabeticalWords.get(letter)+"\n");
 		}
 		
