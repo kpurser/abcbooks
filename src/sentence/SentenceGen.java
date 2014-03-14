@@ -43,6 +43,7 @@ public class SentenceGen
 		words.add(word2);
 		SentenceContext context = new SentenceContext(this.model_dir, words);
 		SPhraseSpec phrase = SimplePhrase.generate(context);
+		//System.out.println(phrase.printTree(" "));
 		return realiser.realiseSentence(phrase);
 	}
 }

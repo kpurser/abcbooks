@@ -8,59 +8,92 @@ import simplenlg.features.*;
 import rita.wordnet.RiWordnet;
 import java.util.Random;
 import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
 
 
 public class Subject
 {
-	public static NPPhraseSpec generate(SentenceContext context, String verb)
+	public static NLGElement generate(SentenceContext context, String verb)
+	{
+		NPPhraseSpec one, two, three;
+		switch (context.getNumNouns())
+		{
+			case 1:
+				return generateSingleSubject(context, verb);
+			case 2:
+				one = generateSingleSubject(context, verb);
+				two = generateSingleSubject(context, verb);
+				return context.getNLGFactory().createCoordinatedPhrase(one, two);
+			case 3:
+				one = generateSingleSubject(context, verb);
+				two = generateSingleSubject(context, verb);
+				three = generateSingleSubject(context, verb);
+				CoordinatedPhraseElement ele = context.getNLGFactory().createCoordinatedPhrase(one, two);
+				ele.addCoordinate(three);
+				ele.setFeature(Feature.CONJUNCTION, "and"); // TODO: change this
+				return ele;
+			default:
+					throw new RuntimeException("Unrecognized op");
+		}
+	}
+
+	private static NPPhraseSpec generateSingleSubject(SentenceContext context, String verb)
 	{
 		NPPhraseSpec phrase;
-		List<String> nouns = context.getNouns();
-		boolean has_determiner = context.hasDeterminer();
-		boolean has_adjective = context.hasAdj();
-		Categorical<String> dist = null;
-		String noun = null;
+		String noun, adj;
+		noun = adj = null;
 
-		// choose the dobj
-		if (verb != null)
-		{
-			dist = context.getModelLoader().get("nsubj", verb);
-		}
-		if (dist == null)
-		{
-			dist = context.getModelLoader().get("nsubj_r", "_all");
-		}
+		// ensure operations are done in random order
+		List<Integer> ops = new ArrayList<Integer>();
+		ops.add(0);
+		if (context.hasAdj())
+			ops.add(1);
+		Collections.shuffle(ops);
 
-		for (String n: nouns)
+		for (Integer i: ops)
 		{
-			if (dist.elements().contains(n) && context.useListWord())
+			switch (i)
 			{
-				noun = n;
-				context.markUsed(noun);
-				break;
+				case 0:
+					// noun
+					//System.out.println("\tNoun");
+					noun = chooseSubjectNoun(context, verb, adj);
+					break;
+				case 1:
+					// adj
+					//System.out.println("\tAdj");
+					adj = GenUtils.chooseNounAdj(context, noun);
+					break;
+				default:
+					throw new RuntimeException("Unrecognized op");
 			}
 		}
-
-		if (noun == null)
-			noun = dist.draw();
  		phrase = context.getNLGFactory().createNounPhrase(noun);
 
-		if (has_determiner) 
-		{
-			dist = context.getModelLoader().get("det", noun);
-			if (dist != null)
-				phrase.setDeterminer(dist.draw());
-		}
+		if (adj != null)
+			phrase.addModifier(adj);
 
-		// TODO, let use be able to choose adjectives first
-		if (has_adjective)
-		{
-			dist = context.getModelLoader().get("amod", noun);
-			if (dist != null)
-				phrase.addModifier(dist.draw());
-		}
+		if (context.hasDeterminer())
+			phrase.setDeterminer(GenUtils.chooseNounDet(context, noun));
 
 		return phrase;
 	}
+
+	private static String chooseSubjectNoun(SentenceContext context, String verb, String adj)
+	{
+		List<String> rels = new ArrayList<String>();
+		List<String> words = new ArrayList<String>();
+		rels.add("nsubj");
+		words.add(verb);
+		if (adj != null)
+		{
+			rels.add("amod_r");
+			words.add(adj);
+		}
+		return GenUtils.chooseWord(context, "n", rels, words);
+	}
+
+
 }
 

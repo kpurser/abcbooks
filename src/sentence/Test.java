@@ -17,7 +17,6 @@ public class Test
 		{
 			String out = sg.genSentence2(args[1], args[2]);
 			System.out.println(out);
-			//System.out.println(sg.parts());
 			System.out.println("");
 		}
 	}

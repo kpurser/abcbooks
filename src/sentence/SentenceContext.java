@@ -9,6 +9,8 @@ import rita.wordnet.RiWordnet;
 import java.util.Random;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Map;
+import java.util.HashMap;
 
 public class SentenceContext
 {
@@ -19,6 +21,7 @@ public class SentenceContext
 	private Realiser realiser;
 	private RiWordnet net;
 	private ModelLoader loader;
+	private Categorical<Integer> noun_number_dist;
 
 	public SentenceContext(String modelDir, List<String> words)
 	{
@@ -29,6 +32,12 @@ public class SentenceContext
 		realiser = new Realiser(lexicon);
 		net = new RiWordnet();
 		loader = new ModelLoader(modelDir);
+
+		Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
+		counts.put(1, 10);
+		counts.put(2, 2);
+		counts.put(3, 1);
+		this.noun_number_dist = new Categorical<Integer>(counts);
 	}
 
 	public ModelLoader getModelLoader()
@@ -56,6 +65,11 @@ public class SentenceContext
 		return net;
 	}
 
+	public boolean rand()
+	{
+		return r.nextBoolean();
+	}
+
 	public boolean hasAdj()
 	{
 		return r.nextBoolean();
@@ -73,7 +87,8 @@ public class SentenceContext
 
 	public boolean useListWord()
 	{
-		return r.nextDouble() < 0.8;
+		//return r.nextDouble() < 0.8;
+		return true;
 	}
 
 	public boolean hasDobj()
@@ -105,6 +120,22 @@ public class SentenceContext
 	public void markUsed(String w)
 	{
 		this.words.remove(w);
+	}
+
+	public int getNumNouns()
+	{
+		return this.noun_number_dist.draw();
+	}
+
+	public List<String> getWords(String pos)
+	{
+		if (pos.equals("n"))
+			return getNouns();
+		else if (pos.equals("v"))
+			return getVerbs();
+		else if (pos.equals("a"))
+			return getAdjs();
+		return new ArrayList<String>();
 	}
 
 	public List<String> getNouns()
