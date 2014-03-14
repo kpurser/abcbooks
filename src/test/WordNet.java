@@ -1,4 +1,6 @@
 
+package test;
+
 import rita.wordnet.RiWordnet;
 import java.util.Arrays;
 
@@ -11,7 +13,9 @@ public class WordNet
 		String pos = args[1];
 		RiWordnet net = new RiWordnet();
 
-		System.out.println("Number of senses:" + net.getSenseCount(word, pos));
+		System.out.println("POS: " + net.getBestPos(word));
+		System.out.println("Number of senses: " + net.getSenseCount(word, pos));
+		System.exit(0);
 
 		int[] senseids = net.getSenseIds(word, pos);
 		if (senseids != null)
