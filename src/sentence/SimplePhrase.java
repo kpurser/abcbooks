@@ -34,8 +34,9 @@ public class SimplePhrase
 			ops.add(3);
 		Collections.shuffle(ops);
 
-		for (Integer i: ops)
+		for (int k = 0; k < ops.size(); k++)
 		{
+			Integer i = ops.get(k);
 			switch (i)
 			{
 				case 0:
@@ -48,7 +49,13 @@ public class SimplePhrase
 				case 1:
 					//System.out.println("Verb");
 					pred = Predicate.generate(context, s, d);
-					v = ((WordElement) (pred.getVerb())).getBaseForm();
+					WordElement tmp = (WordElement) pred.getVerb();
+					v = tmp.getBaseForm();
+					if (tmp.getFeature(LexicalFeature.INTRANSITIVE) == null && d == null &&
+							!ops.contains(2)) {
+						//System.out.println("Adding in a Direct Object");
+						ops.add(2);
+					}
 					break;
 				case 2:
 					// dobj

@@ -36,13 +36,13 @@ public class SentenceGen
 		this.model_dir = modelDir;
 	}
 
-	public String genSentence2(String word1, String word2)
+	public String genSentence(String word1, String word2)
 	{
 		List<String> words = new ArrayList<String>();
 		words.add(word1);
 		words.add(word2);
 		SentenceContext context = new SentenceContext(this.model_dir, words);
-		SPhraseSpec phrase = SimplePhrase.generate(context);
+		NLGElement phrase = SimpleSentence.generate(context);
 		//System.out.println(phrase.printTree(" "));
 		return realiser.realiseSentence(phrase);
 	}

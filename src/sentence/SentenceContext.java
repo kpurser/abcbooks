@@ -102,6 +102,11 @@ public class SentenceContext
 		//return r.nextBoolean();
 	}
 
+	public boolean isCompound()
+	{
+		return r.nextBoolean();
+	}
+
 	public boolean isNoun(String w)
 	{
 		return net.getBestPos(w).equals("n");
@@ -125,6 +130,14 @@ public class SentenceContext
 	public int getNumNouns()
 	{
 		return this.noun_number_dist.draw();
+	}
+
+	public String getComplementiser()
+	{
+		if (r.nextBoolean())
+			return "because";
+		else
+			return "while";
 	}
 
 	public List<String> getWords(String pos)

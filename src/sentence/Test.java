@@ -15,7 +15,7 @@ public class Test
 		SentenceGen sg = new SentenceGen(args[0]);
 		for(int k = 0; k < 5; k++)
 		{
-			String out = sg.genSentence2(args[1], args[2]);
+			String out = sg.genSentence(args[1], args[2]);
 			System.out.println(out);
 			System.out.println("");
 		}
