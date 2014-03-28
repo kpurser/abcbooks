@@ -15,6 +15,7 @@ class GenUtils
 		{
 			if (dist.elements().contains(w) && context.useListWord())
 			{
+				//System.out.println("List word Chosen");
 				word = w;
 				context.markUsed(word);
 				break;
@@ -23,6 +24,10 @@ class GenUtils
 		if (word == null)
 			word = dist.draw();
 		//System.out.println("Choosing word: " + word);
+		/*
+		if (word.equals("_person"))
+			word = context.getPerson();
+		*/
 		return word;
 	}
 
@@ -38,9 +43,19 @@ class GenUtils
 			String rel = rels.get(k);
 			String word = words.get(k);
 			if (word == null)
-				dists.add(context.getModelLoader().get(reverse_rel(rel), "_all"));
+			{
+				dist = context.getModelLoader().get(reverse_rel(rel), "_all");
+				//if (rel.equals("det"))
+					//System.out.println(word + "\t" + dist);
+				dists.add(dist);
+			}
 			else
-				dists.add(context.getModelLoader().get(rel, word));
+			{
+				dist = context.getModelLoader().get(rel, word);
+				//if (rel.equals("det"))
+					//System.out.println(word + "\t" + dist);
+				dists.add(dist);
+			}
 		}
 		dist = dists.get(0);
 		for (int k = 1; k < dists.size(); k++)
@@ -48,6 +63,8 @@ class GenUtils
 			Categorical<String> result = new Categorical<String>(dist, dists.get(k));
 			if (!result.elements().isEmpty())
 				dist = result;
+			//else
+				//System.out.println("Distribution would be null");
 		}
 		return chooseWordHelper(context, list_words, dist);
 	}

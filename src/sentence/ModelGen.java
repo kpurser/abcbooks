@@ -16,9 +16,10 @@ import java.util.HashSet;
 
 public class ModelGen
 {
-	private static String[] pronouns = {
+	private static String[] stopwords = {
 		"i", "he", "she", "we", "it", "him", "her", "us", "you",
-		"your", "his", "hers", "yours", "himself", "herself", "yourself"};
+		"your", "his", "hers", "yours", "himself", "herself", "yourself",
+		"say", "sex", "bloody", "who"};
 	private int freq_thresh;
 	private boolean reverse;
 	private String indir;
@@ -28,26 +29,48 @@ public class ModelGen
 	private Map<String, Integer> relation;
 	private Map<String, Integer> word_counts;
 	private Set<String> vocab;
+	private Set<String> names;
 	private RiWordnet net;
 	private String pos1;
 	private String pos2;
 	private Lexicon lexicon;
 	
-	public ModelGen(String indir, String model_dir, String vocab_path)
+	public ModelGen(String indir, String model_dir, String vocab_path, String name_path)
 	{
 		lexicon = Lexicon.getDefaultLexicon();
 		net = new RiWordnet();
 		this.indir = indir;
 		this.model_dir = model_dir;
 		loadVocab(vocab_path);
-		removePronouns();
+		loadNames(name_path);
+		removeStopWords();
 		System.out.println(this.vocab);
 	}
 
-	private void removePronouns()
+	private void removeStopWords()
 	{
-		for (String pro: pronouns)
-			vocab.remove(pro);
+		for (String w: stopwords)
+			vocab.remove(w);
+	}
+
+	private void loadNames(String path)
+	{
+		names = new HashSet<String>();
+		try
+		{
+			Scanner s = new Scanner(new File(path));
+			while(s.hasNext())
+			{
+				String name = s.next().trim().toLowerCase();
+				names.add(name);
+				vocab.remove(name);
+			}
+		}
+		catch(IOException e)
+		{
+			System.out.println("Could not read vocab file");
+		}
+		vocab.add("_person");
 	}
 
 	private void loadVocab(String path)
@@ -101,7 +124,9 @@ public class ModelGen
 			{
 				words = word_pair.split(" ");
 				if (w.equals(words[0]) &&
-					(this.pos2.equals("*") || this.pos2.equals(net.getBestPos(words[1]))) &&
+					((this.pos2.equals("*") && !words[1].equals("_person")) ||
+						(words[1].equals("_person") && this.pos2.equals("n")) ||
+						this.pos2.equals(net.getBestPos(words[1]))) &&
 					relation.get(word_pair) > 1)
 				{
 					out.write(words[1] + " " + relation.get(word_pair) + "\n");
@@ -129,7 +154,9 @@ public class ModelGen
 			for (String word: word_counts.keySet())
 			{
 				if (word_counts.get(word) > freq_thresh &&
-					(this.pos1.equals("*") || this.pos1.equals(net.getBestPos(word))))
+					( (this.pos1.equals("*") && !word.equals("_person")) ||
+						(word.equals("_person") && this.pos1.equals("n")) ||
+						this.pos1.equals(net.getBestPos(word))))
 				{
 					out.write(word + " " + word_counts.get(word) + "\n");
 				}
@@ -162,7 +189,9 @@ public class ModelGen
 		for (String w: word_counts.keySet())
 		{
 			if (word_counts.get(w) > freq_thresh &&
-				(this.pos1.equals("*") || this.pos1.equals(net.getBestPos(w))))
+				( (this.pos1.equals("*")  && !w.equals("_person")) ||
+					(w.equals("_person") && this.pos1.equals("n")) ||
+					this.pos1.equals(net.getBestPos(w))))
 			{
 				count++;
 				writeWord(w);
@@ -212,6 +241,11 @@ public class ModelGen
 			if (lexicon.hasWordFromVariant(w2, translate(this.pos2)))
 				w2 = lexicon.getWordFromVariant(w2, translate(this.pos2)).getBaseForm();
 
+			if (names.contains(w1))
+				w1 = "_person";
+			if (names.contains(w2))
+				w2 = "_person";
+
 			if (!(isGood(w1) && isGood(w2)))
 				return;
 
@@ -237,13 +271,43 @@ public class ModelGen
 		}
 	}
 
+	private void processFileObj(File f)
+	{
+		if (f.isDirectory())
+		{
+			File[] inputs = f.listFiles();
+
+			for (int k = 0; k < inputs.length; k++)
+			{
+				processFileObj(inputs[k]);
+			}
+		}
+		else if (f.isFile())
+		{
+			try
+			{
+				processFile(f);
+				numProcessed++;
+				if (numProcessed % 10 == 0)
+					System.out.println(numProcessed + " files completed");
+			}
+			catch (IOException e)
+			{
+				e.printStackTrace();
+			}
+		}
+	}
+
+	private int numProcessed;
 	private void populateRelation()
 	{
+		numProcessed = 0;
 		relation = new HashMap<String, Integer>();
 		word_counts = new HashMap<String, Integer>();
+		processFileObj(new File(this.indir));
+		/*
 		try
 		{
-			Scanner s;
 			File folder = new File(this.indir);
 			File[] inputs = folder.listFiles();
 
@@ -258,6 +322,7 @@ public class ModelGen
 		{
 			e.printStackTrace();
 		}
+		*/
 	}
 
 	private void inc(Map<String, Integer> map, String key, int amount)

@@ -59,23 +59,32 @@ public class Subject
 					// noun
 					//System.out.println("\tNoun");
 					noun = chooseSubjectNoun(context, verb, adj);
+					//System.out.println("Subject Noun: " + noun);
 					break;
 				case 1:
 					// adj
 					//System.out.println("\tAdj");
 					adj = GenUtils.chooseNounAdj(context, noun);
+					//System.out.println("Subject adj: " + adj);
 					break;
 				default:
 					throw new RuntimeException("Unrecognized op");
 			}
 		}
- 		phrase = context.getNLGFactory().createNounPhrase(noun);
+		if (noun.equals("_person"))
+			phrase = context.getNLGFactory().createNounPhrase(context.getPerson());
+		else
+			phrase = context.getNLGFactory().createNounPhrase(noun);
 
 		if (adj != null)
 			phrase.addModifier(adj);
 
 		if (context.hasDeterminer())
-			phrase.setDeterminer(GenUtils.chooseNounDet(context, noun));
+		{
+			String det = GenUtils.chooseNounDet(context, noun);
+			//System.out.println("Subject det: " + det);
+			phrase.setDeterminer(det);
+		}
 
 		return phrase;
 	}
@@ -93,7 +102,5 @@ public class Subject
 		}
 		return GenUtils.chooseWord(context, "n", rels, words);
 	}
-
-
 }
 

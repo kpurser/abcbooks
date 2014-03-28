@@ -20,13 +20,17 @@ public class Categorical<T>
 		this.probs = new HashMap<T, Double>();
 		this.total = 0.0;
 		for (T key1: dist1.probs.keySet())
+		{
 			for (T key2: dist2.probs.keySet())
+			{
 				if (key1.equals(key2))
 				{
 					double val = dist1.probs.get(key1) * dist2.probs.get(key1);
 					this.total += val;
 					this.probs.put(key1, val);
 				}
+			}
+		}
 		double max_prob = 0.0;
 		T max_ele = null;
 
@@ -102,6 +106,11 @@ public class Categorical<T>
 	public T mode()
 	{
 		return mode;
+	}
+
+	public String toString()
+	{
+		return this.probs.toString();
 	}
 }
 

@@ -9,15 +9,15 @@ public class ModelGenDriver
 		String indir = args[0];
 		String model_dir = args[1];
 		String vocab_file = args[2];
-		ModelGen mg = new ModelGen(indir, model_dir, vocab_file);
+		String name_file = args[3];
+		ModelGen mg = new ModelGen(indir, model_dir, vocab_file, name_file);
 
 		//System.exit(0);
 
 		String[] relations = {"nsubj",   "dobj",     "amod",     "det",      "advmod"};
 		String[][] poses = { {"v", "n"}, {"v", "n"}, {"n", "a"}, {"n", "*"}, {"v", "r"} };
-		//String[] relations = {"nsubj"};
 
-		int freq_thresh = 10;
+		int freq_thresh = 1;
 		for (int k = 0; k < relations.length; k++)
 		{
 			String rel = relations[k];

@@ -22,9 +22,10 @@ public class Predicate
 		if (dobj != null)
 		{
 			rels.add("dobj_r");
-			words.add("dobj");
+			words.add(dobj);
 		}
 		String verb = GenUtils.chooseWord(context, "v", rels, words);
+		//System.out.println("Verb: " + verb);
  		VPPhraseSpec phrase = context.getNLGFactory().createVerbPhrase(verb);
 
 		if (context.hasAdv())

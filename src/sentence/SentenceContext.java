@@ -15,15 +15,17 @@ import java.util.HashMap;
 public class SentenceContext
 {
 	private Random r;
-	private List<String> words;
+	List<String> words;
 	private Lexicon lexicon;
 	private NLGFactory nlgFactory;
 	private Realiser realiser;
 	private RiWordnet net;
 	private ModelLoader loader;
 	private Categorical<Integer> noun_number_dist;
+	private Categorical<String> connectors;
+	private Categorical<String> names;
 
-	public SentenceContext(String modelDir, List<String> words)
+	public SentenceContext(String modelDir, List<String> words, String[] names)
 	{
 		this.words = words;
 		this.r = new Random();
@@ -34,10 +36,26 @@ public class SentenceContext
 		loader = new ModelLoader(modelDir);
 
 		Map<Integer, Integer> counts = new HashMap<Integer, Integer>();
-		counts.put(1, 10);
-		counts.put(2, 2);
+		counts.put(1, 20);
+		counts.put(2, 1);
 		counts.put(3, 1);
 		this.noun_number_dist = new Categorical<Integer>(counts);
+
+		Map<String, Integer> counts2 = new HashMap<String, Integer>();
+		counts2.put(", and", 5);
+		counts2.put(", but", 2);
+		counts2.put(", so", 2);
+		counts2.put("because", 2);
+		counts2.put("while", 2);
+		counts2.put(", yet", 1);
+		counts2.put("when", 1);
+		this.connectors = new Categorical<String>(counts2);
+
+		Map<String, Integer> counts3 = new HashMap<String, Integer>();
+		counts3.put(names[0], 4);
+		counts3.put(names[1], 2);
+		counts3.put(names[2], 1);
+		this.names = new Categorical<String>(counts3);
 	}
 
 	public ModelLoader getModelLoader()
@@ -104,22 +122,22 @@ public class SentenceContext
 
 	public boolean isCompound()
 	{
-		return r.nextBoolean();
+		return r.nextDouble() < 0.2; 
 	}
 
 	public boolean isNoun(String w)
 	{
-		return net.getBestPos(w).equals("n");
+		return "n".equals(net.getBestPos(w));
 	}
 
 	public boolean isVerb(String w)
 	{
-		return net.getBestPos(w).equals("v");
+		return "v".equals(net.getBestPos(w));
 	}
 
 	public boolean isAdj(String w)
 	{
-		return net.getBestPos(w).equals("a");
+		return "a".equals(net.getBestPos(w));
 	}
 
 	public void markUsed(String w)
@@ -134,10 +152,7 @@ public class SentenceContext
 
 	public String getComplementiser()
 	{
-		if (r.nextBoolean())
-			return "because";
-		else
-			return "while";
+		return this.connectors.draw();
 	}
 
 	public List<String> getWords(String pos)
@@ -177,6 +192,11 @@ public class SentenceContext
 				adjs.add(w);
 		return adjs;
 
+	}
+
+	public String getPerson()
+	{
+		return this.names.draw();
 	}
 }
 

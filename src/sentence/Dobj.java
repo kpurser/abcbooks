@@ -58,23 +58,32 @@ public class Dobj
 					//dobj
 					//System.out.println("\tNoun");
 					dobj = chooseDobjNoun(context, verb, adj);
+					//System.out.println("Dobj noun: " + dobj);
 					break;
 				case 1:
 					// adj
 					//System.out.println("\tAdj");
 					adj = GenUtils.chooseNounAdj(context, dobj);
+					//System.out.println("Dobj adj: " + adj);
 					break;
 				default:
 					throw new RuntimeException("Unrecognized op");
 			}
 		}
- 		phrase = context.getNLGFactory().createNounPhrase(dobj);
+		if (dobj.equals("_person"))
+			phrase = context.getNLGFactory().createNounPhrase(context.getPerson());
+		else
+			phrase = context.getNLGFactory().createNounPhrase(dobj);
 
 		if (adj != null)
 			phrase.addModifier(adj);
 
 		if (context.hasDeterminer())
-			phrase.setDeterminer(GenUtils.chooseNounDet(context, dobj));
+		{
+			String det = GenUtils.chooseNounDet(context, dobj);
+			//System.out.println("Dobj det: " + det);
+			phrase.setDeterminer(det);
+		}
 
 		return phrase;
 	}
