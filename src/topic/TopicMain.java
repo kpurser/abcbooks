@@ -3,6 +3,7 @@ package topic;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.HashSet;
 
 public class TopicMain
 {
@@ -28,14 +29,20 @@ public class TopicMain
 		
 		String matrix=args[1];
 		String inputTopic=args[3];
-		String sinputTopic=stem.stem(inputTopic); // stem input topic to match words
-		abcWords theWords=new abcWords(topics, sinputTopic, matrix);
+		
+		//String sinputTopic=stem.stem(inputTopic); // stem input topic to match words
+		abcWords theWords=new abcWords(topics, inputTopic, matrix);
+		
 		HashMap<String, String> chosenWords=theWords.get26Words();
 		
 		System.out.println("Selected 26 words based on stemmed topics and CorrelationMatrix");
 		for(String w:chosenWords.keySet())
 			System.out.println(w + " " + chosenWords.get(w));
 
+		HashSet<String>foundLocation=theWords.getLocation();
+		
+		System.out.println("Found Location: ");
+		System.out.println(foundLocation);
 
 		abcWordsWN theWordsWN=new abcWordsWN(topicsNS, inputTopic, matrix);
 		HashMap<String, String> chosenWordsWN=theWordsWN.get26Words();
@@ -43,6 +50,13 @@ public class TopicMain
 		System.out.println("Selected 26 words based on non-stemmed topics and WordNet ");
 		for(String w:chosenWordsWN.keySet())
 			System.out.println(w + " " + chosenWordsWN.get(w));
+		
+		HashSet<String>foundLocationWN=theWordsWN.getLocation();
+		
+		System.out.println("Found Locatio WNn: ");
+		System.out.println(foundLocationWN);
 	}
+	
+	
 }
 

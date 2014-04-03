@@ -24,8 +24,10 @@ public class SentenceContext
 	private Categorical<Integer> noun_number_dist;
 	private Categorical<String> connectors;
 	private Categorical<String> names;
+	private Categorical<String> locations;
+	private Categorical<String> preps;
 
-	public SentenceContext(String modelDir, List<String> words, String[] names)
+	public SentenceContext(String modelDir, List<String> words, String[] names, List<String> locations)
 	{
 		this.words = words;
 		this.r = new Random();
@@ -56,6 +58,23 @@ public class SentenceContext
 		counts3.put(names[1], 2);
 		counts3.put(names[2], 1);
 		this.names = new Categorical<String>(counts3);
+
+		Map<String, Integer> counts4 = new HashMap<String, Integer>();
+		for (String loc: locations)
+			counts4.put(loc, 1);
+		this.locations = new Categorical<String>(counts4);
+
+		Map<String, Integer> counts5 = new HashMap<String, Integer>();
+		counts5.put("at", 3);
+		counts5.put("in", 3);
+		counts5.put("through", 1);
+		counts5.put("on top of", 1);
+		counts5.put("around", 2);
+		counts5.put("from", 2);
+		counts5.put("by", 2);
+		counts5.put("underneath", 1);
+		counts5.put("over", 2);
+		this.preps = new Categorical<String>(counts5);
 	}
 
 	public ModelLoader getModelLoader()
@@ -116,8 +135,8 @@ public class SentenceContext
 
 	public boolean hasPPhrase()
 	{
-		return false;
-		//return r.nextBoolean();
+		//return false;
+		return r.nextBoolean();
 	}
 
 	public boolean isCompound()
@@ -197,6 +216,16 @@ public class SentenceContext
 	public String getPerson()
 	{
 		return this.names.draw();
+	}
+
+	public String getLocation()
+	{
+		return this.locations.draw();
+	}
+
+	public String getPrep()
+	{
+		return this.preps.draw();
 	}
 }
 

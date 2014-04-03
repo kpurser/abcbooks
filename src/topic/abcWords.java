@@ -27,22 +27,27 @@ public class abcWords {
 	private TreeSet<String> dictionary= new TreeSet<String>();
 	private static HashMap<String, String>likelyStem=new HashMap<String, String>();
 	
+	private static HashSet<String>possibleLocation=new HashSet<String>();
+	
 	private static Topic[] allTopics;
 
 	public abcWords(Topic[] topics, String inputTopic, String matrixFname) throws IOException {
 		
 		loadLikelyStem();
 		loadDictionary();
+		loadPossibleLocation();
+		
 		allTopics=topics;
 		 matrix= new similarityMatrix(matrixFname);
 		Topic choseTopic = null;
 		
+	
 		HashSet<String> givenTopics=new HashSet<String>();
-		StringTokenizer tk= new StringTokenizer(inputTopic,"::");
+		StringTokenizer tk= new StringTokenizer(inputTopic,"*");
 		while(tk.hasMoreTokens())
 			givenTopics.add(stem.stem(tk.nextToken()));
 		
-		System.out.println(givenTopics);
+		System.out.println("Given Input "+givenTopics);
 		double probabilityTopic=-1;
 		
 		for (Topic topic: topics)
@@ -71,11 +76,28 @@ public class abcWords {
 		//System.out.println(this. matrix.getSimWords(inputTopic));
 	}
 
+	private void loadPossibleLocation() throws FileNotFoundException {
+
+
+		
+		Scanner s = new Scanner(new File("data/vocab_lists/locationList.txt"));
+		while (s.hasNextLine())
+		{
+			 possibleLocation.add(s.nextLine().trim());
+		
+		}
+	
+		s.close();
+	
+	
+		
+	}
+
 	private void loadDictionary() throws FileNotFoundException {
 
 
 		
-		Scanner s = new Scanner(new File("dictionaryVocab.txt"));
+		Scanner s = new Scanner(new File("data/vocab_lists/dictionaryVocab.txt"));
 		while (s.hasNextLine())
 		{
 			
@@ -112,6 +134,46 @@ public class abcWords {
 	
 	}
 
+	public HashSet<String> getLocation() throws IOException {
+	
+		HashSet<String>chosenLocation=new HashSet<String>();
+		
+		for(int i=0; i<chosenTopic.num_words(); i++){
+			
+			String selectedWord="";
+			if(likelyStem.containsKey(chosenTopic.getWordPair(i).word))
+				selectedWord=likelyStem.get(chosenTopic.getWordPair(i).word);
+			else
+				selectedWord=chosenTopic.getWordPair(i).word;
+			
+			if(possibleLocation.contains(selectedWord))
+				chosenLocation.add(selectedWord);
+			}
+		
+		
+		//in case no location
+		
+		if(!(chosenLocation.size()>0)){
+			List asList = new ArrayList(possibleLocation);
+			Collections.shuffle(asList);
+			chosenLocation.add(asList.get(0).toString());
+			
+		}
+	//write words to file
+		
+		FileWriter file = new FileWriter("location.txt");
+		BufferedWriter bf = new BufferedWriter(file);
+		
+		for(String cl:chosenLocation)
+				bf.write(cl+"\n");
+		
+				
+		
+		bf.close();
+
+		return chosenLocation;
+	
+	}
 	public HashMap<String, String> get26Words() throws IOException {
 		
 		alphabeticalWords=new HashMap<String, String>();
@@ -159,8 +221,8 @@ public class abcWords {
 		extendedTopic=extendedTopic.trim();
 		
 		Boolean isOK=verifyChosenTopic(extendedTopic);
-		int count = 0;
-		while(!isOK && count < 2){
+		int count=0;
+		while(!isOK && count<3){
 			count++;
 			for(int l=0; l<alphabet.size(); l++){
 				
@@ -193,6 +255,7 @@ public class abcWords {
 			 isOK=verifyChosenTopic(extendedTopic2);
 		}
 		
+
 		//write words to file
 		
 		FileWriter file = new FileWriter("26Words.txt");

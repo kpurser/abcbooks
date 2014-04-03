@@ -10,7 +10,8 @@ public class ModelGenDriver
 		String model_dir = args[1];
 		String vocab_file = args[2];
 		String name_file = args[3];
-		ModelGen mg = new ModelGen(indir, model_dir, vocab_file, name_file);
+		String determiner_file = args[4];
+		ModelGen mg = new ModelGen(indir, model_dir, vocab_file, name_file, determiner_file);
 
 		//System.exit(0);
 

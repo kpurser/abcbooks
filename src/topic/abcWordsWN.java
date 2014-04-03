@@ -21,7 +21,7 @@ import rita.wordnet.RiWordnet;
 public class abcWordsWN {
 	
 	private Topic chosenTopic=null; 
-	private static RiWordnet wordnet;
+	private static RiWordnet wordnet =new RiWordnet();
 	private similarityMatrix matrix;
 	private HashMap<String, String> alphabeticalWords;
 	private ArrayList<String> alphabet= new ArrayList<String>();
@@ -31,20 +31,22 @@ public class abcWordsWN {
 
 	private static Topic[] allTopics;
 	
+	private static HashSet<String>possibleLocation=new HashSet<String>();
+	
 	public abcWordsWN(Topic[] topics, String inputTopic, String matrixFname) throws IOException {
 		
 		Topic choseTopic = null;
 		allTopics=topics;
 		loadDictionary();
 		matrix= new similarityMatrix(matrixFname);
-		wordnet = new RiWordnet();
+		//wordnet = new RiWordnet();
 		double probabilityTopic=-1;
 		
-		
+		loadPossibleLocation();
 		
 		
 		HashSet<String> givenTopics=new HashSet<String>();
-		StringTokenizer tk= new StringTokenizer(inputTopic,"::");
+		StringTokenizer tk= new StringTokenizer(inputTopic,"*");
 		while(tk.hasMoreTokens())
 			givenTopics.add(tk.nextToken().toLowerCase());
 
@@ -77,7 +79,7 @@ public class abcWordsWN {
 	}
 
 	private void loadDictionary() throws FileNotFoundException {
-		Scanner s = new Scanner(new File("dictionaryVocab.txt"));
+		Scanner s = new Scanner(new File("data/vocab_lists/dictionaryVocab.txt"));
 		while (s.hasNextLine())
 		{
 			
@@ -177,12 +179,11 @@ public class abcWordsWN {
 				extendedTopic=extendedTopic.trim();
 				
 				Boolean isOK=verifyChosenTopic(extendedTopic);
-				int count = 0;
-				while(!isOK && count < 2){
+				int count=0;
+				while(!isOK && count<3){
 					count++;
-					
 					for(int l=0; l<alphabet.size(); l++){
-						
+						 
 						String selectedWord="";
 						
 						if(l+1>=alphabet.size())
@@ -298,7 +299,7 @@ public class abcWordsWN {
 				if(dictionary.contains(selectedWord))
 					 alphabeticalWords.put(alphabet.get(l), selectedWord);
 					else
-					 checkAlternative(l, seen++);		
+					 checkAlternative(l, seen+1);		
 			}else{
 				if(l+1>=alphabet.size())
 					alphabeticalWords.put(alphabet.get(l), getDictWordforLetter(alphabet.get(l) ,"zz"));
@@ -431,6 +432,60 @@ public class abcWordsWN {
 		alphabet.add("z");
 		
 				
+	}
+
+	public HashSet<String> getLocation() throws IOException {
+
+		
+		HashSet<String>chosenLocation=new HashSet<String>();
+		
+		for(int i=0; i<chosenTopic.num_words(); i++){
+			
+					
+			if(possibleLocation.contains(chosenTopic.getWordPair(i).word))
+				chosenLocation.add(chosenTopic.getWordPair(i).word);
+			}
+		
+		
+		//in case no location
+		
+		if(!(chosenLocation.size()>0)){
+			List asList = new ArrayList(possibleLocation);
+			Collections.shuffle(asList);
+			chosenLocation.add(asList.get(0).toString());
+			
+		}
+	//write words to file
+		
+		FileWriter file = new FileWriter("locationWN.txt");
+		BufferedWriter bf = new BufferedWriter(file);
+		
+		for(String cl:chosenLocation)
+				bf.write(cl+"\n");
+		
+				
+		
+		bf.close();
+
+		return chosenLocation;
+	
+	
+	}
+private void loadPossibleLocation() throws FileNotFoundException {
+
+
+		
+		Scanner s = new Scanner(new File("data/vocab_lists/locationList.txt"));
+		while (s.hasNextLine())
+		{
+			 possibleLocation.add(s.nextLine().trim());
+		
+		}
+	
+		s.close();
+	
+	
+		
 	}
 	
 	

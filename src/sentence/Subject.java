@@ -74,17 +74,19 @@ public class Subject
 		if (noun.equals("_person"))
 			phrase = context.getNLGFactory().createNounPhrase(context.getPerson());
 		else
+		{
 			phrase = context.getNLGFactory().createNounPhrase(noun);
+			if (context.hasDeterminer())
+			{
+				String det = GenUtils.chooseNounDet(context, noun);
+				//System.out.println("Subject det: " + det);
+				phrase.setDeterminer(det);
+			}
+		}
 
 		if (adj != null)
 			phrase.addModifier(adj);
 
-		if (context.hasDeterminer())
-		{
-			String det = GenUtils.chooseNounDet(context, noun);
-			//System.out.println("Subject det: " + det);
-			phrase.setDeterminer(det);
-		}
 
 		return phrase;
 	}

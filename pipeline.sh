@@ -17,11 +17,14 @@
 #output_in_file=$sentences_out_file
 #output_out_file=output/book_$(book + "%T").html
 
+vocab_file=data/vocab_lists/dictionaryVocab.txt
+pro_file=mpron/cmudict0.3
 ./compile
 
 java -cp "build/:lib/RiTaWN/library/*" topic.TopicMain output/lda_output/topics.txt data/CorrelationMatrix.txt  output/lda_stemmed_output/topics.txt $1
 
-python python/sentences.py 26Words.txt output/sentences.txt
+#python python/sentences.py 26Words.txt output/sentences.txt
+java -cp "build/:lib/simplenlg-v442/*:lib/simplenlg-v442/lib/*:lib/RiTaWN/library/*" sentence.SentenceMain output/sentence_model $vocab_file $pro_file 26Words.txt output/sentences.txt $1
 
 java -cp "build/" book.ABCBookCreator ./26Words.txt output/sentences.txt $1
 

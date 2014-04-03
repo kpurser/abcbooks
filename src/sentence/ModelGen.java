@@ -35,15 +35,18 @@ public class ModelGen
 	private String pos2;
 	private Lexicon lexicon;
 	
-	public ModelGen(String indir, String model_dir, String vocab_path, String name_path)
+	public ModelGen(String indir, String model_dir, String vocab_path, String name_path,
+						 String determiner_file)
 	{
 		lexicon = Lexicon.getDefaultLexicon();
 		net = new RiWordnet();
 		this.indir = indir;
 		this.model_dir = model_dir;
+		vocab = new HashSet<String>();
 		loadVocab(vocab_path);
-		loadNames(name_path);
 		removeStopWords();
+		loadVocab(determiner_file);
+		loadNames(name_path);
 		System.out.println(this.vocab);
 	}
 
@@ -75,7 +78,6 @@ public class ModelGen
 
 	private void loadVocab(String path)
 	{
-		vocab = new HashSet<String>();
 		try
 		{
 			Scanner s = new Scanner(new File(path));

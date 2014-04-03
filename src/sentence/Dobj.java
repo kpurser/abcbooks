@@ -73,17 +73,19 @@ public class Dobj
 		if (dobj.equals("_person"))
 			phrase = context.getNLGFactory().createNounPhrase(context.getPerson());
 		else
+		{
 			phrase = context.getNLGFactory().createNounPhrase(dobj);
+			if (context.hasDeterminer())
+			{
+				String det = GenUtils.chooseNounDet(context, dobj);
+				//System.out.println("Dobj det: " + det);
+				phrase.setDeterminer(det);
+			}
+		}
 
 		if (adj != null)
 			phrase.addModifier(adj);
 
-		if (context.hasDeterminer())
-		{
-			String det = GenUtils.chooseNounDet(context, dobj);
-			//System.out.println("Dobj det: " + det);
-			phrase.setDeterminer(det);
-		}
 
 		return phrase;
 	}

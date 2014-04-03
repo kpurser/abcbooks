@@ -18,10 +18,11 @@ public class SentenceMain
 		String prodict_file = args[2];
 		String words_file = args[3];
 		String out_file = args[4];
+		String topic_word = args[5];
 
 		String[] words = read_words(words_file);
 		System.out.println(Arrays.toString(words));
-		String[] sentences = make_sentences(model_dir, vocab_file, prodict_file, words);
+		String[] sentences = make_sentences(model_dir, vocab_file, prodict_file, words, topic_word);
 		System.out.println(Arrays.toString(sentences));
 		write_sentences(out_file, sentences);
 	}
@@ -29,21 +30,22 @@ public class SentenceMain
 	private static void write_sentences(String filename, String[] sentences) throws IOException
 	{
 		FileWriter w = new FileWriter(new File(filename));
-		for (int k = 0; k < 26; k++)
+		for (int k = 0; k < 27; k++)
 			w.write(sentences[k] + "\n");
 		w.flush();
 		w.close();
 	}
 
-	private static String[] make_sentences(String model_dir, String vocab_file, String prodict_file, String[] words)
+	private static String[] make_sentences(String model_dir, String vocab_file, String prodict_file, String[] words, String topic_word)
 	{
 		ProDict pd = new ProDict(vocab_file, prodict_file);
 		SentenceGen sg = new SentenceGen(model_dir, pd);
-		String[] sentences = new String[26];
+		String[] sentences = new String[27];
+		sentences[0] = sg.genTitle(topic_word);
 		for (int k = 0; k < 26; k++)
 		{
 			String word = words[k];
-			sentences[k] = sg.genSentence(word);
+			sentences[k+1] = sg.genSentence(word);
 		}
 		return sentences;
 	}

@@ -11,22 +11,25 @@ import java.util.Random;
 
 public class PrepPhrase
 {
-	private SentenceContext context;
-	private String prep;
-	private String noun;
-	private String determinator;
-	private String adjective;
-	private boolean has_determinator;
-	private boolean has_adjective;
-
-	public PrepPhrase(SentenceContext context)
+	public static PPPhraseSpec generate(SentenceContext context)
 	{
-		this.context = context;
-	}
-
-	public PPPhraseSpec genPPP()
-	{
-		return null;
+		String location = context.getLocation();
+		String prep = context.getPrep();
+		NPPhraseSpec noun = context.getNLGFactory().createNounPhrase(location);
+		if (context.hasDeterminer())
+		{
+			String det = GenUtils.chooseNounDet(context, location);
+			noun.setDeterminer(det);
+		}
+		if (context.hasAdj())
+		{
+			String adj = GenUtils.chooseNounAdj(context, location);
+			noun.addModifier(adj);
+		}
+		PPPhraseSpec phrase = context.getNLGFactory().createPrepositionPhrase();
+		phrase.addComplement(noun);
+		phrase.setPreposition(prep);
+		return phrase;
 	}
 }
 

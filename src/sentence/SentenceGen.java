@@ -11,6 +11,10 @@ import java.util.Random;
 import java.util.List;
 import java.util.ArrayList;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
+
 public class SentenceGen
 {
 	private static double prob_adj = 0.5;
@@ -39,8 +43,54 @@ public class SentenceGen
 		this.model_dir = modelDir;
 		this.prodict = prodict;
 		String[] names = {"George", "Mary", "Bob"};
-		this.context = new SentenceContext(this.model_dir, new ArrayList<String>(), names);
+		List<String> locations = getLocations();
+		this.context = new SentenceContext(this.model_dir, new ArrayList<String>(), names, locations);
 		this.r = new Random();
+	}
+
+	public List<String> getLocations()
+	{
+		List<String> locs = new ArrayList<String>();
+		try
+		{
+			Scanner s = new Scanner(new File("locationWN.txt"));
+			while(s.hasNextLine())
+			{
+				locs.add(s.nextLine().trim());
+			}
+		}
+		catch (IOException e)
+		{
+			e.printStackTrace();
+		}
+		return locs;
+	}
+
+	private String capitalize(String word)
+	{
+		return Character.toUpperCase(word.charAt(0)) + word.substring(1);
+	}
+
+	public String genTitle(String topic_word)
+	{
+		this.context.words.clear();
+		String noun = "book";
+		String det = null;
+		String adj1 = null;
+		if (context.hasDeterminer())
+			det = GenUtils.chooseNounDet(this.context, noun);
+		if (context.hasAdj())
+			adj1 = GenUtils.chooseNounAdj(this.context, noun);
+
+		String adj2 = GenUtils.chooseNounAdj(this.context, topic_word);
+
+		String title = "";
+		if (det != null)
+			title = capitalize(det) + " ";
+		if (adj1 != null)
+			title += capitalize(adj1) + " ";
+		title += capitalize(noun) + " of " + capitalize(adj2) + " " + capitalize(topic_word);
+		return title;
 	}
 
 	public String genSentence(String word)
@@ -52,7 +102,9 @@ public class SentenceGen
 		double best_score = -1.0;
 		for (int k = 0; k < NUM_ATTEMPTS; k++)
 		{
-			String w2 = rhymes.get(r.nextInt(rhymes.size()));
+			String w2 = null;
+			if (rhymes.size() != 0)
+				w2 = rhymes.get(r.nextInt(rhymes.size()));
 			String sentence = this.gen_sentence_helper(word, w2);
 			double score = this.score_sentence(sentence, word);
 			System.out.println(score + ":\t" + sentence);
@@ -74,7 +126,8 @@ public class SentenceGen
 	{
 		this.context.words.clear();
 		this.context.words.add(word1);
-		this.context.words.add(word2);
+		if (word2 != null)
+			this.context.words.add(word2);
 		NLGElement phrase = SimpleSentence.generate(context);
 		//System.out.println(phrase.printTree(" "));
 		return realiser.realiseSentence(phrase);
@@ -86,15 +139,15 @@ public class SentenceGen
 		String[] toks = sentence.split("\\s+");
 		String last_word = toks[toks.length - 1];
 		last_word = last_word.substring(0, last_word.length() - 1); // strip period
-		int target_syb = 7;//this.prodict.numSyllables(w1 + " " + w2) + (2 * 3);  // A is for ____.  B is for ____
+		int target_syb = 8;//this.prodict.numSyllables(w1 + " " + w2) + (2 * 3);  // A is for ____.  B is for ____
 		int num_syb = this.prodict.numSyllables(sentence);
 		double syb_mult = 0.0;
 		if (num_syb >= target_syb)
 		{
-			if (num_syb - target_syb <= 3)
+			if (num_syb - target_syb <= 2)
 				syb_mult = 1.0;
 			else
-				syb_mult = 2.0 /  (num_syb - target_syb - 1);
+				syb_mult = 2.0 /  (num_syb - target_syb);
 		} else 
 		{
 			if (target_syb - num_syb >= 2)

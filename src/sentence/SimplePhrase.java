@@ -22,6 +22,7 @@ public class SimplePhrase
 		NLGElement subj = null;
 		NLGElement dobj = null;
 		VPPhraseSpec pred = null;
+		PPPhraseSpec prep = null;
 		SPhraseSpec phrase = null;
 
 		// ensure operations are done in random order
@@ -65,8 +66,8 @@ public class SimplePhrase
 					break;
 				case 3:
 					// prep phrase
-					throw new UnsupportedOperationException("Prep Phrase");
-					//break;
+					prep = PrepPhrase.generate(context);
+					break;
 				default:
 					throw new RuntimeException("Unrecognized op");
 			}
@@ -76,6 +77,15 @@ public class SimplePhrase
 			phrase = context.getNLGFactory().createClause(subj, pred, dobj);
 		else
 			phrase = context.getNLGFactory().createClause(subj, pred);
+
+		if (prep != null)
+		{
+			// don't interfere with rhyming
+			if (context.rand())
+				phrase.addFrontModifier(prep);
+			else
+				phrase.addPreModifier(prep);
+		}
 		return phrase;
 	}
 
